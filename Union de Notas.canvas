@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3047935c85a37ff3","x":-351,"y":-211,"width":400,"height":400,"type":"file","file":"Notas De clase/Seguridad.md"},
+		{"id":"7cf79e8961f4c77e","x":308,"y":-12,"width":400,"height":400,"type":"file","file":"Excalidraw/Diferencia de Asincrono y sincrono.md"}
+	],
+	"edges":[
+		{"id":"be8800fe3ca28e95","fromNode":"7cf79e8961f4c77e","fromSide":"left","toNode":"3047935c85a37ff3","toSide":"right"}
+	]
+}
