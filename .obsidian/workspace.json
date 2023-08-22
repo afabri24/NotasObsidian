@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b5fc96b927a2ec5",
+            "id": "db67e9c97ca6635d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Graficacion.md",
+                "file": "Notas De clase/Seguridad.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "db67e9c97ca6635d",
+            "id": "198def4cab0e0fd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Metodología de Desarrollo.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Introduccion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Graficacion.md",
+                "file": "Notas De clase/Metodología de Desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Graficacion.md",
+                "file": "Notas De clase/Metodología de Desarrollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Graficacion.md"
+                "file": "Notas De clase/Metodología de Desarrollo.md"
               }
             }
           },
@@ -199,19 +200,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b5fc96b927a2ec5",
+  "active": "198def4cab0e0fd6",
   "lastOpenFiles": [
     "Notas De clase/Seguridad.md",
+    "Notas De clase/Metodología de Desarrollo.md",
+    "Notas De clase/Integraciones de Soluciones.md",
+    "README.md",
+    "Notas De clase/Graficacion.md",
     "Union de Notas.canvas",
     "Untitled.canvas",
-    "Notas De clase/Integraciones de Soluciones.md",
     "Excalidraw/Diferencia de Asincrono y sincrono.md",
     "Excalidraw",
     "Base de las notas.md",
-    "Notas De clase/Graficacion.md",
     "Untitled",
     "Excalidraw/Drawing 2023-08-06 14.58.14.excalidraw.md",
-    "Notas De clase",
-    "README.md"
+    "Notas De clase"
   ]
 }

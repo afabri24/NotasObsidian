@@ -36,12 +36,15 @@ Sigue siendo la parte 1:
 	-Creacion de Apps para dispositivos iOS
 
 
-	|Criterio de Evaluación| puntaje|
-	|Examen|30|
-	
-Actividades 20
-Tareas 10 
-Proyecto 40
+| Criterio de Evaluacion | Puntaje |
+| ---------------------- | ------- |
+| Examen                 | 30      |
+| Tareas                 | 10      |
+| Actividades            | 20      |
+| Proyecto               | 40      |
+
+---
+#Introduccion
 
 La *Computación Orientada a Servicios* es un paradigma de desarrollo que posibilita la construcción y ejecución de aplicaciones de usuario en ambientes distribuidos heterogéneos mediante la composición y el ensamblado de funcionalidad existente o servicio
 
@@ -61,6 +64,8 @@ La estrategia de orientación a servicios permite la creación de servicios y ap
 [![Arquitectura Orientada a Servicios (SOA) | Ingeniería del Software UAH](https://ingenieriadelsoftwareuah2015.files.wordpress.com/2015/03/soa-11.jpg)
 
 A la hora de desarrollar, en lugar de crear aplicaciones enormes y muy complejas, se desarrollan componentes reutilizables que son fáciles de mantener y probar
+
+[[Diferencia de Asincrono y sincrono]]
 
 Esta arquitectura basada en servicios requiere una infraestructura de comunicaciones escalable y segura entre los componentes que se convierte en el eje vertebrado de todos los sistemas de la organización y que se conoce como *Enterprise Service Bus o Bus empresarial*
 
