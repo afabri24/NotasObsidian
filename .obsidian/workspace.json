@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db67e9c97ca6635d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Diferencia de Asincrono y sincrono.md"
-              }
-            }
-          },
-          {
             "id": "198def4cab0e0fd6",
             "type": "leaf",
             "state": {
@@ -42,24 +32,19 @@
             }
           },
           {
-            "id": "b919c60972be8e14",
+            "id": "f2bc258f08adbcca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3fee6a1392d48d0b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 10.14.18.excalidraw.md"
+                "file": "Notas De clase/Proyecto Integrador.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Diferencia de Asincrono y sincrono.md",
+                "file": "Notas De clase/Proyecto Integrador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Diferencia de Asincrono y sincrono.md",
+                "file": "Notas De clase/Proyecto Integrador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Diferencia de Asincrono y sincrono.md"
+                "file": "Notas De clase/Proyecto Integrador.md"
               }
             }
           },
@@ -178,7 +163,7 @@
             }
           },
           {
-            "id": "dba1d5e389f5d2ed",
+            "id": "18c10fca0a5dccae",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -186,7 +171,7 @@
             }
           },
           {
-            "id": "3c1b136213f7aa96",
+            "id": "ea27cd0906271e39",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -215,18 +200,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db67e9c97ca6635d",
+  "active": "f2bc258f08adbcca",
   "lastOpenFiles": [
+    "Notas De clase/Graficacion.md",
+    "Notas De clase/Proyecto Integrador.md",
+    "Excalidraw/Diferencia de Asincrono y sincrono.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Seguridad.md",
     "Notas De clase/Metodología de Desarrollo.md",
     "Excalidraw/Drawing 2023-08-23 10.14.18.excalidraw.md",
-    "Untitled.md",
     "README.md",
-    "Notas De clase/Graficacion.md",
     "Union de Notas.canvas",
     "Untitled.canvas",
-    "Excalidraw/Diferencia de Asincrono y sincrono.md",
     "Excalidraw",
     "Base de las notas.md",
     "Untitled",
