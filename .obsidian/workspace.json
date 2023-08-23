@@ -42,9 +42,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b919c60972be8e14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fee6a1392d48d0b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-23 10.14.18.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Excalidraw/Drawing 2023-08-23 10.14.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Excalidraw/Drawing 2023-08-23 10.14.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md"
+                "file": "Excalidraw/Drawing 2023-08-23 10.14.18.excalidraw.md"
               }
             }
           },
@@ -163,7 +181,7 @@
             }
           },
           {
-            "id": "cbad7a5c74093aa3",
+            "id": "dba1d5e389f5d2ed",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -171,19 +189,19 @@
             }
           },
           {
-            "id": "ff45fe23280ea74b",
+            "id": "3c1b136213f7aa96",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +218,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "198def4cab0e0fd6",
+  "active": "3fee6a1392d48d0b",
   "lastOpenFiles": [
-    "Notas De clase/Seguridad.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-08-23 10.14.18.excalidraw.md",
     "Notas De clase/Metodología de Desarrollo.md",
+    "Notas De clase/Seguridad.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "README.md",
     "Notas De clase/Graficacion.md",
