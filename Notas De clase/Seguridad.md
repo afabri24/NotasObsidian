@@ -65,3 +65,32 @@ Cuestiones legales
 	-Asuntos legales Corporativos
 	-Derecho internacional y ciberseguridad
 
+Cuestiones éticas:
+	-Asuntos éticos personales
+	-Cuestiones éticas corporativas
+La ciberseguridad es una profesion crucial en la era digital actual, donde las amenazas ciberneticas y los atacantes informaticos son cada vez mas sostificados y frecuentes
+
+Los profesionales de la ciberseguridad son responsables de proteger los sistemas, rdes,datos y recursos digitales de individuos,empresas y organizaciones contra posibles amesnazas o ataques
+
+dentro del área ciberseguridad asi como en la informatica, existen areas de desempeño en lo que se puede especializar como:
+	-Analista de seguidad
+	-Ingeniero de seguidad
+	-Penetration Tester
+	-Analista de incidentes de seguridad
+	-Aquitecto de seguridad
+	-Especialista forense
+	-Gestor de seguidad
+	-Consultor de seguridad
+
+para convertirse en un profesional de ciberseguridad, generalmente se requiere un solido conocimiento de sistemas informaticos, redes, programacion, Criptografia, amenazas ciberneticas configuracion servidor entre otros
+
+Muchos profesionales en este campo obtienen certificaciones relevantes. 
+
+Certificaciones ejemplo:
+Certified information Systems Security Profesional(CISSP)
+CISM
+CEH
+compTIA security+
+Certified Cloud Security Profesional(CCSP)
+cisco certified cyberOps Asociate
+CNDA
