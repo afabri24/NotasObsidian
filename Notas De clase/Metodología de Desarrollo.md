@@ -87,3 +87,5 @@ El modelo de desarrollo concurrente
 Modelo de desarrollo basado en componentes
 	Su aparacion tiene mucho que vercon el paradigma de ka programacion orientada a objetos
 	Para crar un software basado en esta metodologia primero se escogen las clases candidatas
+	Ventajas:
+		El codigo de las clases es reutilizable dentro del mismo software 

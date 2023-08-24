@@ -138,18 +138,18 @@
             }
           },
           {
-            "id": "4e6af478fc57a040",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "554fab029923763c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "af7de94df359a705",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -175,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "554fab029923763c",
+  "active": "af7de94df359a705",
   "lastOpenFiles": [
     "Imagenes",
     "Imagenes/7711b4fb26cf031184748f8a0923a285_MD5.png",
