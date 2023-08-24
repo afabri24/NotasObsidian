@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Notas De clase/Seguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md"
+                "file": "Notas De clase/Seguridad.md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,12 +179,12 @@
   },
   "active": "95ceb9b6b903ea8a",
   "lastOpenFiles": [
+    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Untitled.canvas",
     "Excalidraw/Diferencia de Asincrono y sincrono.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Metodología de Desarrollo.md",
-    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Imagenes",
     "Imagenes/7711b4fb26cf031184748f8a0923a285_MD5.png",
     "Imagenes/81ef61a0aad74d952fc11b84a6e81e61_MD5.jpg",

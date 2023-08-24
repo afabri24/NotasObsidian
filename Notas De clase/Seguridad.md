@@ -56,3 +56,12 @@ Propiedad intelectual dañada
 
 Tipos de atacantes:
 Los atacantes son personas o grupos que intentan aprovechar las vulnerabilidades para obtener una ganancia o financiero
+
+#clase24/08
+Seguridad como profesión:
+
+Cuestiones legales
+	-Asuntos legales personales
+	-Asuntos legales Corporativos
+	-Derecho internacional y ciberseguridad
+
