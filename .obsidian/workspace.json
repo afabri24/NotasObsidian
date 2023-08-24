@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "6b1c8847bafeb2ee",
+            "id": "ffab434eed6eff42",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "89ef24db7097bb75",
+            "id": "95ceb9b6b903ea8a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -176,7 +176,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bb64dde6cf933b5",
+  "active": "95ceb9b6b903ea8a",
   "lastOpenFiles": [
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Untitled.canvas",
