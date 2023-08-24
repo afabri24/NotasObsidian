@@ -7,7 +7,10 @@ Excalidraw/Diferencia de Asincrono y sincrono.md#Drawing
 Excalidraw/Diferencia de Asincrono y sincrono.md#Text Elements
 Notas De clase/Graficacion.md
 Notas De clase/Integraciones de Soluciones.md
+Notas De clase/Interfaces de Usuario Avanzadas.md
+Notas De clase/Metodología de Desarrollo.md
 Notas De clase/Proyecto Integrador.md
 Notas De clase/Seguridad.md
 README.md
 Union de Notas.canvas
+Untitled.canvas

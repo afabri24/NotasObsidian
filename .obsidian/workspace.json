@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b98ee7b21605beef",
+            "id": "f24c99d4d5ae2e5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md"
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "554fab029923763c",
+            "id": "c72e7ed7956d90fa",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "af7de94df359a705",
+            "id": "829b9d1de78fe723",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,22 +176,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af7de94df359a705",
+  "active": "f24c99d4d5ae2e5d",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/Diferencia de Asincrono y sincrono.md",
+    "Notas De clase/Integraciones de Soluciones.md",
+    "Notas De clase/Metodología de Desarrollo.md",
+    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Imagenes",
     "Imagenes/7711b4fb26cf031184748f8a0923a285_MD5.png",
     "Imagenes/81ef61a0aad74d952fc11b84a6e81e61_MD5.jpg",
-    "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Proyecto Integrador.md",
     "Excalidraw/Concepto de videoJuego.md",
-    "Excalidraw/Diferencia de Asincrono y sincrono.md",
     "Notas De clase/Graficacion.md",
     "2023-09-04 Incripciones Exaver.md",
-    "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Seguridad.md",
     "README.md",
     "Union de Notas.canvas",
-    "Untitled.canvas",
     "Excalidraw",
     "Base de las notas.md",
     "Excalidraw/Drawing 2023-08-06 14.58.14.excalidraw.md",
