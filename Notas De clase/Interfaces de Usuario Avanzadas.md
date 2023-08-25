@@ -12,3 +12,16 @@ individual o en equipo(máximos 3 integrantes)
 entregas periódicas de avances
 documentación y prototipo
 
+#Introduccion 
+
+Video:
+Interacion de usuario 
+[[Video Introduccion Interfaces Usuario Avanzadas]]
+
+
+Percepción del usuario:
+	-Vista
+	-Oido
+	-Gusto
+	-Olfato
+	-Tacto

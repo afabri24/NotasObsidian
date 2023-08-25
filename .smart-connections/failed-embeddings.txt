@@ -5,6 +5,10 @@ Excalidraw/Concepto de videoJuego.md
 Excalidraw/Diferencia de Asincrono y sincrono.md
 Excalidraw/Diferencia de Asincrono y sincrono.md#Drawing
 Excalidraw/Diferencia de Asincrono y sincrono.md#Text Elements
+Excalidraw/Drawing 2023-08-25 07.24.34.excalidraw.md
+Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md
+Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md#Drawing
+Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md#Text Elements
 Notas De clase/Graficacion.md
 Notas De clase/Integraciones de Soluciones.md
 Notas De clase/Interfaces de Usuario Avanzadas.md
