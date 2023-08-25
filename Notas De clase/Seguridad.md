@@ -94,3 +94,12 @@ compTIA security+
 Certified Cloud Security Profesional(CCSP)
 cisco certified cyberOps Asociate
 CNDA
+
+[[d963da1e919336842f80f7aa94e1d12a_MD5.png|Open: Pasted image 20230824200758.png]]
+![[d963da1e919336842f80f7aa94e1d12a_MD5.png]]
+[[ee9957adf17dcd0f22922032a28b77bd_MD5.png|Open: Pasted image 20230824200828.png]]
+![[ee9957adf17dcd0f22922032a28b77bd_MD5.png]]
+[[4025d363e471e65a1f69554feedab16c_MD5.png|Open: Pasted image 20230824200933.png]]
+![[4025d363e471e65a1f69554feedab16c_MD5.png]]
+[[50dd10191ed4b8713d83594ef5f8f3ef_MD5.png|Open: Pasted image 20230824201002.png]]
+![[50dd10191ed4b8713d83594ef5f8f3ef_MD5.png]]
