@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "ffab434eed6eff42",
+            "id": "05a77d039040bca6",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "95ceb9b6b903ea8a",
+            "id": "ac0960adbfbb2523",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -158,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +176,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f24c99d4d5ae2e5d",
+  "active": "ac0960adbfbb2523",
   "lastOpenFiles": [
     "50dd10191ed4b8713d83594ef5f8f3ef_MD5.png",
     "4025d363e471e65a1f69554feedab16c_MD5.png",
