@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Proyecto Integrador.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Proyecto Integrador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Proyecto Integrador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md"
+                "file": "Notas De clase/Proyecto Integrador.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "74ca5dad2b2bbb76",
   "lastOpenFiles": [
-    "Union de Notas.canvas",
     "Notas De clase/Integraciones de Soluciones.md",
+    "Union de Notas.canvas",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Proyecto Integrador.md",
