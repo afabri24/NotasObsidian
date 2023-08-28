@@ -84,4 +84,8 @@ Servicios web:
 Es una tecnologia que utiliza un conjunto de protocolos y estandares que sirven para intercambiar datos entre aplicaciones
 
 Un servicio Web o WebService es un servicio ofrecido por una aplicación que expone su lógica a clientes de cualquier plataforma mediante una interfaz accesible a través de la red utilizando tecnologías(protocolos) estándar de internet
-
+	-Se encuentra disponible a través de internet o una intranet
+	-Usa una forma estandarizada de mensajería(generalmente XML)
+	-No se encuentra atado a ningún sistema operativo ni ningún lenguaje de programación
+	-Se puede auto describir (generalmente via XML)
+	-Puede ser descubierto a traves de un mecanismo de busqueda
