@@ -11,15 +11,31 @@
             "id": "894211c396b64697",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Union de Notas.canvas",
+                "viewState": {
+                  "x": 254.40786154708496,
+                  "y": 191.73469170403587,
+                  "zoom": -0.3850904978219667
+                }
+              }
+            }
+          },
+          {
+            "id": "74ca5dad2b2bbb76",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md"
+                "file": "Notas De clase/Integraciones de Soluciones.md"
               }
             }
           },
@@ -146,7 +162,7 @@
             }
           },
           {
-            "id": "bccd8ea54044c1ec",
+            "id": "1d86a2cc3175529a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -154,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,13 +192,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bccd8ea54044c1ec",
+  "active": "74ca5dad2b2bbb76",
   "lastOpenFiles": [
+    "Union de Notas.canvas",
+    "Notas De clase/Integraciones de Soluciones.md",
+    "Notas De clase/Interfaces de Usuario Avanzadas.md",
+    "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Seguridad.md",
-    "Notas De clase/Metodología de Desarrollo.md",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
-    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Imagenes/50dd10191ed4b8713d83594ef5f8f3ef_MD5.png",
     "Imagenes/4025d363e471e65a1f69554feedab16c_MD5.png",
     "Imagenes/ee9957adf17dcd0f22922032a28b77bd_MD5.png",
@@ -190,7 +208,6 @@
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Untitled.canvas",
     "Excalidraw/Diferencia de Asincrono y sincrono.md",
-    "Notas De clase/Integraciones de Soluciones.md",
     "Imagenes",
     "Imagenes/7711b4fb26cf031184748f8a0923a285_MD5.png",
     "Imagenes/81ef61a0aad74d952fc11b84a6e81e61_MD5.jpg",
@@ -198,7 +215,6 @@
     "Notas De clase/Graficacion.md",
     "2023-09-04 Incripciones Exaver.md",
     "README.md",
-    "Union de Notas.canvas",
     "Excalidraw",
     "Base de las notas.md",
     "Excalidraw/Drawing 2023-08-06 14.58.14.excalidraw.md",

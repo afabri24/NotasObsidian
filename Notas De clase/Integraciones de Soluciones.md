@@ -67,8 +67,10 @@ A la hora de desarrollar, en lugar de crear aplicaciones enormes y muy complejas
 
 [[Diferencia de Asincrono y sincrono]]
 
-Esta arquitectura basada en servicios requiere una infraestructura de comunicaciones escalable y segura entre los componentes que se convierte en el eje vertebrado de todos los sistemas de la organización y que se conoce como *Enterprise Service Bus o Bus empresarial*
+Esta arquitectura basada en servicios requiere una infraestructura de comunicaciones escalable y segura entre los componentes que se convierte en el eje vertebrado de todos los sistemas de la organización y que se conoce como *Enterprise Service Bus o Bus empresarial
 
+
+soa: LLamada orientadas a servicios
 
 Para SOA es indeferente la tecnologia que utilicemos, sin embargo, la tecnologia de Web Services o servicios Web es una de las que mas notoriedad ha conseguido.
 
@@ -76,3 +78,10 @@ Beneficios
 	-Eficiencia
 	-Capacidad
 	-Adaptabilidad
+
+
+Servicios web:
+Es una tecnologia que utiliza un conjunto de protocolos y estandares que sirven para intercambiar datos entre aplicaciones
+
+Un servicio Web o WebService es un servicio ofrecido por una aplicación que expone su lógica a clientes de cualquier plataforma mediante una interfaz accesible a través de la red utilizando tecnologías(protocolos) estándar de internet
+
