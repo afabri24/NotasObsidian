@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "05a77d039040bca6",
+            "id": "27d142b9ab6fbf89",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -146,7 +146,7 @@
             }
           },
           {
-            "id": "ac0960adbfbb2523",
+            "id": "bccd8ea54044c1ec",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -176,7 +176,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "894211c396b64697",
+  "active": "bccd8ea54044c1ec",
   "lastOpenFiles": [
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Seguridad.md",
