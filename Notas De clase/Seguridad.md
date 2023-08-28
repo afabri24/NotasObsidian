@@ -103,3 +103,33 @@ CNDA
 ![[4025d363e471e65a1f69554feedab16c_MD5.png]]
 [[50dd10191ed4b8713d83594ef5f8f3ef_MD5.png|Open: Pasted image 20230824201002.png]]
 ![[50dd10191ed4b8713d83594ef5f8f3ef_MD5.png]]
+
+Que es un estándar?
+ Un estándar es un conjunto de reglas, normas o directrices que se establecen para para lograr un nivel de uniformidad, calidad o compatibilidad en un determinado contexto. Los estándares son creados y adoptados por organizaciones o entidades con el propósito de establecer un marco común que asegure la consistencia, la interoperabilidad y la confiabilidad de los campos
+
+
+Algunas organizaciones mas importantes sobre la estadarizacion se encuentran:
+	-ISO(Organizacion Internacional de Normalizacion):Desarrolla estandares internacionales en una amplia varidad de campos
+	-IEEE
+	-NIEST
+	-ANSI
+
+Familia ISO/27000
+	se refiere a una serie de estandares ineternacionales relacionados con la gestion de la seguridad de la informacion. Estos estandares son desarrollados por la ISO y se centran en propocionar un marco de trabajo para establecer, implementar 
+		-ISO 27001: Sistema de Gestion de seguidad de la información(SGSI)
+		-ISO 27002: Codigo de practica para controles de seguidad de la informacion
+		-ISO 27005: Gestion de resgos de seguidad de la informacion
+		-ISO 27003: Guia de implementacion de SGSI
+		-ISO 27017 y ISO 27018: Guias pa la seguidad en la nube
+		
+| 1                 | 2                               |
+| ----------------- | ------------------------------- |
+| vocabulario comun | ISO 27000                       |
+| Requisitos        | ISO 27001,ISO 27006, ISO 270009 |
+
+
+
+
+
+
+

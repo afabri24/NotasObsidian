@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Proyecto Integrador.md",
+                "file": "Notas De clase/Seguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Proyecto Integrador.md",
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Proyecto Integrador.md",
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Proyecto Integrador.md"
+                "file": "Notas De clase/Seguridad.md"
               }
             }
           },
@@ -194,11 +194,11 @@
   },
   "active": "74ca5dad2b2bbb76",
   "lastOpenFiles": [
+    "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Union de Notas.canvas",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Metodología de Desarrollo.md",
-    "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Seguridad.md",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "Imagenes/50dd10191ed4b8713d83594ef5f8f3ef_MD5.png",
