@@ -73,9 +73,9 @@ Enfoque cíclico
 
 Modelo WIN & WIN
 	Barry Boehem 19888
-	Basado enteoria de administracion de sistemas
+	Basado en teoria de administracion de sistemas
 	Filosofia Win & Win
-	Su objetivo es el mostrar los requirimentos dak cliente
+	Su objetivo es el mostrar los requirimentos del cliente
 	[[7711b4fb26cf031184748f8a0923a285_MD5.png|Open: espiral.png]]
 ![[7711b4fb26cf031184748f8a0923a285_MD5.png]]
 El modelo de desarrollo concurrente
@@ -85,7 +85,7 @@ El modelo de desarrollo concurrente
 	de aplicaciones de cliente/servidor
 
 Modelo de desarrollo basado en componentes
-	Su aparacion tiene mucho que vercon el paradigma de ka programacion orientada a objetos
-	Para crar un software basado en esta metodologia primero se escogen las clases candidatas
+	Su aparición tiene mucho que ver con el paradigma de la programacion orientada a objetos
+	Para crear un software basado en esta metodologia primero se escogen las clases candidatas
 	Ventajas:
 		El codigo de las clases es reutilizable dentro del mismo software 
