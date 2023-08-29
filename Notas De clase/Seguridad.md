@@ -161,3 +161,18 @@ El codigo Penal Federal en Mexico es el conjunto de leyes que establecen los del
 	Articulo 387 Ter:
 	Articulo 210 Ter:
 	Articulo 211
+
+leyes de transparencia y acceso a la informacion:
+	1. principios de transparencia
+	2. informacion publica
+	3. Portales de transparencia
+	4. solicitud de informacion
+	5. sujetos obligados
+	6. proteccion de datos personales
+
+
+Articulo 63
+
+Articulo 64
+
+ley de proteccion de datos personales en posesion de particulares
