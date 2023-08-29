@@ -134,3 +134,4 @@ Descripcion del Servicio:
 			 Que datos son enviados desde un nodo a otro
 		 Limite:
 			 Es la descripción del protocolo que se esta utilizando para transportar el mensaje que puede ser HTTP, Post, HTTP, GET, SOAP y MIME
+
