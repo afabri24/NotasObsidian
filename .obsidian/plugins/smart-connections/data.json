@@ -1,5 +1,5 @@
 {
-  "api_key": "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",
+  "api_key": "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",
   "chat_open": true,
   "file_exclusions": "",
   "folder_exclusions": "",
@@ -22,11 +22,17 @@
     "Base de las notas.md",
     "Excalidraw/Concepto de videoJuego.md",
     "Excalidraw/Diferencia de Asincrono y sincrono.md",
+    "Excalidraw/Drawing 2023-08-25 07.24.34.excalidraw.md",
+    "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "Notas De clase/Graficacion.md",
     "Notas De clase/Integraciones de Soluciones.md",
+    "Notas De clase/Interfaces de Usuario Avanzadas.md",
+    "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Seguridad.md",
     "README.md",
-    "Union de Notas.canvas"
-  ]
+    "Union de Notas.canvas",
+    "Untitled.canvas"
+  ],
+  "license_key": ""
 }

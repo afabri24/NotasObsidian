@@ -128,8 +128,36 @@ Familia ISO/27000
 | Requisitos        | ISO 27001,ISO 27006, ISO 270009 |
 
 
+**Normatividad:**
+Las normas documentos técnico-legales establecidos por una autoridad o una organización reconocida con el fin de estandarizar y regular aspectos específicos de la actividad humana. Estas reglas buscan establecer un marco de de referencia común que garantice la uniformidad, la calidad, la seguridad y interoperabilidad en diversos campos desde la tecnología y la industria hasta la salud, el medio ambiente y mas 
+	- contienen especificaciones técnicas de aplicación voluntaria
+	- son elaborados por conceso de las partes interesadas
+	- están basados de la experiencia y el desarrollo tecnológico
+	- son aprobados por un organismo nacional, regional y estatal
 
+Norma: 
+Es una especificación reglamentaria para conseguir un grado optimo en la calidad. Estas se elaboran por instituciones que a base de la experiencia y desarrollo tecnológico son aprobadas por conceso
 
+Estándar:
+Son normas aprobadas y redactadas establecidas establecidas para garantizar el acoplamiento de elementos que se construyen de forma independiente, con forma independiente, con la finalidad de garantizar un repuesto en caso de ser necesario
 
+Principales organizacuones de normalizacion y estardarizacion:
+	-TIA
+	-ANSI
+	-EIA
+	-ISO
+	-IEEE
+	-NOM
+	-NMX
+	-NORMAS MEXICANAS IMNC
 
-
+Codigo Penal Federal:
+El codigo Penal Federal en Mexico es el conjunto de leyes que establecen los delitos y las sanciones penales que se aplican a nivel federal en el pais. 
+	Articulo 211 Bis
+		- Este establece penas para quien modifique, destruye, dañe, copie o sustraiga informacion contenida en sistemas o equipos informaticos
+	 Articulo 284 Bis
+		 - Este articulo contepla para quien, sin autorizacion, acceda, intercepte, modifique o destruya contenida en sistemas o equipos informaticos
+	Articulo 386 Bis:
+	Articulo 387 Ter:
+	Articulo 210 Ter:
+	Articulo 211
