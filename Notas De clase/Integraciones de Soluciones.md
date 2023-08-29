@@ -135,3 +135,25 @@ Descripcion del Servicio:
 		 Limite:
 			 Es la descripción del protocolo que se esta utilizando para transportar el mensaje que puede ser HTTP, Post, HTTP, GET, SOAP y MIME
 
+#IntegracionSolucionesClase29/08/23
+
+Estilo Arquitectonico REST
+REST(Representational State Transfer) es una forma ligera de crear servicios web
+El elemento principal en el que se basan estos servicios son las URLs. En general podemos decir que estos servicios consisten en URLs a las que podemos acceder, por ejemplo mediante el protocolo HTTP, para obtener información o realizar una operación
+
+El formato de la informacion que se intercambie con estas URLs lo decidira el desarrollador del servicio
+
+Este tipo de servicios acercan los Servicios Web al tipo de aquitectura de la web, siendo especialmente interesantes para utilizacion en AJAX
+
+Debe ser un sistema cliente-servidor
+
+Tiene que ser sin estado, es decir no hay nacesidad de que los servicios guarden las sesiones de los usuarios(cada peticion al servicio tiene que ser independinte de las demas)
+
+Debe soportar un sistema de caches: la infraestructura de la red debería soportar cache en diferentes niveles
+
+Debe ser un sistema uniformente accesible( con una interfaz uniforme): cada recurso debe tener una unica direccion y un punto valido de acceso. Los recursos se identifican con URIs, lo cual proporciona un espacio de direccionamiento global para el descubrimiento del servicio y de los recursos
+
+
+Tiene que ser un sistema por capas: por lo tanto debe soportar escalibilidad
+
+Debe utilizar mensajes auto-descriptivos: los recursos se desacoplan de sus represntacion de forma que puedan ser accedidos en una variedad de formatos, como por ejemplo XML,HTML,Textoplano,PDF,JPEG,JSON,etc.
