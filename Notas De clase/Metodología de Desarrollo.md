@@ -144,3 +144,28 @@ Adaptative Softw Development
 
 
 la moayoria de las metodologias actuales de hoy en dia estan basadoas en el modelo del proceso Unificado de desarrollo RUP
+
+SCRUM:
+
+Es un proceso de ingenieria de software iterativo para desarrollar y entregar software
+
+Marco de trabajo agil para la gestion de proyectos
+	- Marco de trabajo iterativo e incremental
+	- Util para el desarrollo de proyectos, productos y aplicaciones
+	- Estructura el desarrollo en ciclos de trabajo llamados Sprints
+	- Las iteraciones son 2-4 semanas
+	- La duracion de los spint es fija
+	- Un equipo multidiciplinar, al comienzo de cada Sprint eligen los requisitos del cliente de una lista priorizada
+	- Se hace un compromiso de terminar los elementos al terminar el Sprint
+	- No se permite hacer cambios
+
+roles:
+Product owner: Responsable de maximizar el valor del producto
+Scrum master: Responsable de asegurara los procesos
+Scrum team: Responsable de realizar el Trabajo
+
+1. Requirimientos
+2. Planeacion
+3. Sprint
+4. Reunion diaria
+5. Producto incremental
