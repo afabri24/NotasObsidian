@@ -141,3 +141,6 @@ Algunas metodologias agiles:
 Cystal methodologies
 Dynamic Systems Development method
 Adaptative Softw Development
+
+
+la moayoria de las metodologias actuales de hoy en dia estan basadoas en el modelo del proceso Unificado de desarrollo RUP
