@@ -169,3 +169,14 @@ Scrum team: Responsable de realizar el Trabajo
 3. Sprint
 4. Reunion diaria
 5. Producto incremental
+
+Estructura de Scurm
+	Concepto:
+		- Se crea la vision del producto o servicio que quiere obtener
+		- Se decide y selecciona al equpo de personas que lo llevara a acabo
+	Especulacion:
+		-Parte de la vision y el alcance del proyecto
+		-Se determinan las limitaciones
+	Exploracion:
+	Revision:
+	Cierre:
