@@ -89,3 +89,6 @@ Modelo de desarrollo basado en componentes
 	Para crear un software basado en esta metodologia primero se escogen las clases candidatas
 	Ventajas:
 		El codigo de las clases es reutilizable dentro del mismo software 
+
+Metodos agiles(adaptativos)
+

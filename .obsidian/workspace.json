@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "65834588694dedf0",
+            "id": "e67fa440e60d0669",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "1793ce898a0f7ae3",
+            "id": "2247fc8876583e22",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,14 +192,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1793ce898a0f7ae3",
+  "active": "74ca5dad2b2bbb76",
   "lastOpenFiles": [
+    "Notas De clase/Graficacion.md",
+    "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Seguridad.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Integraciones de Soluciones.md",
-    "Notas De clase/Graficacion.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
-    "Notas De clase/Metodología de Desarrollo.md",
     "Union de Notas.canvas",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "Imagenes/50dd10191ed4b8713d83594ef5f8f3ef_MD5.png",
