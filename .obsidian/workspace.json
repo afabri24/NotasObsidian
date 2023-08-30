@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Metodología de Desarrollo.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Metodología de Desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Metodología de Desarrollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Seguridad.md"
+                "file": "Notas De clase/Metodología de Desarrollo.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "8054f84aa601ca10",
+            "id": "65834588694dedf0",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "8b050c7bc976e300",
+            "id": "1793ce898a0f7ae3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -192,14 +192,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8054f84aa601ca10",
+  "active": "1793ce898a0f7ae3",
   "lastOpenFiles": [
+    "Notas De clase/Seguridad.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Graficacion.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Metodología de Desarrollo.md",
-    "Notas De clase/Seguridad.md",
     "Union de Notas.canvas",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "Imagenes/50dd10191ed4b8713d83594ef5f8f3ef_MD5.png",
