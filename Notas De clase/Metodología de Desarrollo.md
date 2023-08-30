@@ -90,5 +90,54 @@ Modelo de desarrollo basado en componentes
 	Ventajas:
 		El codigo de las clases es reutilizable dentro del mismo software 
 
-Metodos agiles(adaptativos)
+Métodos agiles(adaptativos)
 
+El modelado del proceso de desarrollo de software es una actividad cansada y tediosa
+
+Los ingeniero s de software deben estar conscientes de la importancia de una buena documentación
+
+sobre todo en proyectos grandes que necesitarían un mantenimiento futuro
+ni el mejor programador esta libre de errores y la memoria falla
+
+Existen proyectos cuyos requisitos son muy cambiantes y en donde el equipo de desarrollo debe estar capacitado para adaptar los cambios al proyecto, además de corto de tiempo
+
+en febrero de 2001 se reune un grupo de 17 expertos en el area, en Utah USA, para discutir estos problemas
+
+Surgio el termino Agil en el desarroolo de software:
+desarrollar proyectos pequeños de software en corto tiempo
+evitar las abrumadoras tareas de la metodologias tradicionales
+
+Individuos e interacciones sobre procesos y herramientas  
+Software funcionando sobre documentación extensiva  
+Colaboración con el cliente sobre negociación contractual  
+Respuesta ante el cambio sobre seguir un plan
+
+
+1. Satisfacer a los clientes a través de la entrega temprana y continua. Cuando los clientes reciben actualizaciones con regularidad, es más probable que vean los cambios que desean dentro del producto. La consecuencia es que los clientes son más felices y están más satisfechos; además de que hay más recaudación recurrente. En el Agile Manifestó es clave deleitar al cliente.
+    
+2. Aceptamos que los requisitos cambien, incluso en etapas tardías del proyecto. El eje fundamental de los esquemas ágiles es la adaptabilidad. En procesos iterativos como los ágiles, la flexibilidad causa más bien que mal. 
+    
+3. Hacemos entregas valiosas con frecuencia. Este principio es similar al primero, efectuamos entregas valiosas a los clientes con frecuencia y por eso es menos probable que los perdamos. 
+    
+4. Rompemos con el aislamiento en los proyectos. La colaboración es la clave de la estrategia ágil. El objetivo es que las personas superen sus propios proyectos individuales y colaboren juntas con mayor frecuencia
+    
+5. Desarrollamos proyectos con personas motivadas. La metodología ágil funciona mejor cuando los integrantes de los equipos se sienten comprometidos con lo que hacen y trabajan activamente para alcanzar algún objetivo. 
+    
+6. El modo más eficiente de comunicar es con conversaciones cara a cara. Si bien es cierto que el trabajo ha cambiado radicalmente desde 2001 a la fecha, la percepción con respecto a esta declaración aún tiene vigencia. Si trabajas en un equipo descentralizado, dedica tiempo a comunicarte de maneras que incluyan algún tipo de comunicación cara a cara, como las videollamadas por Zoom. 
+    
+7. El software en funcionamiento es el principal indicador del progreso. Lo más importante es que los equipos se esfuercen (con la aplicación de estos esquemas de trabajo ágiles) por desarrollar los productos. En el Agile Manifesto se estable un objetivo prioritario: la entrega de software que funciona por sobre cualquier otra cosa.
+    
+8. Mantenemos un ritmo de trabajo constante. Algunos aspectos de las metodologías ágiles pueden tener un ritmo acelerado, pero nada debería ser tan rápido como para que los miembros del equipo terminen padeciendo [agotamiento](https://asana.com/es/resources/what-is-burnout). El objetivo es mantener la constancia a lo largo del proyecto.
+    
+9. La excelencia continua favorece la agilidad. Si el equipo desarrolla un código excelente en un sprint, podrá basarse en ese mismo código para el siguiente desarrollo. La generación continua de trabajos de excelencia permite que los equipos avancen más rápido a medida que transcurre el tiempo. 
+    
+10. La simplicidad es esencial. A veces, la solución más simple es la mejor. Las metodologías ágiles apuntan a no complicar demasiado las cosas y a hallar respuestas simples para problemas complejos. 
+    
+11. La organización interna y autónoma de los equipos genera resultados más valiosos. En cierto modo, es similar al quinto principio. Los equipos en los que se trabaja con proactividad producen activos más valiosos para la empresa, ya que se esfuerzan por aportar ese valor.
+    
+12. Con regularidad, el equipo reflexiona y adapta las formas de trabajo para favorecer la efectividad. Las reuniones para análisis retrospectivo son muy comunes en las prácticas ágiles. Es tiempo dedicado a que los equipos miren hacia atrás, reflexionen sobre su desempeño y adapten los comportamientos para el futuro.
+
+Algunas metodologias agiles:
+Cystal methodologies
+Dynamic Systems Development method
+Adaptative Softw Development
