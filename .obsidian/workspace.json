@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Notas De clase/Seguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md"
+                "file": "Notas De clase/Seguridad.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "16117895f1bd9184",
+            "id": "2e0da6135100a476",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "9e6a259313e2cd36",
+            "id": "9e785eb94d0a07da",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,13 +192,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e6a259313e2cd36",
+  "active": "9e785eb94d0a07da",
   "lastOpenFiles": [
-    "Notas De clase/Graficacion.md",
-    "Notas De clase/Metodología de Desarrollo.md",
-    "Notas De clase/Seguridad.md",
     "Notas De clase/Proyecto Integrador.md",
+    "Notas De clase/Seguridad.md",
+    "Notas De clase/Graficacion.md",
     "Notas De clase/Integraciones de Soluciones.md",
+    "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Union de Notas.canvas",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
