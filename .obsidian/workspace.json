@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Seguridad.md"
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md"
               }
             }
           },
@@ -192,13 +192,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e785eb94d0a07da",
+  "active": "74ca5dad2b2bbb76",
   "lastOpenFiles": [
-    "Notas De clase/Proyecto Integrador.md",
+    "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Seguridad.md",
+    "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Graficacion.md",
     "Notas De clase/Integraciones de Soluciones.md",
-    "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Union de Notas.canvas",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",

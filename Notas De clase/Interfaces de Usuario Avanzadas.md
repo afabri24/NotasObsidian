@@ -15,20 +15,22 @@ documentación y prototipo
 #Introduccion 
 
 Video:
-Interacion de usuario 
+Interacción de usuario 
+
 [[Video Introduccion Interfaces Usuario Avanzadas]]
 
 
 Percepción del usuario:
 	-Vista
-	-Oido
+	-Oído
 	-Gusto
 	-Olfato
 	-Tacto
 
-Interaccion Humano computadora
+Interacción Humano computadora
 
 la ciencia de la interacción Humano-Computadora seguirá siendo un tema de investigación y desarrollo en expansión
 
 -la nuevas tecnologias proporcionan poderes extradinarios
-hay gran entusiasmo de los diseñadores por proporcionar funciones en dispositivos e interfaces interactivsas cuidadosamente diseñadas
+hay gran entusiasmo de los diseñadores por proporcionar funciones en dispositivos e interfaces interactivas cuidadosamente diseñadas
+
