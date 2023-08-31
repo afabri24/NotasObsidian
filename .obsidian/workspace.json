@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "e67fa440e60d0669",
+            "id": "16117895f1bd9184",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "2247fc8876583e22",
+            "id": "9e6a259313e2cd36",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74ca5dad2b2bbb76",
+  "active": "9e6a259313e2cd36",
   "lastOpenFiles": [
     "Notas De clase/Graficacion.md",
     "Notas De clase/Metodología de Desarrollo.md",
