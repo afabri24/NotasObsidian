@@ -33,9 +33,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "291121df10e23ba1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +164,7 @@
             }
           },
           {
-            "id": "2e0da6135100a476",
+            "id": "9c4b1b1fcd67a39e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -162,7 +172,7 @@
             }
           },
           {
-            "id": "9e785eb94d0a07da",
+            "id": "4683f076c4728635",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,7 +202,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74ca5dad2b2bbb76",
+  "active": "5bb64dde6cf933b5",
   "lastOpenFiles": [
     "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Seguridad.md",
