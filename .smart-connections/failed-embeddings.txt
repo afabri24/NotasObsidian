@@ -16,6 +16,7 @@ Notas De clase/Interfaces de Usuario Avanzadas.md
 Notas De clase/Metodología de Desarrollo.md
 Notas De clase/Proyecto Integrador.md
 Notas De clase/Seguridad.md
+Notas trabajos.md
 README.md
 Union de Notas.canvas
 Untitled.canvas

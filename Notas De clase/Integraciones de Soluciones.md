@@ -157,3 +157,117 @@ Debe ser un sistema uniformente accesible( con una interfaz uniforme): cada recu
 Tiene que ser un sistema por capas: por lo tanto debe soportar escalibilidad
 
 Debe utilizar mensajes auto-descriptivos: los recursos se desacoplan de sus represntacion de forma que puedan ser accedidos en una variedad de formatos, como por ejemplo XML,HTML,Textoplano,PDF,JPEG,JSON,etc.
+
+A continuacion se explicaban las abstracciones que constituyen un sistema RESTful:
+Recursos
+Representacionciones
+URIs
+Tipos de peticiones HTTP que constituyen la interfaz uniforme
+
+Un recurso REST es cualquier cosa que sea direccionable a través de la web
+por direccionable nos referimos a recursos que puedan ser accedidos y transferidos entre clientes y servidores
+
+Por lo tanto, un recurso es una correspondencia lógica y temporal con un concepto en el dominio del problema para el cual estamos implementado una solución
+
+Algunos ejemplos de recursos REST son:
+	Una noticia de un periódico
+	la temperatura de Xalapa a las 4:00 pm
+	un valor de IVA almacenado en una base de datos
+	una lista con el historial de las asistencias en un sistema empresarial
+
+Aun cuando el mapeado de un recurso es único, diferentes peticiones a un recurso pueden devolver la misma representación binaria almacenada en el servidor
+
+Debido a que estamos utilizando HTTP para comunicarnos, podemos transferir cualquier tipo de información que pueda trasportarse entre clientes y servidores
+
+Los datos de WS son transferidos TCP/IP y el navegador conoce como representar los streams binarios debido a la cabecera de respuesta del protocolo HTTP Content-Type
+
+Por lo tanto, en un sistema RESTful, la representación de un recurso depende del tipo deseado por el cliente(tipo MIME), el cual esta especificado en la petición del protocolo de comunicaciones
+
+la representacion de los recursos es lo que se envia entre los servidores y clientes
+
+Una representacion muestra el estado del dato real almacenado en algun dispositivo de almacenamiento en momento de la peticion
+
+En terminos generales es un stream binario, juntamente con los metadartos que describen como dicho stream debe ser consumido por el cliente y/o servidor(los metadatos tambien pueden contener informacion extra el recurso, como por ejemplo informacion de validacion y encriptacion, o codigo extra para ser ejecutado dinamicamente)
+
+A traves del ciclo de vida de un servicio web, pueden haber varios clientes solicitando recursos
+Clientes direntes son capaces de consumir diferentes representaciones del mismo recurso . por lo tanto la representacion puede tener varias formas como por ejemplo una imagen, un texto, un fichero XML, o un fichero JSON, pero tienen que estar disponibles en la misma URL
+
+El lenguaje para intercambio de informacion con el servicio queda a eleccion del desarrollador
+
+A acontinuacion se muestran formatos comunes que podemos utilizar par aintercambiar esta informacion:
+
+| formato     | tipo MIME      |
+| ----------- | -------------- |
+| Texto plano | text/plain     |
+| html        | text/html      |
+| xml         | aplication/xml |
+
+Una URI o Uniform Resorce Indentifieer es un servicio web RESTful es un hiper-enlace a un recurso y es la unica forma de intercambiar respresentaciones entre clientes y serdores
+
+Un servicio web RESTful expone un conjunto de recursos que indentifican los objetivos de la interacioncon sus clientes
+
+En un sistema REST, la URI no cambia a lo largo del tiempo ya que la implementacion de la aquitectura es la que gestiona los servicios localiza los recursos, negocia las representaciones y envian respuestas con los recursos solicitados
+
+y lo que es mas importante, si hubiese un cambio en la estructura del dispositivo de almacenamiento en el lado del servidor( por ejemplo, un cambio de servidores de bases de datos), nuestras URIs seguiran siendo las mismas y seran validas mientras el servicio web siga estando " en marcha" o el contexto del recurso no cambie
+
+Sin las restricion REST, los recursos se acceden por su localizacion: las direcciones web tipicas son URIs fijas. Si por ejemplo renombramos un fichero en el servidor, la uri sera diferente; si movemos a un directorio diferente la URI tambien sera diferente.
+
+por ejemplo, si en nuestra aplicacion tenemos informacion de cursos podriamos acceder a la lista cursos que el desarrollador del sevicio haya decidido
+
+peticiones HTTP
+en su forma mas simple, los servicios web RESTful son aplicaciones xliente-servidor a traves de la red que manipulan el estado de los recursos
+
+en este contexto, la manipulacion de rexuros significa creacion de recursos, recuperacion, modificaciony borrados.(Create, Retrieve, Update, Delate[CRUD])
+
+Sin embargo, los sercicios web RESTful no estan limitados solamente a estos conceptos basicos de manipulacion de  datos
+
+por el contrario los servicios RESTful pueden ejecutar logica en al lado del servidor, pero recordando que cada respuesta debe ser una representacion del recuros del dominio en cuestion
+
+debemos determinar que operacion HTTP se ajustamejor a la manipulacion que desamos realizar sobre los datos
+
+| Accion sobre los datos | Protocolo HTTP equivalente |
+| ---------------------- | -------------------------- |
+| CREATE                 | POST                       |
+| RETRIEVE               | GET                        |
+| UPDATE                 | PUT                        |
+| DELETE                 | DELETE                           |
+
+GET 
+
+El metodo GET se utiliza para recuperar recursos
+
+El metodo HTTP GET solamente deberia utilizarse para recuperar representaciones. Podriamos utilizar una peticion GET para actualizar el estado de los datos en el servidor pero no es recomendable
+
+los parametros de este metodo se envian sobre la URI del recurso
+
+Una operacion debe ser segura e idempodente
+
+Idempodente: es la propiedad para realizar una accion determinada varias veces y aun asi conseguir el mismo resultado se obtendria si se realizase una sola vez
+
+Estos servicios pueden ser probados directamente sobre el navegador
+
+POST/CREATE
+
+El metdodo POST se utiliza para crear recursos
+
+Las peticiones POST no son idempotentes
+
+los parametros de este metodo se envian del cuerpo del mensaje
+
+Estos servicios NO pueden ser probados directamente sobre el navegador
+
+PUT/UPDATE
+
+El metodo PUT se utiliza Actualizar(modifcar)recursos o para crearlos si el recuros en la URI especificada no existiese previamente
+
+Es decir, PUT se utiliza para establecer un determinado recursos dada su URI
+
+A diferencia de POST, Pur es idempotente
+
+DELETE
+
+El metodo DElete se utiliza para BORRAR representaciones
+
+los para metros de este metodo se envian sobre el cuerpo del mensaje
+
+Estos servicios NO pueden ser probados directamente sobre el navegador
