@@ -10,7 +10,7 @@
           {
             "id": "6fb1ad573fe34ef6",
             "type": "tabs",
-            "dimension": 24.509803921568626,
+            "dimension": 24.50980392156863,
             "children": [
               {
                 "id": "894211c396b64697",
@@ -200,7 +200,7 @@
             }
           },
           {
-            "id": "78109fcf29c24d14",
+            "id": "4f7e82a2f45c361b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -208,7 +208,7 @@
             }
           },
           {
-            "id": "df5c64c09f53e5cd",
+            "id": "0e713180b73d84bc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -220,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +238,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1df27bf008b9d53",
+  "active": "0e713180b73d84bc",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Notas trabajos.md",
