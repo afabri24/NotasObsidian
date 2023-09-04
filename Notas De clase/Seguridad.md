@@ -176,3 +176,31 @@ Articulo 63
 Articulo 64
 
 ley de proteccion de datos personales en posesion de particulares
+
+
+
+
+Modelo de Seguridad
+
+Un modelo de seguridad informatica es un esquema para especificar y forzar pliticas de seguridad
+Existen mecanismos para prevenir el aceso ilegal o no deseado, interferencia intencional o no intencional
+
+Modelo de seguirdad en profundidad
+[[2ec4dd37b2e315b62d25fc0712d6592b_MD5.gif|Open: mercadotechilustracion.gif]]
+![[2ec4dd37b2e315b62d25fc0712d6592b_MD5.gif]]
+
+[[a5fe3f236313bfd0902f1b88dbff9240_MD5.jpg|Open: que-es-cobit.jpg]]
+![[a5fe3f236313bfd0902f1b88dbff9240_MD5.jpg]]
+
+Plnificacion y organizacion
+adquisiscion e eimplantacion
+entrega y soporte
+supervision y revisio
+
+Nist:
+Promover la innovacion y la competencia industrial 
+[[b7cc72276e166bc78d9fbe724e93d286_MD5.png|Open: NIST-mmg.png]]
+![[b7cc72276e166bc78d9fbe724e93d286_MD5.png]]
+
+[[4000e25289263df788dfd4defd9fb9a5_MD5.webp|Open: NIST3.webp]]
+![[4000e25289263df788dfd4defd9fb9a5_MD5.webp]]

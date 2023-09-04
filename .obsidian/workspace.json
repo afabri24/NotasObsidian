@@ -28,24 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Seguridad.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fca691d37b48b84c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54f029a6b7b96556",
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md"
+                "file": "Notas De clase/Seguridad.md"
               }
             }
           },
@@ -204,8 +193,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f6cb2dee615a7d3",
+  "active": "5bb64dde6cf933b5",
   "lastOpenFiles": [
+    "Imagenes/4000e25289263df788dfd4defd9fb9a5_MD5.webp",
+    "Imagenes/b7cc72276e166bc78d9fbe724e93d286_MD5.png",
+    "Untitled",
+    "Imagenes/a5fe3f236313bfd0902f1b88dbff9240_MD5.jpg",
+    "Imagenes/2ec4dd37b2e315b62d25fc0712d6592b_MD5.gif",
     "Notas De clase/Integraciones de Soluciones.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
     "Notas De clase/Proyecto Integrador.md",
