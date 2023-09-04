@@ -204,3 +204,18 @@ Promover la innovacion y la competencia industrial
 
 [[4000e25289263df788dfd4defd9fb9a5_MD5.webp|Open: NIST3.webp]]
 ![[4000e25289263df788dfd4defd9fb9a5_MD5.webp]]
+
+ISACA
+
+Asociacion de Autoria y control de sistemas de informacion
+
+
+-Estandarizacion y buenas practicas
+-gestion de Riesgos
+-Cumplimiento Regulatorio
+-Mejora la eficiencia
+-Gestion de incidentes
+-Gestion de recursos Tecnologicos
+-Mejora continua
+-Comunicacion y colaboracion
+
