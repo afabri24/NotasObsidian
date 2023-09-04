@@ -160,7 +160,7 @@ Marco de trabajo agil para la gestion de proyectos
 	- No se permite hacer cambios
 
 roles:
-Product owner: Responsable de maximizar el valor del producto
+Product owner: Responsable de maximizar el valor del producto(historias de usuario)
 Scrum master: Responsable de asegurara los procesos
 Scrum team: Responsable de realizar el Trabajo
 
@@ -177,6 +177,26 @@ Estructura de Scurm
 	Especulacion:
 		-Parte de la vision y el alcance del proyecto
 		-Se determinan las limitaciones
-	Exploracion:
-	Revision:
-	Cierre:
+	Exploracion
+	Revision
+	Cierre
+
+Con Scrum se llevan a cabo varias ceremonias o reuniones
+	Reunion de planificacion
+		Planificar todos lo sprints
+		[[bb44b05b45a46239a5b2dc1b6ab61782_MD5.png|Open: Pasted image 20230904173643.png]]
+![[bb44b05b45a46239a5b2dc1b6ab61782_MD5.png]]
+		[[faf486ace327482ccbc1db25356f6388_MD5.png|Open: Pasted image 20230904173711.png]]
+![[faf486ace327482ccbc1db25356f6388_MD5.png]]
+	Reunion diaria
+		[[351768e3bd3c8c374ee37e86b3cd86ed_MD5.png|Open: Pasted image 20230904173739.png]]
+![[351768e3bd3c8c374ee37e86b3cd86ed_MD5.png]]
+	Reunion de revision
+	[[cd904d614de6e8f25509de79e436da0b_MD5.png|Open: Pasted image 20230904173810.png]]
+![[cd904d614de6e8f25509de79e436da0b_MD5.png]]
+[[7a7a7f209080b46554e46c0d5d21a16f_MD5.png|Open: Pasted image 20230904173827.png]]
+![[7a7a7f209080b46554e46c0d5d21a16f_MD5.png]]
+	Reunion de retroespectativa
+	[[e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png|Open: Pasted image 20230904173923.png]]
+![[e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png]]
+	
