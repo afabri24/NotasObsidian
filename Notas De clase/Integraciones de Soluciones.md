@@ -271,3 +271,8 @@ El metodo DElete se utiliza para BORRAR representaciones
 los para metros de este metodo se envian sobre el cuerpo del mensaje
 
 Estos servicios NO pueden ser probados directamente sobre el navegador
+
+
+Entity:
+conexion a base de datos y manipulacion de datos
+mapea
