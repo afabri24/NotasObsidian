@@ -246,3 +246,15 @@ Las 10 principales vulnerabilidades OWASP en 2021:
 	- control de aceso roto
 	- Configuraciones inforrectas de seguiridad
 	- Secuencias de comandos entre sitios(XSS)
+
+
+Seguridad Fisica:
+
+Triada CID
+
+Hace referencia a la aplicacion de barreras fisicas y mecanismos de control en el entorno de un sistema informático para proteger el hardware de amenazas fisicas
+
+Tipos de amenazas
+De interrrupcion
+De fabricacion
+De ambiente
