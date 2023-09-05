@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "4f7e82a2f45c361b",
+            "id": "ad869aac3e8885b0",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "0e713180b73d84bc",
+            "id": "406b6a6b85fc5fe4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -170,12 +170,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74ca5dad2b2bbb76",
+  "active": "406b6a6b85fc5fe4",
   "lastOpenFiles": [
     "Notas De clase/Metodología de Desarrollo.md",
     "Imagenes/e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png",
