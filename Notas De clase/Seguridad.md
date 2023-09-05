@@ -219,3 +219,30 @@ Asociacion de Autoria y control de sistemas de informacion
 -Mejora continua
 -Comunicacion y colaboracion
 
+OSSTMM(Metodología abierta de comprobacion de la seguidad)
+Enfoque Holistico: Seguridad Completa
+Pruebas basadas en Escenarios Reales: La metodologia se basa  en la simulacion de ataques reales y utiliza múltiples escenarios
+
+Tres Componentes Fundamentales:
+requimientos de seguridad
+Medidas de seguridad
+Pruebas de seguridad
+Enfoque en resultados Medibles
+
+
+OWASP
+Proyecto de codigo abierto para determinar y combatir las causas que hacen un software inseguro
+1. trabajos en ccrear
+2. articulos
+3. metodlogias
+4. documentacion
+5. Herramientas y tecnologias
+
+Las 10 principales vulnerabilidades OWASP en 2021:
+	- iyeccion
+	- autetificacion rota
+	- exposicion de datos sensibles
+	- entidades externas xml(XXE)
+	- control de aceso roto
+	- Configuraciones inforrectas de seguiridad
+	- Secuencias de comandos entre sitios(XSS)
