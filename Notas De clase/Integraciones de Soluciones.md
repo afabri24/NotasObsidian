@@ -276,3 +276,9 @@ Estos servicios NO pueden ser probados directamente sobre el navegador
 Entity:
 conexion a base de datos y manipulacion de datos
 mapea
+
+QueryParam:
+Usuarios?id=1,nombre=juan
+
+PathParam:
+Usuarios/1/juan **o** Usuarios/1,juan
