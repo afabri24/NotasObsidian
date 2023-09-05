@@ -239,7 +239,7 @@ Proyecto de codigo abierto para determinar y combatir las causas que hacen un so
 5. Herramientas y tecnologias
 
 Las 10 principales vulnerabilidades OWASP en 2021:
-	- iyeccion
+	- inyeccion
 	- autetificacion rota
 	- exposicion de datos sensibles
 	- entidades externas xml(XXE)
