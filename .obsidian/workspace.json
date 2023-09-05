@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Metodología de Desarrollo.md"
+                "file": "Notas De clase/Integraciones de Soluciones.md"
               }
             }
           },
@@ -195,12 +195,13 @@
   },
   "active": "74ca5dad2b2bbb76",
   "lastOpenFiles": [
-    "e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png",
-    "7a7a7f209080b46554e46c0d5d21a16f_MD5.png",
-    "cd904d614de6e8f25509de79e436da0b_MD5.png",
-    "351768e3bd3c8c374ee37e86b3cd86ed_MD5.png",
-    "faf486ace327482ccbc1db25356f6388_MD5.png",
-    "bb44b05b45a46239a5b2dc1b6ab61782_MD5.png",
+    "Notas De clase/Metodología de Desarrollo.md",
+    "Imagenes/e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png",
+    "Imagenes/7a7a7f209080b46554e46c0d5d21a16f_MD5.png",
+    "Imagenes/cd904d614de6e8f25509de79e436da0b_MD5.png",
+    "Imagenes/351768e3bd3c8c374ee37e86b3cd86ed_MD5.png",
+    "Imagenes/faf486ace327482ccbc1db25356f6388_MD5.png",
+    "Imagenes/bb44b05b45a46239a5b2dc1b6ab61782_MD5.png",
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Seguridad.md",
@@ -213,11 +214,9 @@
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas trabajos.md",
     "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
-    "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Graficacion.md",
     "Union de Notas.canvas",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
-    "Imagenes/50dd10191ed4b8713d83594ef5f8f3ef_MD5.png",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Untitled.canvas",
     "Excalidraw/Diferencia de Asincrono y sincrono.md",
