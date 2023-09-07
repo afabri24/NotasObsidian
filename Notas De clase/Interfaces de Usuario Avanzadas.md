@@ -34,3 +34,13 @@ la ciencia de la interacción Humano-Computadora seguirá siendo un tema de inve
 -la nuevas tecnologias proporcionan poderes extradinarios
 hay gran entusiasmo de los diseñadores por proporcionar funciones en dispositivos e interfaces interactivas cuidadosamente diseñadas
 
+
+Unidad 2.
+Interfaces graficas
+}
+Proceso de diseño de interfaz de usuario
+	- Empatizar con los usuarios
+	- Definir el problema
+	- Idear
+	- Prototipar
+	- Probar
