@@ -37,10 +37,11 @@ hay gran entusiasmo de los diseñadores por proporcionar funciones en dispositiv
 
 Unidad 2.
 Interfaces graficas
-}
 Proceso de diseño de interfaz de usuario
 	- Empatizar con los usuarios
 	- Definir el problema
 	- Idear
 	- Prototipar
 	- Probar
+
+[10 heurísticas de diseño de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics)
