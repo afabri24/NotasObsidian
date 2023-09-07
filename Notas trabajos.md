@@ -1,4 +1,4 @@
-1. creacion de Torneo
+1. creación de Torneo
 	1. reglas de torneo{puntos configurables} {Cancha, tiempo,arbrito, catrgoria costo de arbritaje}
 2. registro de equipo
 	1. ficha de juegadores

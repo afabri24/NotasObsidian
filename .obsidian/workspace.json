@@ -150,18 +150,18 @@
             }
           },
           {
-            "id": "406b6a6b85fc5fe4",
+            "id": "6d4786c18876df8c",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "3c3b778ab81a8c65",
+            "id": "e29c1b0d2989eea9",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -188,7 +188,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c3b778ab81a8c65",
+  "active": "e29c1b0d2989eea9",
   "lastOpenFiles": [
     "Union de Notas.canvas",
     "Notas De clase/Seguridad.md",
