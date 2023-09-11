@@ -258,3 +258,18 @@ Tipos de amenazas
 De interrrupcion
 De fabricacion
 De ambiente
+
+
+Actividades de gestion de accidentes
+1. deteccion
+2. clasificacion
+3. notificacion
+4. respuesta inmediata
+5. investigacion
+6. documentacion
+7. comunicacion
+8. recuperacion
+9. lecciones Aprendidas
+10. informe y notificacion
+11. entrenamiento y capacitacion
+12. evaluacion de riesgos
