@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Seguridad.md"
+                "file": "Notas De clase/Integraciones de Soluciones.md"
               }
             }
           },
@@ -197,14 +196,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10b2070b106ee844",
+  "active": "894211c396b64697",
   "lastOpenFiles": [
+    "Notas De clase/Seguridad.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Graficacion.md",
-    "Notas De clase/Seguridad.md",
     "Notas trabajos.md",
     "Union de Notas.canvas",
     "Imagenes/e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png",

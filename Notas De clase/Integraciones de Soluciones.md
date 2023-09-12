@@ -282,3 +282,8 @@ Usuarios?id=1,nombre=juan
 
 PathParam:
 Usuarios/1/juan **o** Usuarios/1,juan
+
+
+Diferentes exception:
+CheckException
+Exception
