@@ -315,3 +315,18 @@ Mejores practicas de la continuidad de los negocios:
 6. Escriba los procedimientos para la organizacion siga funcionando cuando se encuentre en un estado caotico
 7. pruebe el plan
 8. Actualice el plan regularmente
+
+Ventajas de análisis de riesgos informáticos
+- identicacion de amenazas y vunerabilidades
+- Priorizacion de recursos
+- reduccion de costos
+- mejora de la planificacion de de seguridad
+- fortalecimiento de la resistencia
+- preparacion para incidentes
+- Concienciacion del personal
+- mejora continua
+
+Factores para los riesgos de seguridad
+1. ausencia mal informados
+2. Usuarios mal informados
+3. poca inversion
