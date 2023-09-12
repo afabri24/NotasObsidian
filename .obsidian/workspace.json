@@ -158,7 +158,7 @@
             }
           },
           {
-            "id": "5ce6a8a3c66c876e",
+            "id": "11319a21c37037b5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -166,7 +166,7 @@
             }
           },
           {
-            "id": "10b2070b106ee844",
+            "id": "07178ce962c4856a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -196,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "894211c396b64697",
+  "active": "07178ce962c4856a",
   "lastOpenFiles": [
     "Notas De clase/Seguridad.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
