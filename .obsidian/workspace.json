@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Metodología de Desarrollo.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Metodología de Desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Metodología de Desarrollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Seguridad.md"
+                "file": "Notas De clase/Metodología de Desarrollo.md"
               }
             }
           },
@@ -196,11 +196,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bb64dde6cf933b5",
+  "active": "894211c396b64697",
   "lastOpenFiles": [
+    "Notas De clase/Seguridad.md",
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
     "Notas De clase/Integraciones de Soluciones.md",
-    "Notas De clase/Seguridad.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Metodología de Desarrollo.md",
@@ -217,7 +217,6 @@
     "Imagenes/b7cc72276e166bc78d9fbe724e93d286_MD5.png",
     "Untitled",
     "Imagenes/a5fe3f236313bfd0902f1b88dbff9240_MD5.jpg",
-    "Imagenes/2ec4dd37b2e315b62d25fc0712d6592b_MD5.gif",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
     "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",

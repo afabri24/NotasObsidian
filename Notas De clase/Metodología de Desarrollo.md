@@ -199,4 +199,16 @@ Con Scrum se llevan a cabo varias ceremonias o reuniones
 	Reunion de retroespectativa
 	[[e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png|Open: Pasted image 20230904173923.png]]
 ![[e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png]]
-	
+
+Que es disc?
+(Dominancia, influencia, Estabilidad,conciencia)
+dominante
+audaz
+directo
+persistente
+influyente
+carismatico
+confiado
+pupular
+estable
+amigable
