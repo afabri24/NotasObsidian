@@ -273,3 +273,45 @@ Actividades de gestion de accidentes
 10. informe y notificacion
 11. entrenamiento y capacitacion
 12. evaluacion de riesgos
+
+Plan de recuperacion ante desastres DRP:
+1.  Alcance y objetivos
+2. equipo de recuperacion
+3. evaluacion de riesgos
+4. procedimientos
+5. copia de seguridad
+6. infraestructura de respaldo
+7. recuperacion de comunicacion y aplicaciones
+8. recursos humanos
+9. comunicacion y coordinacion
+10. Pruebas y mantenimiento
+11. Formacion y concienciación autoria
+[[9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png|Open: 6398f9c3592d67c487e90535_planes-que-conforman-la-continuidad-del-negocio.png]]
+![[9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png]]
+
+BCP:Un plan de continuidad de negocio
+
+
+Tecnologías de respuesta ante los incidentes:
+- Control de admision de redes (NAC)
+- los sistemas de detección de intrusiones
+- NetFlow e IPFIX
+- La inteligencia de amenazas avanzadas
+
+
+Consideraciones de la continuidad de los negocios
+	- Documentar las configuraciones
+	- Establecer canales de comunicacion alternativos
+	- Propocionar energia
+	- Identificar todas las dependencias para las aplicaciones y los procesos
+	- Comprender como realizar las tareas automatizadas manualmente
+
+Mejores practicas de la continuidad de los negocios:
+1. Escriba una politica que proporciobe orientacion para desarrollar un plan de continuidad de los negociocios y asigne roles para realizar tareas
+2. identifique los sistemas y los procesos y prioricelos segun la necesidad
+3. identifique las vulnerabilidades, las amenazas y calcule los riegos
+4. identique e implemente controles y contramedidas parareducir el riesgo
+5. elija los metodos para recuperar los sistemas criticos rapidamente
+6. Escriba los procedimientos para la organizacion siga funcionando cuando se encuentre en un estado caotico
+7. pruebe el plan
+8. Actualice el plan regularmente

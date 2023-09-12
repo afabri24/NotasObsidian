@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Seguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md"
+                "file": "Notas De clase/Seguridad.md"
               }
             }
           },
@@ -196,13 +196,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07178ce962c4856a",
+  "active": "5bb64dde6cf933b5",
   "lastOpenFiles": [
+    "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
+    "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Seguridad.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Metodología de Desarrollo.md",
-    "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Graficacion.md",
     "Notas trabajos.md",
     "Union de Notas.canvas",
