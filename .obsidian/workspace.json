@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "0ee93a96e7de7978",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
             "id": "82b960c92587890d",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
             }
           },
           {
-            "id": "11319a21c37037b5",
+            "id": "c316504782794806",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -166,7 +177,7 @@
             }
           },
           {
-            "id": "07178ce962c4856a",
+            "id": "722a70632de7e081",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -196,7 +207,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "894211c396b64697",
+  "active": "722a70632de7e081",
   "lastOpenFiles": [
     "Notas De clase/Seguridad.md",
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
