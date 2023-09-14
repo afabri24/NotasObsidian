@@ -14,39 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "fe39a28dc7d00737",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0ee93a96e7de7978",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "82b960c92587890d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe39a28dc7d00737",
+  "active": "894211c396b64697",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
     "Notas De clase/Metodología de Desarrollo.md",
