@@ -11,8 +11,12 @@
             "id": "894211c396b64697",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas De clase/Seguridad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54f029a6b7b96556",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas De clase/Seguridad.md"
+              }
             }
           },
           {
@@ -141,7 +148,7 @@
             }
           },
           {
-            "id": "c316504782794806",
+            "id": "339104d20f8d3b9e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -149,7 +156,7 @@
             }
           },
           {
-            "id": "722a70632de7e081",
+            "id": "b70a614f9d6c975c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",

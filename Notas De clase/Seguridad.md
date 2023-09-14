@@ -330,3 +330,14 @@ Factores para los riesgos de seguridad
 1. ausencia mal informados
 2. Usuarios mal informados
 3. poca inversion
+
+etapas de gestion de risgos
+identificacion de reiesgo
+evaluacion de riesgos
+priorizacion
+Desarrollo de tecnicas de mitigacion
+implementacion de contriles
+monitoreo
+comunicacion y concienciacion
+Documentacion
+mejora continua
