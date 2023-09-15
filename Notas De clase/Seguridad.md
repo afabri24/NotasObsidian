@@ -301,23 +301,23 @@ Tecnologías de respuesta ante los incidentes:
 
 Consideraciones de la continuidad de los negocios
 	- Documentar las configuraciones
-	- Establecer canales de comunicacion alternativos
-	- Propocionar energia
+	- Establecer canales de comunicación alternativos
+	- Proporcionar energía
 	- Identificar todas las dependencias para las aplicaciones y los procesos
 	- Comprender como realizar las tareas automatizadas manualmente
 
 Mejores practicas de la continuidad de los negocios:
-1. Escriba una politica que proporciobe orientacion para desarrollar un plan de continuidad de los negociocios y asigne roles para realizar tareas
-2. identifique los sistemas y los procesos y prioricelos segun la necesidad
+1. Escriba una política que proporcione orientación para desarrollar un plan de continuidad de los negociocios y asigne roles para realizar tareas
+2. identifique los sistemas y los procesos y priorícelos según la necesidad
 3. identifique las vulnerabilidades, las amenazas y calcule los riegos
-4. identique e implemente controles y contramedidas parareducir el riesgo
-5. elija los metodos para recuperar los sistemas criticos rapidamente
-6. Escriba los procedimientos para la organizacion siga funcionando cuando se encuentre en un estado caotico
+4. identifique e implemente controles y contramedidas para reducir el riesgo
+5. elija los métodos para recuperar los sistemas críticos rápidamente
+6. Escriba los procedimientos para la organización siga funcionando cuando se encuentre en un estado caotico
 7. pruebe el plan
 8. Actualice el plan regularmente
 
 Ventajas de análisis de riesgos informáticos
-- identicacion de amenazas y vunerabilidades
+- indentificacion de amenazas y vulnerabilidades
 - Priorizacion de recursos
 - reduccion de costos
 - mejora de la planificacion de de seguridad
