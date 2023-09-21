@@ -8,3 +8,9 @@ contraseñas seguras
 almacenamiento seguro
 verificacion de descargas
 firma digital
+
+ripemd
+Torbellino
+
+
+La tecnica HMac
