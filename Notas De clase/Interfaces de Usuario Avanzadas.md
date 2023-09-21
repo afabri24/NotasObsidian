@@ -45,3 +45,9 @@ Proceso de diseño de interfaz de usuario
 	- Probar
 
 [10 heurísticas de diseño de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics)
+
+
+SpeechReconition
+gTTS
+playsound==1.2.2==
+install PyAudio

@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e22e6b2c22592a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Seguridad.md"
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md"
               }
             }
           },
@@ -148,18 +159,18 @@
             }
           },
           {
-            "id": "d8f3484f67e3170e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "aaf799f219276a0d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0383182a21aeae9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -186,13 +197,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aaf799f219276a0d",
+  "active": "e0383182a21aeae9",
   "lastOpenFiles": [
+    "Notas De clase/Integraciones de Soluciones.md",
+    "Notas De clase/Seguridad.md",
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
     "Notas De clase/Metodología de Desarrollo.md",
-    "Notas De clase/Seguridad.md",
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
-    "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Graficacion.md",
