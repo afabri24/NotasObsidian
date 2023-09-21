@@ -28,9 +28,33 @@
                 "currentVersion": "1.4.13"
               }
             }
+          },
+          {
+            "id": "4fbf1ce5b8021a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas De clase/Seguridad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac5a12e7b2ac478b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seguridad ejercicios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Seguridad ejercicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Seguridad ejercicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md"
+                "file": "Seguridad ejercicios.md"
               }
             }
           },
@@ -197,14 +221,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ebeea2554b3d9265",
+  "active": "ac5a12e7b2ac478b",
   "lastOpenFiles": [
-    "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Seguridad.md",
+    "Seguridad ejercicios.md",
+    "Notas De clase/Interfaces de Usuario Avanzadas.md",
+    "Notas De clase/Integraciones de Soluciones.md",
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
     "Notas De clase/Metodología de Desarrollo.md",
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
-    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Graficacion.md",
     "Notas trabajos.md",
