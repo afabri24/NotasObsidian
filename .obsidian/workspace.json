@@ -148,7 +148,7 @@
             }
           },
           {
-            "id": "339104d20f8d3b9e",
+            "id": "d8f3484f67e3170e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -156,7 +156,7 @@
             }
           },
           {
-            "id": "b70a614f9d6c975c",
+            "id": "aaf799f219276a0d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +186,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "894211c396b64697",
+  "active": "aaf799f219276a0d",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
     "Notas De clase/Metodología de Desarrollo.md",
