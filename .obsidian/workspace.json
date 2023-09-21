@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "aaf799f219276a0d",
+            "id": "7eaa00344d1eb266",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "e0383182a21aeae9",
+            "id": "ebeea2554b3d9265",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -197,7 +197,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0383182a21aeae9",
+  "active": "ebeea2554b3d9265",
   "lastOpenFiles": [
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Seguridad.md",
