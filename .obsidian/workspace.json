@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "2e22e6b2c22592a4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
             "id": "4fbf1ce5b8021a28",
             "type": "leaf",
             "state": {
@@ -53,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,18 +172,18 @@
             }
           },
           {
-            "id": "ebeea2554b3d9265",
+            "id": "6dadd6866b03895e",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "29ae905384a1abf9",
+            "id": "6b9efa2b0cea322e",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -221,7 +210,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29ae905384a1abf9",
+  "active": "6b9efa2b0cea322e",
   "lastOpenFiles": [
     "Seguridad ejercicios.md",
     "Notas De clase/Seguridad.md",
