@@ -42,8 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7278a6917730e023",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md"
+                "file": "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md"
               }
             }
           },
@@ -192,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +222,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b9efa2b0cea322e",
+  "active": "7278a6917730e023",
   "lastOpenFiles": [
+    "Notas De clase/Interfaces de Usuario Avanzadas.md",
+    "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
     "Seguridad ejercicios.md",
     "Notas De clase/Seguridad.md",
-    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
     "Notas De clase/Metodología de Desarrollo.md",
