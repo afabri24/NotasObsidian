@@ -183,7 +183,7 @@
             }
           },
           {
-            "id": "6dadd6866b03895e",
+            "id": "dca2c7d19a682cd3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -191,7 +191,7 @@
             }
           },
           {
-            "id": "6b9efa2b0cea322e",
+            "id": "30e080032f8eedb1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +221,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7278a6917730e023",
+  "active": "30e080032f8eedb1",
   "lastOpenFiles": [
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
