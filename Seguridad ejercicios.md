@@ -14,3 +14,21 @@ Torbellino
 
 
 La tecnica HMac
+
+
+estenografia
+
+gpg4wink
+veracrypt
+
+
+gnuPG en linux
+
+
+Payload:son los datos que deseamos transportar
+encoding desnsity: El porcentaje de bits, muestras u otros elemntos de señal seran modificados para codificado el payload
+LSB(least significant Bit):El bit menos significativo
+cover:El objeto(archivo digitado)en el cual se va incrustrar u ocultar un mensaje o archivo. También llamado carrier
+Stego-image: Es la imagen que se forma con la imagen original
+stego-key: Es la clave que se utiliza cuando se oculta el mensaje 
+stegalisis: El arte de descubrir datos ocultos en objetos cover

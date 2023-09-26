@@ -21,5 +21,6 @@ Notas De clase/Proyecto Integrador.md
 Notas De clase/Seguridad.md
 Notas trabajos.md
 README.md
+Seguridad ejercicios.md
 Union de Notas.canvas
 Untitled.canvas

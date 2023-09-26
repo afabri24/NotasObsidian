@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentación de seguridad.md",
+                "file": "Seguridad ejercicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentación de seguridad.md",
+                "file": "Seguridad ejercicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentación de seguridad.md"
+                "file": "Seguridad ejercicios.md"
               }
             }
           },
@@ -223,10 +223,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b33c69b32093f8df",
+  "active": "ac5a12e7b2ac478b",
   "lastOpenFiles": [
-    "Seguridad ejercicios.md",
+    "Notas trabajos.md",
+    "2023-09-04 Incripciones Exaver.md",
+    "Base de las notas.md",
+    "README.md",
     "Documentación de seguridad.md",
+    "Union de Notas.canvas",
+    "Seguridad ejercicios.md",
     "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Seguridad.md",
@@ -236,8 +241,6 @@
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Graficacion.md",
-    "Notas trabajos.md",
-    "Union de Notas.canvas",
     "Imagenes/e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png",
     "Imagenes/7a7a7f209080b46554e46c0d5d21a16f_MD5.png",
     "Imagenes/cd904d614de6e8f25509de79e436da0b_MD5.png",
@@ -256,10 +259,7 @@
     "Excalidraw/Diferencia de Asincrono y sincrono.md",
     "Imagenes",
     "Excalidraw/Concepto de videoJuego.md",
-    "2023-09-04 Incripciones Exaver.md",
-    "README.md",
     "Excalidraw",
-    "Base de las notas.md",
     "Excalidraw/Drawing 2023-08-06 14.58.14.excalidraw.md",
     "Notas De clase"
   ]
