@@ -44,12 +44,14 @@
             }
           },
           {
-            "id": "7278a6917730e023",
+            "id": "3a46ff8136c64dcd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md"
+                "file": "Documentación de seguridad.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
+                "file": "Documentación de seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
+                "file": "Documentación de seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md"
+                "file": "Documentación de seguridad.md"
               }
             }
           },
@@ -183,7 +185,7 @@
             }
           },
           {
-            "id": "dca2c7d19a682cd3",
+            "id": "785a8070a569012d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -191,7 +193,7 @@
             }
           },
           {
-            "id": "30e080032f8eedb1",
+            "id": "b33c69b32093f8df",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -221,11 +223,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30e080032f8eedb1",
+  "active": "b33c69b32093f8df",
   "lastOpenFiles": [
-    "Notas De clase/Interfaces de Usuario Avanzadas.md",
-    "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
     "Seguridad ejercicios.md",
+    "Documentación de seguridad.md",
+    "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
+    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Seguridad.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
