@@ -32,3 +32,22 @@ cover:El objeto(archivo digitado)en el cual se va incrustrar u ocultar un mensaj
 Stego-image: Es la imagen que se forma con la imagen original
 stego-key: Es la clave que se utiliza cuando se oculta el mensaje 
 stegalisis: El arte de descubrir datos ocultos en objetos cover
+
+
+Pura:No requiere el intercambio de un cifrado como un stego-key
+Clave secreta: La clave secreta(stego se intercambia antes de la comunicacion
+De clave publica: Se utiliza una clave publica y una clave privada para una comunicacion segura
+
+Tecnicas estenograficas
+
+Enmascaramiento:marcas de agua
+Algoritmos de la compresion de datos:funciones matematicas
+Metodos de sustitucion: Alterando el bit menos significativo
+
+estegoanalisis
+
+stegdetect
+stegosuite
+Ilook Investigator
+EnCase
+openpuff
