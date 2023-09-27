@@ -16,7 +16,7 @@ Torbellino
 La tecnica HMac
 
 
-estenografia
+estenografía
 
 gpg4wink
 veracrypt
