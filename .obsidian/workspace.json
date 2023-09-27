@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "e98e8d2bba757f5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "3a46ff8136c64dcd",
             "type": "leaf",
             "state": {
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,7 @@
             }
           },
           {
-            "id": "785a8070a569012d",
+            "id": "468d56cd2d646bd6",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -193,7 +203,7 @@
             }
           },
           {
-            "id": "b33c69b32093f8df",
+            "id": "852de4135595ff6e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -223,7 +233,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac5a12e7b2ac478b",
+  "active": "852de4135595ff6e",
   "lastOpenFiles": [
     "Notas trabajos.md",
     "2023-09-04 Incripciones Exaver.md",
