@@ -47,9 +47,9 @@
             "id": "e98e8d2bba757f5b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seguridad ejercicios.md",
+                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seguridad ejercicios.md",
+                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seguridad ejercicios.md"
+                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md"
               }
             }
           },
@@ -233,8 +233,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "852de4135595ff6e",
+  "active": "e98e8d2bba757f5b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
+    "Excalidraw/Diferencia de Asincrono y sincrono.md",
+    "Excalidraw/Concepto de videoJuego.md",
     "Notas trabajos.md",
     "2023-09-04 Incripciones Exaver.md",
     "Base de las notas.md",
@@ -242,11 +248,9 @@
     "Documentación de seguridad.md",
     "Union de Notas.canvas",
     "Seguridad ejercicios.md",
-    "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Seguridad.md",
     "Notas De clase/Integraciones de Soluciones.md",
-    "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
     "Notas De clase/Metodología de Desarrollo.md",
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
     "Notas De clase/Proyecto Integrador.md",
@@ -261,14 +265,10 @@
     "Imagenes/b7cc72276e166bc78d9fbe724e93d286_MD5.png",
     "Untitled",
     "Imagenes/a5fe3f236313bfd0902f1b88dbff9240_MD5.jpg",
-    "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Untitled.canvas",
-    "Excalidraw/Diferencia de Asincrono y sincrono.md",
     "Imagenes",
-    "Excalidraw/Concepto de videoJuego.md",
     "Excalidraw",
     "Excalidraw/Drawing 2023-08-06 14.58.14.excalidraw.md",
     "Notas De clase"
