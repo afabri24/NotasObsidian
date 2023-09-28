@@ -195,7 +195,7 @@
             }
           },
           {
-            "id": "468d56cd2d646bd6",
+            "id": "7f149c87b76595c9",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -203,7 +203,7 @@
             }
           },
           {
-            "id": "852de4135595ff6e",
+            "id": "94ee2a4659a47e51",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -233,7 +233,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e98e8d2bba757f5b",
+  "active": "94ee2a4659a47e51",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
