@@ -47,9 +47,11 @@
             "id": "e98e8d2bba757f5b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md"
+                "file": "Seguridad ejercicios.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
+                "file": "Seguridad ejercicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
+                "file": "Seguridad ejercicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md"
+                "file": "Seguridad ejercicios.md"
               }
             }
           },
@@ -195,7 +197,7 @@
             }
           },
           {
-            "id": "7f149c87b76595c9",
+            "id": "2258677b3321725d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -203,7 +205,7 @@
             }
           },
           {
-            "id": "94ee2a4659a47e51",
+            "id": "d07c0c27e720d3df",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -233,10 +235,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94ee2a4659a47e51",
+  "active": "d07c0c27e720d3df",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
     "Excalidraw/Diferencia de Asincrono y sincrono.md",
