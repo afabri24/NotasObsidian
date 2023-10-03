@@ -341,3 +341,11 @@ monitoreo
 comunicacion y concienciacion
 Documentacion
 mejora continua
+
+fases de ataque:
+
+1. Reconocimiento
+2. Exploracion
+3. Obtencion de acceso
+4. Mantener acceso
+5. Borrar rastros

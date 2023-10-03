@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Seguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md"
+                "file": "Notas De clase/Seguridad.md"
               }
             }
           },
@@ -235,10 +235,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd2c57a65c0d66f9",
+  "active": "e98e8d2bba757f5b",
   "lastOpenFiles": [
-    "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
+    "Notas De clase/Proyecto Integrador.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
     "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
