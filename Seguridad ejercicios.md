@@ -50,4 +50,16 @@ stegdetect
 stegosuite
 Ilook Investigator
 EnCase
-openpuff
+
+
+
+gpg -c [documento] (cifrar)
+		-d (decifrar)
+
+gpg --gen-key
+gpg -a --export [usuario] > [nombre del archivo].asc
+
+gpg -kv
+gpg --import [documento]
+
+gpg -a -r [destinatario] -r [enviador] --encrypt
