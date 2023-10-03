@@ -350,4 +350,8 @@ fases de ataque:
 4. Mantener acceso
 5. Borrar rastros
 
-Footprinting
+Footprinting:
+
+footprinting activo:
+whois,netcraft
+foorprinting pasivo
