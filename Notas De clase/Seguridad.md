@@ -349,3 +349,5 @@ fases de ataque:
 3. Obtencion de acceso
 4. Mantener acceso
 5. Borrar rastros
+
+Footprinting
