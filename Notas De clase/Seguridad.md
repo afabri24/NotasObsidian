@@ -355,3 +355,7 @@ Footprinting:
 footprinting activo:
 whois,netcraft
 foorprinting pasivo
+
+
+steghide embed -cf imagenConExtension -ef archivoParaEncriptar
+steghide extract -sf imagenConExtension
