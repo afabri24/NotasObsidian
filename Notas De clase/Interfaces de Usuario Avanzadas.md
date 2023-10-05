@@ -51,3 +51,4 @@ SpeechReconition
 gTTS
 playsound==1.2.2==
 install PyAudio
+

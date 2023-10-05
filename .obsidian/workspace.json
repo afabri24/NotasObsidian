@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,10 +235,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3136513e07b60bf1",
+  "active": "e98e8d2bba757f5b",
   "lastOpenFiles": [
+    "Notas De clase/Graficacion.md",
+    "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
+    "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Proyecto Integrador.md",
+    "Notas De clase/Seguridad.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
     "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
@@ -252,11 +256,7 @@
     "Documentación de seguridad.md",
     "Union de Notas.canvas",
     "Seguridad ejercicios.md",
-    "Notas De clase/Seguridad.md",
-    "Notas De clase/Integraciones de Soluciones.md",
-    "Notas De clase/Metodología de Desarrollo.md",
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
-    "Notas De clase/Graficacion.md",
     "Imagenes/e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png",
     "Imagenes/7a7a7f209080b46554e46c0d5d21a16f_MD5.png",
     "Imagenes/cd904d614de6e8f25509de79e436da0b_MD5.png",
