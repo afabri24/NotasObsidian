@@ -52,3 +52,8 @@ gTTS
 playsound==1.2.2==
 install PyAudio
 
+
+
+
+processing
+reacTiVision procesing Tuio11_Pro
