@@ -63,3 +63,33 @@ gpg -kv
 gpg --import [documento]
 
 gpg -a -r [destinatario] -r [enviador] --encrypt
+
+
+footprinting
+
+
+fingerprint
+
+- Preferencias de cookies
+- Preferencias de No rastrear
+- Zona horaria Resolusion de pantalla y su profundidad de color
+
+
+Lista de tipo de actividades que ponen en riesgo tu ciberseguridad y la de tu organizacion
+
+Ransomware
+malware
+ataque botnet
+estafa de inversion
+estafa de inversion
+estafa de la factura falsa
+Vishing
+Smishing
+Fraude del ceo
+
+Fingerprinting Activo
+Finger pasivo
+
+Fingerprint de usuario
+Finger de dispositivo
+Fingerprint web Finger de vulnerabilidad
