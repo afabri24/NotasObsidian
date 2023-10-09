@@ -197,7 +197,7 @@
             }
           },
           {
-            "id": "960a65850eeff6c6",
+            "id": "787b74a6f68e5ef5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -205,7 +205,7 @@
             }
           },
           {
-            "id": "56b6ff6571350843",
+            "id": "1e647d83c556dde0",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -235,7 +235,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56b6ff6571350843",
+  "active": "1e647d83c556dde0",
   "lastOpenFiles": [
     "Notas De clase/Graficacion.md",
     "Notas De clase/Integraciones de Soluciones.md",
