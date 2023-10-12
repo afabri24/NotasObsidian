@@ -359,3 +359,35 @@ foorprinting pasivo
 
 steghide embed -cf imagenConExtension -ef archivoParaEncriptar
 steghide extract -sf imagenConExtension
+
+
+analisis malware estatico 
+analisis malware dinamico
+
+
+InetSim- Sevicio de simulacion
+La mayoria del malware, cuando se ejecuta, llega a internet(servidor de comando y control)
+
+es un paquete de software que simula las solicitudes HTTP/HTTPS
+
+
+-Fakenet
+
+
+
+sistema 
+red 
+Archivos
+
+
+
+Pasos de analisis dinamico:
+Revertir a la instatanea limpia
+ejecuccion de las herramientas de supervision/analisis dinamico
+ejecuccion de miestra de malware
+deteccion de las herramientas de monitoreo
+analisis de resultados
+
+
+keyloggers
+Programa o un dispositivo de hardwareque captura todo las teclas que presionan en el teclado,tambien puede capturarse pantallas,videos y audios

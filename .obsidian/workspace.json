@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seguridad ejercicios.md",
+                "file": "Notas De clase/Seguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seguridad ejercicios.md",
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seguridad ejercicios.md",
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seguridad ejercicios.md"
+                "file": "Notas De clase/Seguridad.md"
               }
             }
           },
@@ -235,13 +235,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919cd9d6fb0c882a",
+  "active": "ac5a12e7b2ac478b",
   "lastOpenFiles": [
+    "Notas De clase/Proyecto Integrador.md",
+    "Seguridad ejercicios.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Graficacion.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Metodología de Desarrollo.md",
-    "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Seguridad.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
     "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
@@ -255,7 +256,6 @@
     "README.md",
     "Documentación de seguridad.md",
     "Union de Notas.canvas",
-    "Seguridad ejercicios.md",
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
     "Imagenes/e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png",
     "Imagenes/7a7a7f209080b46554e46c0d5d21a16f_MD5.png",
