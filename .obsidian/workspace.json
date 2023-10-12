@@ -197,7 +197,7 @@
             }
           },
           {
-            "id": "787b74a6f68e5ef5",
+            "id": "f68a843dff845bb3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -205,7 +205,7 @@
             }
           },
           {
-            "id": "1e647d83c556dde0",
+            "id": "919cd9d6fb0c882a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -235,7 +235,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac5a12e7b2ac478b",
+  "active": "919cd9d6fb0c882a",
   "lastOpenFiles": [
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Graficacion.md",
