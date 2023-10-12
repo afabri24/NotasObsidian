@@ -391,3 +391,6 @@ analisis de resultados
 
 keyloggers
 Programa o un dispositivo de hardwareque captura todo las teclas que presionan en el teclado,tambien puede capturarse pantallas,videos y audios
+
+pynput
+kw.py
