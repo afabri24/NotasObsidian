@@ -394,3 +394,23 @@ Programa o un dispositivo de hardwareque captura todo las teclas que presionan e
 
 pynput
 kw.py
+
+La iyeccion sql es una tecnica de inyeccion de codigo que puede destruir su base de datos
+La inyeccion de SQL es una de las tecnicas de pirateria web mas comunes
+
+La inyeccion SQL es la colocacion de codigo malicioso en declaraciones SQL, a traves de la entrada de una pagina web
+
+
+SQLi en banda(clasico): el atacante utiliza el mismo canal de comunicacion para lanzar sus ataques y recopilar sus resultados
+
+Hay dos subvariantes:
+	-SQLi basado en errores: el atacante realiza acciones que hacen que la base de datos genere mensajes de error
+	-SQLi basado en union: Esta tecnica aprovecha el operador UNION SQL, que fusiona varias secuencias de seleccion generdas por la basde datos oara obtener una unica respuesta  HTTP
+
+SQLi inferencial(ciego): El atacante envia cargas utiles de datos al sevidor y observa la respuesta y el comportamiento del servidor para obtener mas informacion sobre su estructura
+
+Las inyecciones ciegas SQL se pueden clasificar de la siguiente manera:
+	Booleano: ese atacante envia una consulta SQL a la base de datos, solicitando a la aplicacion que devuelva un resultado.
+	Basado en tiempo: El atacante envia una consulta SQL a la base de datos, este puede ver desde el tiempo que la base de datos tarda en responder 
+
+Las inyecciones fuera de banda: Se realiza cuando el atacante no puede usar el mismo canal para lanzar el ataque y recopilar informacion

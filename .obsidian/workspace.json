@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbeedbf325cf11f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,18 +207,18 @@
             }
           },
           {
-            "id": "060cbfe8b49dc5b9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "5d78c127e4a30e1e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4d590d30b4dbebf",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -235,7 +245,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d78c127e4a30e1e",
+  "active": "c4d590d30b4dbebf",
   "lastOpenFiles": [
     "Notas De clase/Proyecto Integrador.md",
     "Seguridad ejercicios.md",
