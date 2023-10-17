@@ -66,19 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dbeedbf325cf11f0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,18 +197,18 @@
             }
           },
           {
-            "id": "5d78c127e4a30e1e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c4d590d30b4dbebf",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "65b8de6d3ba6d534",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -245,11 +235,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4d590d30b4dbebf",
+  "active": "ac5a12e7b2ac478b",
   "lastOpenFiles": [
+    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Proyecto Integrador.md",
     "Seguridad ejercicios.md",
-    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Graficacion.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Metodología de Desarrollo.md",

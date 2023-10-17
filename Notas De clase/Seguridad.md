@@ -414,3 +414,7 @@ Las inyecciones ciegas SQL se pueden clasificar de la siguiente manera:
 	Basado en tiempo: El atacante envia una consulta SQL a la base de datos, este puede ver desde el tiempo que la base de datos tarda en responder 
 
 Las inyecciones fuera de banda: Se realiza cuando el atacante no puede usar el mismo canal para lanzar el ataque y recopilar informacion
+
+ se puede  tener el acesso a nombres de usuario yy contraseñasa de una base de datos
+
+nombre de usuario    "or""="
