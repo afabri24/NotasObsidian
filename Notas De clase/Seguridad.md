@@ -418,3 +418,24 @@ Las inyecciones fuera de banda: Se realiza cuando el atacante no puede usar el m
  se puede  tener el acesso a nombres de usuario yy contraseñasa de una base de datos
 
 nombre de usuario    "or""="
+
+
+Atyaques de Cross-site scripting(XSS)
+
+Los ataques de Cross-site Scripting(XSS) consisten basicamente en la ejecuccion de codigo script(como visual basic script o java script) arbitario en un navegador, en el contexto de la seguridad de la conexion a un determinado servidor web
+
+
+
+reflejada/non-persistent XSS consiste eb modficar valores qye la aplicacion web usa para pasar variables entre dos paginas. ConXSS reflejado el atacante podria robar las cookies para luego robar la identidad
+
+
+Almacenado/ persistent XSS:
+Consiste en insertar HTML(programacion peligrosos en sitios que lo permitan; de esta forma se quedara visible a los usuarios que ingresen en el sitio modificado
+
+como puedes evotar ser victima de XSS
+
+Validacion de datos: es el proceso de asegurarse que tu aplicacion analiza el tipo de datos corrects
+
+Desifeccion de datos: la desinfeccion de datos se centra en manipular los datos para asegurarse que son seguros, eliminando cualquier parte indeseable y normalizandolos en la forma correcta
+
+Escape de salida: se debe escapar cualquier dato que se devuelve al usuario. esto evita que el navegador malinterprete alguna secuencia especial de caracteres
