@@ -197,18 +197,18 @@
             }
           },
           {
-            "id": "5f616838c2b67864",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "73802d04d96ad813",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "968d24a50db182b1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -235,7 +235,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac5a12e7b2ac478b",
+  "active": "968d24a50db182b1",
   "lastOpenFiles": [
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
