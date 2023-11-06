@@ -287,3 +287,95 @@ Usuarios/1/juan **o** Usuarios/1,juan
 Diferentes exception:
 CheckException
 Exception
+
+
+
+
+Introduccion de kotlin kotkin es u n lenguaje de programacion multiparadigma(POO y funcional), desarrollado por el equipo de jetbeans, el cual ha ido tmado peso, debido a que entro a formar parte oficialmente como lenguaje Android
+
+Funcionamendiante la maquina vritual de java(JVM) y ofrece las mismas prestaciones de java
+
+
+Es un lenguaje que tien e una sintaxis simple, una facil estructura y legibilidad que consigue que sea intuitivo. Utiliza las mejores caractristicas del lenguaje java y omite las que sobra
+
+Permutabilidad con Java
+
+Tiene total interoperobilidad ente ambos lenguajes, teniendo perfectamente un proyecto con codigo de kotlin y java a la vez sin problemas de compilacion
+
+
+Programacion Funcional y POO
+
+Como ya sabemos existen muchos paradigmas de programacion y cada uno tienes sus pros y sus  contras, en el caso de este lenguaje combina las fortalezas del lenguje funcional y a su vez las del lenguaje OO
+
+
+Codigo mas conciso
+
+En comñaracion con el codigo en una java y otra de kotlin, la de kotlin usa un codigo mas conciso y reducido(en la mayoria de casos) que mejora la legibilidad
+
+Clases
+
+La creacion de una clase en kotlin se usandola palabra reservada class
+
+Class Persona {
+
+}
+
+Atributos las clases suelen contener atributos y metodos. en el siguiente ejemplo se muestra como agregar a la clase Persona, los atributos nombre de tipo String y edad de tipo int
+
+var nombre: String = ""
+var edad: Int = 0
+
+var : es una variable 
+val : es una cosntante
+
+
+En cambio si queremos crear una una variable que contenga null, hay que añadir un ? despues del tipo de variable, un ejemplo:
+
+var colegio:String? = null
+
+
+Inicializacion como kotlin no dispone de la palabrea reservada new
+
+Cuando tengamos la instancia dela clase creada podemos modificar los atributos de la siguente manera
+
+Var juan=Perosna()
+juan.nombre="Pedro Palacios"
+juan.edad= 32
+juan.escuela="UV"
+
+
+Constructores
+
+En la declaracion de la clase, hacemos la implementacion del constructor:
+
+class Persona(var nombre: String, var edad:int, var escuela:String?)
+
+Constructores
+
+Si queremos añadir un contructor secundario a nuestra clase debemos de usar la palabrea reservada contrucructor
+
+Este constructor se debe crear  con la palabra reservada this
+
+
+Class(var nombre: String, var edad:int, var colegio:String?)
+var email:String =""
+
+contructor(nombre:String,edad:int,colegio:String?,email:String):this (nombre,eddad,colegio){
+	This.email=email
+}
+
+Funciones
+
+para crear funciones en Kotlin tenemos que usar lapalabra reservada fun
+
+fun esElegibleParaVotar(edad:boolean):Boolean{
+	return edad>=18
+}
+
+Herencia
+
+En Kotlin se ´puede  extender de un clase al añadir funciones adiconales a ella sin su definicion original. Debemos usar : en lugar de la palbra rreservada extends de java
+
+class(var nombre: String, var edad:int, var colegio:String?){...}
+
+class Employee(name:String, edad:int,colegio:String?,compañia:String)Persona{...}
