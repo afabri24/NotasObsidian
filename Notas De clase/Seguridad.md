@@ -439,3 +439,56 @@ Validacion de datos: es el proceso de asegurarse que tu aplicacion analiza el ti
 Desifeccion de datos: la desinfeccion de datos se centra en manipular los datos para asegurarse que son seguros, eliminando cualquier parte indeseable y normalizandolos en la forma correcta
 
 Escape de salida: se debe escapar cualquier dato que se devuelve al usuario. esto evita que el navegador malinterprete alguna secuencia especial de caracteres
+
+
+Exploit: Programa o codigo que se aprovecha de un agujero de seguridad(Vulnerabilidad) en una apkicacion
+
+Existen 2 tipos: 
+Conocidos - son aquellos de los que se tiene constancia y podemos tomar medidas para evitar ver nuestros sistemas afectados.
+Desconocidos: Estos se utilizan sobre vulnerabilidades que aun han sido reportadas al publico general y  por tanto, suponen una gran amenazas, especialmente si se utilizan en ataques dirigidos a empresas o gobiernos
+
+
+negacion de servicios una negacion de sevicios (Denial of Service DoS) es una interrupcion del servicio como resultado de la falta de disponibilidad del sistema o destruccion
+DoS: de una computadora
+DDoS: de mas computadoras
+
+
+Saturacion:Saturar
+modificacion de la configuracion: su objetivo es alterar o eliminar las configuracion de alguno delos elementos clave de los sistemas 
+destruccion:Destruccion o alteraccion fisica
+disruptivo: Consiste en la interrupcion de la comunicacion
+obstruccion: Este tipo de tecnicas intenta impedir la comunicacion ente los interlocutores, impidiendo que la victima se pueden comunicar de forma adecuadamente
+
+
+Falsificacion Ip( Ip Spofing )
+
+Se falsifica una direccion de origen en le paquete en el paquete ip
+
+
+Inundacion SYN(SYN flooding)
+
+Se produce una inundacion SYN cuando un atacante envia una solicitud para concectarse al servidor de destino pero no completa la conexion a traves de lo que se conoce como un protocolo de Control de transmision(TCP)/ UP para crear una conexion entre un host/cliente local y un servidor.
+
+
+ UDP flood(Saturacion UDP)
+ Este ataque DDos Aprovecha el protocolo UDP(User Datagram Protocol), un protocolo de red que no necesita un sesion iniciada en el equipo recmoto. Este tipo de ataque inunda puertos aleatorios dicho host remoto con numerosos paquetes UDP
+
+ICMP Flood ( Saturacion por ping)
+Similar al principio de inundadcion udp, este en particular sarura ek recurso de destino con solicitud de parquetes "eco" ICMP( Mas conocido como ping), basicamente se trata de enviar paquete de solicitud  sin esperar los paquetes de respuesta
+
+Ataque smurf (Smurf Attack)
+El atacante envia paquetes de difusion del protoclo de mensajes de control de intenet(ICMP) a varios host con una direccion de protocolo de internet (IP) origen falso que pertenece a la maquina de destino
+
+Desbordamiento de búfer (Buffer overflow)
+Es un ataque en el que el atacanteinunda un elemento de red, como un campo de direccion con mas caracteres de los que puede
+
+
+Ping de la muerte (PING of death)
+
+Un atacante del sistema envia paquetes IP que son más grandes que los 65.536 bytes permitidos por el protoclo IP. Muchos sistemas operativos, incluidsos los sistemas operativos de red, no pueden manejar estos paquetes de gran tamaño; entonces, se congelan y eventualmente se estrellan.
+
+El esquema de este ataque es el siguente:
+
+ping direccion ip.del.objetivo -l 65535 -n 10000000 -w 0-0000.1
+ ataque land
+ Denegacion de red de area local

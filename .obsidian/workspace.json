@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Seguridad.md"
+                "file": "Notas De clase/Interfaces de Usuario Avanzadas.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             }
           },
           {
-            "id": "47a2d4e072d1e187",
+            "id": "5f616838c2b67864",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -205,7 +205,7 @@
             }
           },
           {
-            "id": "267e1fa04aacb5cd",
+            "id": "73802d04d96ad813",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -235,7 +235,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "267e1fa04aacb5cd",
+  "active": "73802d04d96ad813",
   "lastOpenFiles": [
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Proyecto Integrador.md",
