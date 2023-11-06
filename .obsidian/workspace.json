@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "2d0c8f41341c8351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e98e8d2bba757f5b",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -197,18 +209,18 @@
             }
           },
           {
-            "id": "73802d04d96ad813",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "968d24a50db182b1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "485e49ecd71356d2",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -235,13 +247,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "968d24a50db182b1",
+  "active": "2d0c8f41341c8351",
   "lastOpenFiles": [
+    "Notas De clase/Integraciones de Soluciones.md",
+    "Untitled.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Seguridad ejercicios.md",
     "Notas De clase/Graficacion.md",
-    "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Seguridad.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
