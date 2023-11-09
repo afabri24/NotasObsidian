@@ -573,3 +573,88 @@ interceptar datos sensibles antes de que lleguen al ordenador objetivo.
 [[922677b374334151bcc30e9e026a5c82_MD5.png|Open: Pasted image 20231109141715.png]]
 
 ![[922677b374334151bcc30e9e026a5c82_MD5.png]]
+
+Ingeniería social
+• Cualquier acto que influye sobre una
+persona para tomar una acción que
+puede ser o no de su interés. Se puede
+influir de manera psicológica, fisiológica y
+tecnológica sobre una persona. Los
+mismo principios que son utilizados de
+forma positiva se pueden usar de forma
+malintencionada.
+
+Importancia de la ingeniería social en la ciberseguridad.
+• La importancia de la ingeniería social en ciberseguridad radica en
+varios aspectos clave:
+• Ataques altamente efectivos: Los ataques de ingeniería social, bien
+ejecutados, tienen tasas de éxito significativamente altas.
+• Amenazas internas: La mayoría de los incidentes de seguridad
+provienen de amenazas internas.
+• Adaptabilidad: Los ciberdelincuentes se adaptan constantemente y
+perteccionan sus técnicas de ingeniería social..
+• Protección de la marca y la reputación: Los ataques de ingeniería
+social pueden socavar la confianza del público en una organización.
+
+La pandemia ha tenido un impacto significativo en la forma
+en que las personas trabajan, se comunican y utilizan la
+tecnología, y los ciberdelincuentes han aprovechado esta
+situación para perfeccionar sus técnicas de ingeniería social.
+Tendencias y cambios en el panorama de la ingeniería social
+después del COVID-19:
+Aprovechamiento de la incertidumbre
+. Teletrabajo
+Educación en línea
+Salud y bienestar en línea
+Ciberseguridad consciente
+Estafas de donaciones y caridad
+Mayor sofisticación
+
+Se refiere a la manipulación de las personas para obtener información
+o accesos que comprometan la seguridad de un individuo o de una
+organización.
+Basada en personas: cuando la interacción es directa entre el atacante
+y la víctima ya sea en una conversación cara a cara o vía telefónica.
+Ejemplos: prueba del sistema", "tailgating" o también "piggybacking",
+"shoulder surfing".
+Basada en computadoras: se hace uso de estafas electrónicas para
+engañar a las personas y lograr el objetivo del atacante. Ejemplos:
+"phishing", "keyloggers", "screenloggers", "spyware"
+
+[[898590b1f8c5616b1d8c6d6686fd1665_MD5.png|Open: Pasted image 20231109144640.png]]
+![[898590b1f8c5616b1d8c6d6686fd1665_MD5.png]]
+[[eb7ce39bbe36e80f629a2fa3b37db21b_MD5.png|Open: Pasted image 20231109144928.png]]
+![[eb7ce39bbe36e80f629a2fa3b37db21b_MD5.png]]
+
+La ingeniería social activa
+Técnica sofisticada que los atacantes utilizan para manipular a las personas y obtener
+acceso no autorizado a sistemas, información confidencial o recursos.
+• Phishing sofisticado: Los atacantes utilizan correos electrónicos, mensajes de texto o
+llamadas telefónicas para crear una sensación de urgencia o miedo en las víctimas.
+• Engaño por voz (vishing): Los atacantes utilizan la voz y la comunicación telefónica para
+persuadir a las víctimas.
+• Ataques en persona: Los atacantes pueden infiltrarse en las instalaciones físicas de una
+organización haciéndose pasar por personal autorizado o contratistas.
+• Redes sociales y perfiles falsos: Los atacantes pueden crear perfiles falsos en redes
+sociales para establecer relaciones de confianza con las víctimas.
+• Suplantación de identidad y pretextos convincentes: Los atacantes utilizan historias
+ficticias y pretextos creíbles para engañar a las personas.
+
+
+La ingeniería social pasiva
+Técnica en la que los atacantes recopilan información valiosa SIN INTERACTUAR
+directamente con las víctimas. Se basa en la observación, la recopilación de datos públicos
+y la explotación de la información que ya está disponible.
+• Reconocimiento e investigación: La ingeniería social pasiva comienza con la fase de
+reconocimiento, donde los atacantes recopilan información sobre las víctimas y los
+objetivos potenciales.
+• Dumpster Diving (buceo en la basura): En esta técnica, los atacantes revisan la basura o
+los contenedores de reciclaje en busca de información impresa o documentos .
+• Shoulder Surfinq (espionaje visual): Consiste en observar las acciones o la información
+de la víctima de orma encubierta, como mirar por encima del hombro de alguien.
+• Búsqueda en línea y OSINT (Inteligencia de Fuente Abierta): Los atacantes utilizan
+motores de búsqueda avanzados y técnicas de OSINT para descubrir información
+adicional sobre las víctimas.
+
+[[a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png|Open: Pasted image 20231109145852.png]]
+![[a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png]]
