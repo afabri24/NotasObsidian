@@ -492,3 +492,84 @@ El esquema de este ataque es el siguente:
 ping direccion ip.del.objetivo -l 65535 -n 10000000 -w 0-0000.1
  ataque land
  Denegacion de red de area local
+
+
+Las botnets, formadas por dispositivos comprometidos, también
+pueden alquilarse a otros posibles atacantes. A menudo, la botnet está
+disponible para servicios de "ataque por alquiler", que permiten a
+usuarios no calificados lanzar ataques DDoS.DDoS permite enviar exponencialmente más solicitudes al objetivo, que aumenta el poder de ataque. También aumenta la dificultad
+atribución, ya que la verdadera fuente del ataque es más difícil
+identificar.
+
+Sniffing
+
+Se refiere al proceso de obtener información adicional y
+realizar un reconocimiento mas detallado basado en la
+información recopilada en fase de fingerptinting.
+En esta fase, se utilizan varios procedimientos diferentes con
+el objetivo de identificar hosts, puertos y servicios en la red de
+destino. Todo el propósito es identificar vulnerabilidades en
+los canales de comunicación y luego crear un plan de pruebas.
+
+Escaneo de puertos: se utiliza para enumerar los puertos y servicios abiertos.
+Escaneo de red: se usa para enumerar las direcciones IP.
+Análisis de vulnerabilidades: se utiliza para descubrir la presencia de
+vulnerabilidades conocidas.
+
+Escaneo ICMP: se utiliza para identificar dispositivos activos y determinar si ICMP
+puede pasar a través de un firewall.
+• Ping Sweep
+EI barrido de ping se usa para determinar el rango de direcciones IP que se asigna a
+los dispositivos activos. Permite calcular las máscaras de subred e identificar la
+cantidad de hosts presentes en la subred. Esto a su vez les permite crear un
+inventario de dispositivos activos en la subred.
+• Escaneo de echo ICMP
+ICMP Echo Scanning se utiliza para determinar qué hosts están activos en una red
+de destino haciendo ping a todas las máquinas de la red.
+
+TCP Connect
+Stealth Scan
+Inverse TCP Flag Scanning
+Xmas Scan
+ACK Flag Probe Scanning
+
+Escaneo de servicios de red UDP
+IDLE / IPID Header Scan
+UDP Scanning
+SSDP and list scanning
+
+Técnicas de escaneo
+Las técnicas de escaneo de puertos son extremadamente útiles cuando se trata de
+identificar puertos abiertos. Las técnicas de escaneo representan diferentes
+categorías que se utilizan según los tipos de protocolo. Se clasifican en tres
+categorías:
+• Escaneo de servicios de red ICMP
+• Escaneo de servicios de red TCP
+• Escaneo de servicios de red UDP
+
+Categorías Suplantación de identidad
+(Spoofing)
+Correo electrónico falsificado: los correos electrónicos que contienen
+un virus informático se envían desde direcciones de correo electrónico
+existentes, con el fin de engañar mejor al destinatario.
+EI spoofing IP es el proceso de envío de paquetes IP desde una
+dirección IP de origen que no ha sido asignada al ordenador que los
+envía.
+Smart-spoofing: permite utilizar cualquier aplicación cliente gracias a la
+usurpación de una dirección IP.
+
+Categorías Suplantación de identidad
+(Spoofing)
+Spoofing de DNS: conocido como envenenamiento de caché, en este
+método se trata de introducir datos DNS corruptos en la terminal del
+usuario, y por 10 tanto impedirles que accedan a las páginas web que
+quieren visitar.
+Spoofing de DDoS: EI spoofing de DDoS es un subtipo de spoofing de IP
+que usan los hackers para llevar a cabo ataques de Denegación de
+Servicio Distribuido (DDoS) contra ordenadores, redes y páginas web.
+Spoofing de ARP: Los hackers optan por el spoofing de ARP para
+interceptar datos sensibles antes de que lleguen al ordenador objetivo.
+
+[[922677b374334151bcc30e9e026a5c82_MD5.png|Open: Pasted image 20231109141715.png]]
+
+![[922677b374334151bcc30e9e026a5c82_MD5.png]]

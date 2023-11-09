@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interfaces avanzadas.md",
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interfaces avanzadas.md",
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interfaces avanzadas.md"
+                "file": "Notas De clase/Seguridad.md"
               }
             }
           },
@@ -259,10 +259,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1060e27115dfd4b",
+  "active": "4fbf1ce5b8021a28",
   "lastOpenFiles": [
-    "Untitled.md",
+    "922677b374334151bcc30e9e026a5c82_MD5.png",
+    "Pasted image 20231109141318.png",
+    "Pasted image 20231109140048.png",
+    "Pasted image 20231109140041.png",
     "interfaces avanzadas.md",
+    "Untitled.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
@@ -289,10 +293,7 @@
     "Imagenes/351768e3bd3c8c374ee37e86b3cd86ed_MD5.png",
     "Imagenes/faf486ace327482ccbc1db25356f6388_MD5.png",
     "Imagenes/bb44b05b45a46239a5b2dc1b6ab61782_MD5.png",
-    "Imagenes/4000e25289263df788dfd4defd9fb9a5_MD5.webp",
-    "Imagenes/b7cc72276e166bc78d9fbe724e93d286_MD5.png",
     "Untitled",
-    "Imagenes/a5fe3f236313bfd0902f1b88dbff9240_MD5.jpg",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Untitled.canvas",
