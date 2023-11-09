@@ -209,7 +209,7 @@
             }
           },
           {
-            "id": "968d24a50db182b1",
+            "id": "d05b6cb79b367df6",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -217,7 +217,7 @@
             }
           },
           {
-            "id": "485e49ecd71356d2",
+            "id": "1b0ba303afd81feb",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -247,7 +247,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d0c8f41341c8351",
+  "active": "1b0ba303afd81feb",
   "lastOpenFiles": [
     "Notas De clase/Integraciones de Soluciones.md",
     "Untitled.md",
