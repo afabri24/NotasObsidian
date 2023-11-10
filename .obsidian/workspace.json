@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "interfaces avanzadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "interfaces avanzadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Seguridad.md"
+                "file": "interfaces avanzadas.md"
               }
             }
           },
@@ -259,8 +259,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e5a621bdcc440fc",
+  "active": "a1060e27115dfd4b",
   "lastOpenFiles": [
+    "Notas De clase/Seguridad.md",
     "a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png",
     "eb7ce39bbe36e80f629a2fa3b37db21b_MD5.png",
     "898590b1f8c5616b1d8c6d6686fd1665_MD5.png",
@@ -276,7 +277,6 @@
     "Seguridad ejercicios.md",
     "Notas De clase/Graficacion.md",
     "Notas De clase/Metodología de Desarrollo.md",
-    "Notas De clase/Seguridad.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
     "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
@@ -292,7 +292,6 @@
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
     "Imagenes/e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png",
     "Imagenes/7a7a7f209080b46554e46c0d5d21a16f_MD5.png",
-    "Imagenes/cd904d614de6e8f25509de79e436da0b_MD5.png",
     "Untitled",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
