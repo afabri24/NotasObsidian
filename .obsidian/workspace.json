@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interfaces avanzadas.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interfaces avanzadas.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interfaces avanzadas.md",
+                "file": "Notas De clase/Integraciones de Soluciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interfaces avanzadas.md"
+                "file": "Notas De clase/Integraciones de Soluciones.md"
               }
             }
           },
@@ -261,6 +261,8 @@
   },
   "active": "a1060e27115dfd4b",
   "lastOpenFiles": [
+    "Notas De clase/Proyecto Integrador.md",
+    "interfaces avanzadas.md",
     "Notas De clase/Seguridad.md",
     "a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png",
     "eb7ce39bbe36e80f629a2fa3b37db21b_MD5.png",
@@ -269,10 +271,8 @@
     "Pasted image 20231109141318.png",
     "Pasted image 20231109140048.png",
     "Pasted image 20231109140041.png",
-    "interfaces avanzadas.md",
     "Untitled.md",
     "Notas De clase/Integraciones de Soluciones.md",
-    "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Seguridad ejercicios.md",
     "Notas De clase/Graficacion.md",

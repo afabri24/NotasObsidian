@@ -379,3 +379,53 @@ En Kotlin se ´puede  extender de un clase al añadir funciones adiconales a ell
 class(var nombre: String, var edad:int, var colegio:String?){...}
 
 class Employee(name:String, edad:int,colegio:String?,compañia:String)Persona{...}
+
+//despues de kotlin Options
+viewBinding{
+	enable= true
+}
+
+
+private lateinit var binding: ActivityMainBinding
+
+
+binding = ActivityMainBinding.inflate(layoutInflater)
+
+val View = binding.root
+
+
+setContentView(view)
+
+binding.tvSaludo.text="hola mundo desde kotlin 2"
+
+
+
+un linearLayout en vertical borrar los textview
+
+
+agrega un emptyView 
+
+es loginActivity
+
+hacer un linearLayout
+
+30dp(arriba)
+
+16dp(izq y der)
+
+
+TextView
+
+Edittext
+
+layout with wrap parent
+wrap content
+
+
+
+
+Edit text 
+android: 
+
+
+manifest cambiar el intent filtler
