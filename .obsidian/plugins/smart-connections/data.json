@@ -1,12 +1,12 @@
 {
-  "api_key": "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",
-  "chat_open": true,
+  "api_key": "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",
+  "chat_open": false,
   "file_exclusions": "",
   "folder_exclusions": "",
   "header_exclusions": "",
   "path_only": "",
   "show_full_path": false,
-  "expanded_view": true,
+  "expanded_view": false,
   "group_nearest_by_file": false,
   "language": "es",
   "log_render": false,
@@ -14,7 +14,7 @@
   "recently_sent_retry_notice": false,
   "skip_sections": false,
   "smart_chat_model": "gpt-3.5-turbo-16k",
-  "view_open": true,
+  "view_open": false,
   "version": "1.6.34",
   "failed_files": [
     "",
@@ -23,6 +23,10 @@
     "Excalidraw/Concepto de videoJuego.md",
     "Excalidraw/Diferencia de Asincrono y sincrono.md",
     "Excalidraw/Drawing 2023-08-25 07.24.34.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "Notas De clase/Graficacion.md",
     "Notas De clase/Integraciones de Soluciones.md",
@@ -30,9 +34,11 @@
     "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Seguridad.md",
+    "Notas trabajos.md",
     "README.md",
+    "Seguridad ejercicios.md",
     "Union de Notas.canvas",
     "Untitled.canvas"
   ],
-  "license_key": ""
+  "license_key": "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"
 }
