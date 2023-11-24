@@ -57,3 +57,19 @@ install PyAudio
 
 processing
 reacTiVision procesing Tuio11_Pro
+
+
+
+
+Discapacidad
+	-Percepcion
+	-movimiento
+	-Cognicion/intelectual
+
+Edad
+	-Niños
+	-Personas mayores
+	
+Cultura e idioma
+
+Cuestiones sociales
