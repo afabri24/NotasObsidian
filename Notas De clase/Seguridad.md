@@ -657,4 +657,11 @@ motores de búsqueda avanzados y técnicas de OSINT para descubrir información
 adicional sobre las víctimas.
 
 [[a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png|Open: Pasted image 20231109145852.png]]
+
+
 ![[a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png]]
+[[fee2bfe3aec5a905f41be7ed479cf2c9_MD5.png|Open: Pasted image 20231114153613.png]]
+![[fee2bfe3aec5a905f41be7ed479cf2c9_MD5.png]]
+
+
+

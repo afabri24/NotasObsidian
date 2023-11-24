@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md",
+                "file": "Notas De clase/Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Integraciones de Soluciones.md"
+                "file": "Notas De clase/Seguridad.md"
               }
             }
           },
@@ -259,8 +259,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1060e27115dfd4b",
+  "active": "4fbf1ce5b8021a28",
   "lastOpenFiles": [
+    "fee2bfe3aec5a905f41be7ed479cf2c9_MD5.png",
+    "Pasted image 20231114153607.png",
+    "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Proyecto Integrador.md",
     "interfaces avanzadas.md",
     "Notas De clase/Seguridad.md",
@@ -272,7 +275,6 @@
     "Pasted image 20231109140048.png",
     "Pasted image 20231109140041.png",
     "Untitled.md",
-    "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Seguridad ejercicios.md",
     "Notas De clase/Graficacion.md",
@@ -291,7 +293,6 @@
     "Union de Notas.canvas",
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
     "Imagenes/e5eb4b6e1e557b3d6c275e583bc836ff_MD5.png",
-    "Imagenes/7a7a7f209080b46554e46c0d5d21a16f_MD5.png",
     "Untitled",
     "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
