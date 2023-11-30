@@ -1,6 +1,7 @@
 
 2023-09-04 Incripciones Exaver.md
 Base de las notas.md
+Documentación de seguridad.md
 Excalidraw/Concepto de videoJuego.md
 Excalidraw/Diferencia de Asincrono y sincrono.md
 Excalidraw/Diferencia de Asincrono y sincrono.md#Drawing
@@ -24,4 +25,5 @@ README.md
 Seguridad ejercicios.md
 Union de Notas.canvas
 Untitled.canvas
+Untitled.md
 interfaces avanzadas.md

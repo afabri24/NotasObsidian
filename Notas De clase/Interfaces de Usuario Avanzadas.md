@@ -80,3 +80,9 @@ Cuestiones sociales
 - Si la vision es limitada, utiliza magnificador de pantalla
 - si no puedos escuchar el video, leer los subtitulos
 - Si no tengo movilidad en las manos, dar ordenes mediante comandos de voz
+
+
+
+
+
+Social media: 
