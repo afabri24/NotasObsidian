@@ -17,6 +17,7 @@ Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md#Text Elements
 Notas De clase/Graficacion.md
 Notas De clase/Integraciones de Soluciones.md
 Notas De clase/Interfaces de Usuario Avanzadas.md
+Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md
 Notas De clase/Metodología de Desarrollo.md
 Notas De clase/Proyecto Integrador.md
 Notas De clase/Seguridad.md
