@@ -384,7 +384,7 @@ Archivos
 Pasos de analisis dinamico:
 Revertir a la instatanea limpia
 ejecuccion de las herramientas de supervision/analisis dinamico
-ejecuccion de miestra de malware
+ejecuccion de muestra de malware
 deteccion de las herramientas de monitoreo
 analisis de resultados
 
@@ -420,19 +420,18 @@ Las inyecciones fuera de banda: Se realiza cuando el atacante no puede usar el m
 nombre de usuario    "or""="
 
 
-Atyaques de Cross-site scripting(XSS)
+Ataques de Cross-site scripting(XSS)
 
 Los ataques de Cross-site Scripting(XSS) consisten basicamente en la ejecuccion de codigo script(como visual basic script o java script) arbitario en un navegador, en el contexto de la seguridad de la conexion a un determinado servidor web
 
 
-
-reflejada/non-persistent XSS consiste eb modficar valores qye la aplicacion web usa para pasar variables entre dos paginas. ConXSS reflejado el atacante podria robar las cookies para luego robar la identidad
+reflejada/non-persistent XSS consiste en modficar valores qye la aplicacion web usa para pasar variables entre dos paginas. ConXSS reflejado el atacante podria robar las cookies para luego robar la identidad
 
 
 Almacenado/ persistent XSS:
 Consiste en insertar HTML(programacion peligrosos en sitios que lo permitan; de esta forma se quedara visible a los usuarios que ingresen en el sitio modificado
 
-como puedes evotar ser victima de XSS
+como puedes evitar ser victima de XSS
 
 Validacion de datos: es el proceso de asegurarse que tu aplicacion analiza el tipo de datos corrects
 
@@ -441,7 +440,7 @@ Desifeccion de datos: la desinfeccion de datos se centra en manipular los datos 
 Escape de salida: se debe escapar cualquier dato que se devuelve al usuario. esto evita que el navegador malinterprete alguna secuencia especial de caracteres
 
 
-Exploit: Programa o codigo que se aprovecha de un agujero de seguridad(Vulnerabilidad) en una apkicacion
+Exploit: Programa o codigo que se aprovecha de un agujero de seguridad(Vulnerabilidad) en una aplicacion
 
 Existen 2 tipos: 
 Conocidos - son aquellos de los que se tiene constancia y podemos tomar medidas para evitar ver nuestros sistemas afectados.
