@@ -84,5 +84,17 @@ Cuestiones sociales
 
 
 
+Quien:
+Presencia ¿Quién esta en el espacio de trabajo?
+identidad ¿Quién esta participando?
+Autoría ¿Quién hizo eso?
 
-Social media: 
+Que:
+Acción ¿Qué están haciendo?
+interxion ¿Cuál es el objetivo de esa acción?
+Artefacto ¿En que objetivo están trabajando?
+
+Donde:
+Ubicación ¿Dónde están trabajando?
+Vista ¿Qué están viendo?
+Alcance ¿Que pueden ver? ¿Que pueden hacer
