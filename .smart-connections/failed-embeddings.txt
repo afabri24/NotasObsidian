@@ -1,6 +1,7 @@
 
 2023-09-04 Incripciones Exaver.md
 Base de las notas.md
+Desarrollo de software.md
 Documentación de seguridad.md
 Excalidraw/Concepto de videoJuego.md
 Excalidraw/Diferencia de Asincrono y sincrono.md
@@ -22,9 +23,11 @@ Notas De clase/Metodología de Desarrollo.md
 Notas De clase/Proyecto Integrador.md
 Notas De clase/Seguridad.md
 Notas trabajos.md
+Prueba kanban.md
 README.md
 Seguridad ejercicios.md
 Union de Notas.canvas
+Untitled Kanban.md
 Untitled.canvas
 Untitled.md
 interfaces avanzadas.md

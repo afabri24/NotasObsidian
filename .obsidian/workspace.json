@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e05764c86604176c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Desarrollo de software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Desarrollo de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Seguridad.md"
+                "file": "Desarrollo de software.md"
               }
             }
           },
@@ -187,10 +200,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "894211c396b64697",
+  "active": "e05764c86604176c",
   "lastOpenFiles": [
-    "Notas De clase/Interfaces de Usuario Avanzadas.md",
+    "Prueba kanban.md",
+    "Desarrollo de software.md",
+    "Untitled Kanban.md",
     "Notas De clase/Seguridad.md",
+    "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
     "Notas De clase/Proyecto Integrador.md",
