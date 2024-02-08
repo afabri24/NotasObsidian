@@ -49,3 +49,17 @@ Definicion de requirimientos:
 			}
 
 
+
+
+Requisitos que nos entrega el cliente:
+Iniciar sesion
+cerrar sesion
+Conexion a BD en la nube
+
+
+
+Requisitos que salieron a partir del analisis
+Dar de alta paciente
+registrar consulta
+Registrar diagnostico
+
