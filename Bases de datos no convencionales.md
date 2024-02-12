@@ -36,3 +36,7 @@ Evaluacion:
 
 
 ###### ¿Qué es una base de datos?
+
+Una base de datos es una recopilación organizada de información o datos estructurados , que normalmente se almacena de forma electrónica en un sistema informático. Normalmente, una base de datos esta controlada por un sistema de gestión de bases de datos.
+
+######
