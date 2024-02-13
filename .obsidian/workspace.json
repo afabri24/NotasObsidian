@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e92b6eadcf5d3330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases de datos no convencionales.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases de datos no convencionales.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases de datos no convencionales.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -215,9 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4429899e075cdcb",
+  "active": "e92b6eadcf5d3330",
   "lastOpenFiles": [
     "Bases de datos no convencionales.md",
+    "Untitled 1.md",
     "Desarrollo de software.md",
     "Prueba kanban.md",
     "Untitled Kanban.md",
@@ -254,7 +267,6 @@
     "Union de Notas.canvas",
     "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
     "Untitled",
-    "Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Untitled.canvas",
     "Imagenes",
