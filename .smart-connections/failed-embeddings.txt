@@ -1,6 +1,10 @@
 
 2023-09-04 Incripciones Exaver.md
 Base de las notas.md
+Bases de datos no convencionales.md#Datos del maestro
+Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#AAA
+Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#¿Qué es una base de datos?
+Bases de datos no convencionales.md#Programa#Temas
 Desarrollo de software.md
 Documentación de seguridad.md
 Excalidraw/Concepto de videoJuego.md

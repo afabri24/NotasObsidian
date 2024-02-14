@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Bases de datos no convencionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Bases de datos no convencionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Bases de datos no convencionales.md"
               }
             }
           },
@@ -227,10 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e92b6eadcf5d3330",
+  "active": "a4429899e075cdcb",
   "lastOpenFiles": [
-    "Bases de datos no convencionales.md",
     "Untitled 1.md",
+    "Bases de datos no convencionales.md",
     "Desarrollo de software.md",
     "Prueba kanban.md",
     "Untitled Kanban.md",
