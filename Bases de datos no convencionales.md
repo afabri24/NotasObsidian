@@ -51,4 +51,9 @@ Las bases de datos son el producto de la necesidad humana de almacenar la inform
 El manejo de las bases de datos se lleva mediante sistemas de gestión ( llamados DBMS Por sus siglas en ingles: Database Management Systems o sistemas de gestión de datos), que permiten el almacenamiento ordenado  y la rápida recuperación de la información.
 
 
+En la conformación de una base de datos se pueden seguir diferentes modelos y paradigmas, cada uno dotado de características, ventajas y dificultades, haciendo énfasis en su estructura organización al, su jerarquía, su capacidad de de trasmisión o de interrelación, etc. esto se conoce como modelos de base datos y permite el diseño y la implementación de algoritmos y otros mecanismos de gestión según sea el caso especifico.
 
+
+Modelo de base de datos relacionales
+
+Es un tipo de base de datos que almacena y proporciona acceso a puntos de datos relacionados entre si. Se basan en el modelo relacional, una forma intuitiva y directa de representar datos  en tablas. Normalmente utilizan un lenguaje de consulta estructurada (SQL) para escribir y consultar datos.
