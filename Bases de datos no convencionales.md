@@ -54,6 +54,15 @@ El manejo de las bases de datos se lleva mediante sistemas de gestión ( llamado
 En la conformación de una base de datos se pueden seguir diferentes modelos y paradigmas, cada uno dotado de características, ventajas y dificultades, haciendo énfasis en su estructura organización al, su jerarquía, su capacidad de de trasmisión o de interrelación, etc. esto se conoce como modelos de base datos y permite el diseño y la implementación de algoritmos y otros mecanismos de gestión según sea el caso especifico.
 
 
-Modelo de base de datos relacionales
+## Modelo de base de datos relacionales
 
 Es un tipo de base de datos que almacena y proporciona acceso a puntos de datos relacionados entre si. Se basan en el modelo relacional, una forma intuitiva y directa de representar datos  en tablas. Normalmente utilizan un lenguaje de consulta estructurada (SQL) para escribir y consultar datos.
+
+
+## Bases de Datos NoSQL
+
+Una base de datos NoSql, o base de datos no relacional, permite almacenar y manipular datos no estructurados y semiestructurados( a diferencia de una base datos relacional, que define como se deben componer todos los datos insertados en la base de datos)
+
+NoSql, clave-Valor, Documentales, grafos
+
+

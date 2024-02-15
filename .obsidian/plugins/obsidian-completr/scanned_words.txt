@@ -8,6 +8,7 @@ Diagramas
 Definicion
 De
 Dar
+Drawing
 del
 de
 datos
@@ -24,6 +25,7 @@ diagnostico
 descompone
 dominio
 digo
+document
 maestro
 mortigoza
 mx
@@ -36,6 +38,7 @@ mo
 manejan
 manera
 menos
+menu
 Miguel
 Mtr
 Manejo
@@ -46,6 +49,7 @@ Management
 Muy
 Medologia
 Modelado
+MORE
 Angel
 Actualidad
 AAA
@@ -58,6 +62,7 @@ Apoyo
 Ortigaza
 Orientado
 Observacion
+OPTIONS
 Clemente
 Clases
 Crud
@@ -84,6 +89,7 @@ iniciar
 indicar
 internet
 ingresado
+in
 FEI
 Facilidad
 Fases
@@ -112,6 +118,7 @@ Enfocada
 Ejemplo
 Enfoque
 Expone
+EXCALIDRAW
 Teams
 Temas
 TENER
@@ -195,12 +202,17 @@ SE
 SOFTWARE
 Situacion
 Siempre
+Switch
 teorico
 tico
 tiempo
 traves
 tratan
 trabajo
+tags
+to
+the
+this
 practico
 por
 producto
@@ -224,6 +236,8 @@ problema
 piezas
 problemas
 productos
+plugin
+parsed
 las
 la
 limitados
@@ -272,6 +286,7 @@ ellos
 estilos
 experimentados
 est
+excalidraw
 recopilaci
 recuperaci
 real
@@ -288,6 +303,7 @@ organizada
 ordenado
 onsultar
 objetos
+of
 que
 qu
 se
@@ -317,6 +333,7 @@ haga
 hacer
 Web
 Ventajas
+VIEW
 web
 Responsiva
 Resultados

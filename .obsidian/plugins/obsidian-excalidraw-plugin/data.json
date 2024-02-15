@@ -13463,7 +13463,7 @@
             "containerId": null,
             "originalText": "Presentation Title",
             "lineHeight": 1.2,
-            "baseline": 34
+            "baseline": 35
           },
           {
             "type": "text",
@@ -14511,7 +14511,7 @@
             "containerId": null,
             "originalText": "Date",
             "lineHeight": 1.2,
-            "baseline": 21
+            "baseline": 20
           },
           {
             "type": "ellipse",
@@ -17650,7 +17650,7 @@
             "containerId": null,
             "originalText": "Full name",
             "lineHeight": 1.2,
-            "baseline": 8
+            "baseline": 7
           },
           {
             "type": "ellipse",

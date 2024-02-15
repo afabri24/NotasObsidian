@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e8108d9650ef4df",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases de datos no convencionales.md",
+                "file": "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases de datos no convencionales.md",
+                "file": "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases de datos no convencionales.md"
+                "file": "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md"
               }
             }
           },
@@ -215,11 +225,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4429899e075cdcb",
+  "active": "4e8108d9650ef4df",
   "lastOpenFiles": [
+    "Bases de datos no convencionales.md",
+    "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
     "Desarrollo de software.md",
     "c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
-    "Bases de datos no convencionales.md",
     "Untitled 1.md",
     "Prueba kanban.md",
     "Untitled Kanban.md",
