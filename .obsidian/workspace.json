@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de software.md",
+                "file": "Bases de datos no convencionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de software.md",
+                "file": "Bases de datos no convencionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de software.md"
+                "file": "Bases de datos no convencionales.md"
               }
             }
           },
@@ -215,12 +215,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e05764c86604176c",
+  "active": "a4429899e075cdcb",
   "lastOpenFiles": [
+    "Desarrollo de software.md",
     "c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
     "Bases de datos no convencionales.md",
     "Untitled 1.md",
-    "Desarrollo de software.md",
     "Prueba kanban.md",
     "Untitled Kanban.md",
     "Notas De clase/Seguridad.md",
@@ -253,7 +253,6 @@
     "Base de las notas.md",
     "README.md",
     "Union de Notas.canvas",
-    "Imagenes/9b8c2236ed33b9f0e9511a1cfb0b796d_MD5.png",
     "Untitled",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Untitled.canvas",

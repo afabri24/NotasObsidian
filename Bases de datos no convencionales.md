@@ -16,7 +16,7 @@ Clases 2017 - Actualidad
 ### Temas
 
 - Introducción alas bases de datos  NoSQL
-- Manejo de grndes cantisdades de datos 
+- Manejo de grandes cantidades de datos 
 	- Modelo de documentos 
 	- modelo clave-valor
 	- Modelo de columnas
@@ -49,4 +49,6 @@ Accounting
 Las bases de datos son el producto de la necesidad humana de almacenar la informacion,  es decir, de preservarla contra el tiempo y el deterior, para poder acudir a aella posteriormente. En ese sentido indispensable para almacenar enormes cantidades de datos en espacios fissicos limitados.
 
 El manejo de las bases de datos se lleva mediante sistemas de gestión ( llamados DBMS Por sus siglas en ingles: Database Management Systems o sistemas de gestión de datos), que permiten el almacenamiento ordenado  y la rápida recuperación de la información.
+
+
 
