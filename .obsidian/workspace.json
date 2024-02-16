@@ -30,31 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a4429899e075cdcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de datos no convencionales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e8108d9650ef4df",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -104,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54f029a6b7b96556",
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
+                "file": "Desarrollo de software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
+                "file": "Desarrollo de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md"
+                "file": "Desarrollo de software.md"
               }
             }
           },
@@ -225,8 +202,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e8108d9650ef4df",
+  "active": "e05764c86604176c",
   "lastOpenFiles": [
+    "2024-02-15.md",
+    "Untitled.canvas",
     "Bases de datos no convencionales.md",
     "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
     "Desarrollo de software.md",
@@ -261,12 +240,9 @@
     "Excalidraw/Concepto de videoJuego.md",
     "Notas trabajos.md",
     "2023-09-04 Incripciones Exaver.md",
-    "Base de las notas.md",
-    "README.md",
     "Union de Notas.canvas",
     "Untitled",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
-    "Untitled.canvas",
     "Imagenes",
     "Excalidraw",
     "Notas De clase"

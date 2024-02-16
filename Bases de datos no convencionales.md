@@ -64,5 +64,5 @@ Es un tipo de base de datos que almacena y proporciona acceso a puntos de datos 
 Una base de datos NoSql, o base de datos no relacional, permite almacenar y manipular datos no estructurados y semiestructurados( a diferencia de una base datos relacional, que define como se deben componer todos los datos insertados en la base de datos)
 
 NoSql, clave-Valor, Documentales, grafos
-
+[[Drawing 2024-02-15 16.34.06.excalidraw]]
 
