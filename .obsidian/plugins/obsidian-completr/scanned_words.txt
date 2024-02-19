@@ -61,6 +61,7 @@ desea
 deslice
 dolor
 despu
+dYg
 maestro
 mortigoza
 mx
@@ -117,6 +118,7 @@ MMMM
 Matricula
 MrKKcS
 Maestra
+Martes
 Angel
 Actualidad
 AAA
@@ -149,6 +151,7 @@ Accesorias
 Accesoria
 Agendar
 Acesoria
+Aleman
 Ortigaza
 Orientado
 Observacion
@@ -197,6 +200,7 @@ LSB
 LG
 Lorem
 Lei
+Lunes
 informatica
 integrador
 informaci
@@ -253,6 +257,7 @@ Fingerprint
 Fecha
 Finalizar
 FI
+Frances
 UV
 UFM
 Una
@@ -267,6 +272,7 @@ UX
 UfBtIhPh
 Usuario
 Uy
+UMD
 uv
 una
 un
@@ -360,6 +366,8 @@ IGsP
 Ingrese
 IdCita
 Idiomas
+Ingles
+Italiano
 alas
 almacena
 almacenar
@@ -421,6 +429,8 @@ administrador
 agendados
 aministrador
 aA
+ay
+asignada
 bases
 base
 buscar
@@ -444,6 +454,8 @@ NyeD
 Nombre
 Nivel
 Nam
+NCf
+NQwKNrXN
 grndes
 grafos
 gesti
@@ -540,6 +552,7 @@ can
 cancelandolos
 cancelarlos
 clasificara
+cg
 valor
 ver
 ventajas
@@ -589,6 +602,9 @@ Seleccione
 Su
 Salida
 Sesion
+Sf
+SutM
+Seleccionar
 teorico
 tico
 tiempo
@@ -709,6 +725,7 @@ lobortis
 lxb
 lY
 lPOU
+lYORj
 no
 normalmente
 nica
@@ -815,6 +832,7 @@ editandolos
 editarlos
 enviara
 estudiante
+eMaUGNk
 recopilaci
 recuperaci
 real
@@ -876,6 +894,7 @@ organizacion
 ojumR
 oficial
 olvide
+ob
 que
 qu
 qn
@@ -956,6 +975,7 @@ fecha
 frente
 fQLk
 fElR
+fue
 humana
 haga
 hacer
@@ -982,6 +1002,8 @@ VZ
 Vishing
 Visual
 Verbal
+Viernes
+VQ
 web
 wazami
 wireframes
@@ -1001,6 +1023,7 @@ Resolusion
 Ransomware
 Registro
 REGISTRO
+REfS
 Generales
 Guiada
 Gu
@@ -1017,6 +1040,8 @@ HMac
 HH
 Hasta
 Hora
+HIuCQPq
+Horario
 jerarqu
 jeV
 juegadores
@@ -1036,6 +1061,7 @@ ya
 yQxrv
 yplKEPY
 yCG
+yo
 XML
 XQ
 Xe
@@ -1044,17 +1070,22 @@ XATi
 XxQEl
 Xs
 XKZ
+XNWUEArm
 JSON
 JFIF
 JLDbboeb
+Jueves
 kI
 kt
 kanban
 key
 kv
 ki
+kBTyPiV
 zZ
 zKqh
+zJUE
+zp
 Kh
 KW
 Kinest
