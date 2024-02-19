@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas De clase/Seguridad.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54f029a6b7b96556",
@@ -143,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PantallasWebAccesorias.excalidraw.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PantallasWebAccesorias.excalidraw.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PantallasWebAccesorias.excalidraw.md"
+                "file": "Notas De clase/Bases de datos no convencionales.md"
               }
             }
           },
@@ -247,12 +245,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f26e4197c929f1a",
+  "active": "894211c396b64697",
   "lastOpenFiles": [
+    "Notas De clase/Seguridad.md",
+    "Excalidraw/PantallasWebAccesorias.excalidraw.md",
     "Servicio Social/Sistema web para accesorias.md",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
     "Excalidraw/PantallasAppCIX.excalidraw.md",
-    "Excalidraw/PantallasWebAccesorias.excalidraw.md",
     "Servicio Social",
     "README.md",
     "Union de Notas.canvas",
@@ -271,7 +270,6 @@
     "Notas De clase/Bases de datos no convencionales.md",
     "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
     "Prueba kanban.md",
-    "Notas De clase/Seguridad.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Metodología de Desarrollo.md",
     "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",

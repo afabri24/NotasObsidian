@@ -66,3 +66,4 @@ Una base de datos NoSql, o base de datos no relacional, permite almacenar y mani
 NoSql, clave-Valor, Documentales, grafos
 [[Drawing 2024-02-15 16.34.06.excalidraw]]
 
+
