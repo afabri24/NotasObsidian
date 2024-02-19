@@ -66,4 +66,37 @@ Una base de datos NoSql, o base de datos no relacional, permite almacenar y mani
 NoSql, clave-Valor, Documentales, grafos
 [[Drawing 2024-02-15 16.34.06.excalidraw]]
 
+### Modelo clave valor
+Destacan por se muy eficientes tanto como la lectura como para escritura. Cada elemento esta identificado por una clave única que permite recuperar datos rápidamente. Los datos suelen estar almacenados como objetos binarios.
+
+### Modelo orientado a documentos
+son las bases de datos NoSQL mas versatiles y que se pueden usar en una gama amplia de proyectos. Permiten realizar consultas mas avanzadas sobre el contenido de un documento, además de consultas de clave- valor. Se apoyan simples como JSON o xml
+
+### Modelo orientadas a grafos
+Ofrecen una experiencia de búsqueda mas eficiente entre relaciones, respecto a las bases de datos relacionales. Este modelo usa estructuras de grafos para consultas semánticas y representa los datos como nodos, bordes y propiedades
+
+
+### Modelo orientada a objetos
+Agrupa la información en paquetes relacionados entre si: Los datos de cada registro  se combinan en un solo objeto, con todos sus atributos. De esta manera, toda la información esta disponible en el objeto, ya que sus datos quedan agrupados en el lugar de distribuidos en diferentes tablas.
+En los objetos no solo pueden guardarse los atributos, sino también los métodos que refleja la afinidad de estas bases de datos con los lenguajes de programación orientada a objetos: Al igual que en estos, cada objeto representa un conjunto de acciones que pueden llevarse a cabo.
+
+Se basa en el concepto de encapsular elementos de datos, sus características, atributos y el código que opera sobre en elementos complejos llamados objetos.
+
+
+## Bases de Datos Distribuidas
+
+Una base de datos distribuida consta de dos o mas archivos que se encuentran en sitios diferentes. La base de 
+datos puede almacenarse en varios ordenadores, ubicarse en la misma física o repartirse en diferentes redes.
+
+
+# Bases de de datos NoSQL
+
+NoSQL se refiere a una base de datos no relacional o no sql
+NoSQL significa " Not only SQL" y es asi hay que entender el modelo de bases de  datos: no se trata del elemento antagónico, sino de un enriquecimiento y complemento útil de las tradicionales bases de datos relacionales
+
+las aplicaciones modernas usan y generan tipos de datos complejos y que cambian constantemente, y las bases de datos relaciones no fueron diseñadas para gestionar este tipo de almacenamiento y recuperación de datos. Las bases de datos NoSQL son mas flexibles y escalables.
+
+El desarrollo de las bases de datos NoSQL, que surgió en respuesta a las limitaciones y los problemas de las bases de datos relacionales, supuso la creación de una autentica alternativa, ya que en muchas ocasiones las bases de datos relacionales ya no son capaces de hacer frente a las exigencias del desarrollo moderno de aplicaciones
+
+
 
