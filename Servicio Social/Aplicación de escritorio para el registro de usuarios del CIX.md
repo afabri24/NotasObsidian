@@ -2,7 +2,7 @@ Descripción del proyecto: 
 La aplicación será dirigida al usuarios nuevos y registros de horas, donde los usuarios al momento de registrarse en un sistema en linea, se actualice inmediatamente para crear una solicitud de registro nuevo y solo se tenga que confirmar los datos en persona y el usuario quedara registrado  
 Además al momento que el usuario que llegue al autoacceso pueda registrar su entrada y salida rápida y eficazmente.
 
-1. El sistema debe hacer el registro en linea
+1. El usuario podrá hacer el registro en linea
 2. El sistema deberá comprobar si el usuario ya completo un curso anterior
 3. El sistema debe entregar una matricula o numero unico para asegurar su registro
 4. El sistema deberá recibir el numero del usuario y revisar si existe
@@ -10,19 +10,19 @@ Además al momento que el usuario que llegue al autoacceso pueda registrar su en
 6. El sistema debe comprobar si se leyeron datos importantes
 7. Enviar un email cuando el registro este completado
 
-Atributos:
+Usuario:
+	Correo electrónico
+	Fecha de nacimiento
+	Matricula
+	Nombre completo
+	Idioma
+	Nivel
+	Grupo
 
-Correo electrónico
-Fecha de nacimiento
-Matricula
-Nombre completo
-Idioma
-Nivel
-Grupo
-
-Fecha
-Hora de entrada
-Hora de salida
+Registro:
+	Fecha
+	Hora de entrada
+	Hora de salida
 
 Pantallas
 [[PantallasAppCIX.excalidraw]]

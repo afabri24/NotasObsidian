@@ -44,6 +44,28 @@
             }
           },
           {
+            "id": "8a5f5ca09b4f15aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servicio Social/Sistema web para accesorias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f26e4197c929f1a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/PantallasWebAccesorias.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "075c78dc6cd83939",
             "type": "leaf",
             "state": {
@@ -54,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PantallasAppCIX.excalidraw.md",
+                "file": "Excalidraw/PantallasWebAccesorias.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PantallasAppCIX.excalidraw.md",
+                "file": "Excalidraw/PantallasWebAccesorias.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PantallasAppCIX.excalidraw.md"
+                "file": "Excalidraw/PantallasWebAccesorias.excalidraw.md"
               }
             }
           },
@@ -225,10 +247,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "075c78dc6cd83939",
+  "active": "9f26e4197c929f1a",
   "lastOpenFiles": [
+    "Servicio Social/Sistema web para accesorias.md",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
     "Excalidraw/PantallasAppCIX.excalidraw.md",
+    "Excalidraw/PantallasWebAccesorias.excalidraw.md",
     "Servicio Social",
     "README.md",
     "Union de Notas.canvas",
@@ -264,8 +288,6 @@
     "Imagenes/Pasted image 20231109140041.png",
     "Notas De clase/Graficacion.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Imagenes",
     "Excalidraw",

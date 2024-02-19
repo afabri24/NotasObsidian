@@ -102,7 +102,7 @@ Presentarse al centro
 de idiomas para su 
 registro oficial ^wnWvO4jk
 
-Registrar entrada ^7OJxqkw1
+Registrar entrada/Salida ^7OJxqkw1
 
 Ingrese su matricula ^aKneiUhG
 
@@ -125,6 +125,8 @@ No se ha registrado la matricula ^x88eaJiu
 Cuando el registro sea exitoso, se redirigirá después unos segundos a la pagina principal ^lPOU34W3
 
 Anteriormente ya se habia registrado ^Zb18utx0
+
+Registrar Hora ^ZXu4AFNc
 
 %%
 # Drawing
@@ -5684,7 +5686,7 @@ Anteriormente ya se habia registrado ^Zb18utx0
 			"type": "text",
 			"x": -141.2408987595779,
 			"y": 526.607509969968,
-			"width": 179.83985900878906,
+			"width": 249.69981384277344,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -5698,22 +5700,22 @@ Anteriormente ya se habia registrado ^Zb18utx0
 			"frameId": null,
 			"roundness": null,
 			"seed": 427743294,
-			"version": 80,
-			"versionNonce": 1839207458,
+			"version": 89,
+			"versionNonce": 472188066,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708357187097,
+			"updated": 1708360189696,
 			"link": null,
 			"locked": false,
-			"text": "Registrar entrada",
-			"rawText": "Registrar entrada",
+			"text": "Registrar entrada/Salida",
+			"rawText": "Registrar entrada/Salida",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "Registrar entrada",
+			"originalText": "Registrar entrada/Salida",
 			"lineHeight": 1.25
 		},
 		{
@@ -5891,7 +5893,7 @@ Anteriormente ya se habia registrado ^Zb18utx0
 			"id": "PPACeMKF",
 			"type": "text",
 			"x": 400.897270472959,
-			"y": 621.1164641864201,
+			"y": 645.9465423114201,
 			"width": 522.7777099609375,
 			"height": 27.57755055147063,
 			"angle": 0,
@@ -5906,11 +5908,11 @@ Anteriormente ya se habia registrado ^Zb18utx0
 			"frameId": null,
 			"roundness": null,
 			"seed": 1620553150,
-			"version": 171,
-			"versionNonce": 1363423074,
+			"version": 177,
+			"versionNonce": 878235938,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708357187098,
+			"updated": 1708360229986,
 			"link": null,
 			"locked": false,
 			"text": "Su hora y fecha de entrada ha sido registrada",
@@ -5927,7 +5929,7 @@ Anteriormente ya se habia registrado ^Zb18utx0
 		{
 			"id": "rqqhix6C",
 			"type": "text",
-			"x": 390.5870682670768,
+			"x": 400.8113114311393,
 			"y": 751.7107311900966,
 			"width": 518.1398315429688,
 			"height": 35,
@@ -5943,11 +5945,11 @@ Anteriormente ya se habia registrado ^Zb18utx0
 			"frameId": null,
 			"roundness": null,
 			"seed": 255455202,
-			"version": 85,
-			"versionNonce": 2011328446,
+			"version": 91,
+			"versionNonce": 71121150,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708357187098,
+			"updated": 1708360226862,
 			"link": null,
 			"locked": false,
 			"text": "No olvide registrar su hora de salida",
@@ -5964,10 +5966,10 @@ Anteriormente ya se habia registrado ^Zb18utx0
 		{
 			"id": "cWum4jR3ILeUcnAmbw3oy",
 			"type": "arrow",
-			"x": 508.6613643439027,
+			"x": 508.66136429793437,
 			"y": 485.38766133715546,
-			"width": 66.44691543512255,
-			"height": 85.77478388500674,
+			"width": 66.44691548109085,
+			"height": 85.7747838862199,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -5982,11 +5984,11 @@ Anteriormente ya se habia registrado ^Zb18utx0
 				"type": 2
 			},
 			"seed": 981522722,
-			"version": 203,
-			"versionNonce": 534489314,
+			"version": 207,
+			"versionNonce": 762927742,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708357236853,
+			"updated": 1708360219968,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5995,8 +5997,8 @@ Anteriormente ya se habia registrado ^Zb18utx0
 					0
 				],
 				[
-					66.44691543512255,
-					-85.77478388500674
+					66.44691548109085,
+					-85.7747838862199
 				]
 			],
 			"lastCommittedPoint": null,
@@ -6302,9 +6304,9 @@ Anteriormente ya se habia registrado ^Zb18utx0
 		{
 			"id": "fXFNUyq4pKh_-6DWl2EXH",
 			"type": "arrow",
-			"x": -91.92391806104786,
+			"x": -91.92391806104808,
 			"y": 1474.0486433569167,
-			"width": 66.58596622242646,
+			"width": 66.5859662224267,
 			"height": 56.36175896139707,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -6320,11 +6322,11 @@ Anteriormente ya se habia registrado ^Zb18utx0
 				"type": 2
 			},
 			"seed": 1890271486,
-			"version": 152,
-			"versionNonce": 1496380990,
+			"version": 156,
+			"versionNonce": 77945534,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708357475122,
+			"updated": 1708360219972,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6333,20 +6335,20 @@ Anteriormente ya se habia registrado ^Zb18utx0
 					0
 				],
 				[
-					66.58596622242646,
+					66.5859662224267,
 					56.36175896139707
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "p1rqE-iXclnUep6SUNXF0",
-				"focus": 0.9088621771213724,
-				"gap": 10.39254581227027
+				"gap": 10.39254581227027,
+				"focus": 0.9088621771213724
 			},
 			"endBinding": {
 				"elementId": "7QA-teBV4LwO9T25Ymg6Q",
-				"focus": -0.43980358734150293,
-				"gap": 3.4320642807905983
+				"gap": 3.4320642807905983,
+				"focus": -0.43980358734150293
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -6462,6 +6464,114 @@ Anteriormente ya se habia registrado ^Zb18utx0
 			"originalText": "Anteriormente ya se habia registrado",
 			"lineHeight": 1.25,
 			"baseline": 14
+		},
+		{
+			"type": "rectangle",
+			"version": 165,
+			"versionNonce": 927379710,
+			"isDeleted": false,
+			"id": "SNouoNsirAOYlKkOVTdLR",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 157.42474728538866,
+			"y": 741.6902013114936,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 195,
+			"height": 35,
+			"seed": 159896610,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "ZXu4AFNc"
+				}
+			],
+			"updated": 1708360213352,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 165,
+			"versionNonce": 1276402082,
+			"isDeleted": false,
+			"id": "ZXu4AFNc",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 182.1048086257207,
+			"y": 746.6902013114936,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 145.63987731933594,
+			"height": 25,
+			"seed": 595394530,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708360213354,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Registrar Hora",
+			"rawText": "Registrar Hora",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "SNouoNsirAOYlKkOVTdLR",
+			"originalText": "Registrar Hora",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "text",
+			"version": 426,
+			"versionNonce": 335154274,
+			"isDeleted": true,
+			"id": "NRNqFyiH",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -42.034649076916025,
+			"y": 800.2107701591499,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 294.9278259277344,
+			"height": 20,
+			"seed": 843867362,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1708360239110,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 1,
+			"text": "Anteriormente ya se habia registrado",
+			"rawText": "Anteriormente ya se habia registrado",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Anteriormente ya se habia registrado",
+			"lineHeight": 1.25,
+			"baseline": 14
 		}
 	],
 	"appState": {
@@ -6479,8 +6589,8 @@ Anteriormente ya se habia registrado ^Zb18utx0
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1658.2327844528927,
-		"scrollY": -338.1649937919623,
+		"scrollX": 457.6249963669552,
+		"scrollY": -360.0737462333686,
 		"zoom": {
 			"value": 0.49999999999999994
 		},
