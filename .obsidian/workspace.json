@@ -25,14 +25,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de software.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "35d65d4ad49751c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "075c78dc6cd83939",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/PantallasAppCIX.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54f029a6b7b96556",
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de software.md",
+                "file": "Excalidraw/PantallasAppCIX.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de software.md",
+                "file": "Excalidraw/PantallasAppCIX.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de software.md"
+                "file": "Excalidraw/PantallasAppCIX.excalidraw.md"
               }
             }
           },
@@ -202,17 +225,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e05764c86604176c",
+  "active": "075c78dc6cd83939",
   "lastOpenFiles": [
-    "2024-02-15.md",
-    "Untitled.canvas",
-    "Bases de datos no convencionales.md",
-    "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
-    "Desarrollo de software.md",
-    "c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
-    "Untitled 1.md",
-    "Prueba kanban.md",
+    "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
+    "Excalidraw/PantallasAppCIX.excalidraw.md",
+    "Servicio Social",
+    "README.md",
+    "Union de Notas.canvas",
+    "2023-09-04 Incripciones Exaver.md",
+    "Notas trabajos.md",
+    "Base de las notas.md",
+    "Documentación de seguridad.md",
+    "Notas De clase/Seguridad ejercicios.md",
+    "Notas De clase/interfaces avanzadas.md",
     "Untitled Kanban.md",
+    "Imagenes/c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
+    "Untitled 1.md",
+    "Notas De clase/Desarrollo de software.md",
+    "Untitled.canvas",
+    "2024-02-15.md",
+    "Notas De clase/Bases de datos no convencionales.md",
+    "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
+    "Prueba kanban.md",
     "Notas De clase/Seguridad.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Metodología de Desarrollo.md",
@@ -221,7 +255,6 @@
     "Imagenes/fee2bfe3aec5a905f41be7ed479cf2c9_MD5.png",
     "Imagenes/Pasted image 20231114153607.png",
     "Notas De clase/Integraciones de Soluciones.md",
-    "interfaces avanzadas.md",
     "Imagenes/a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png",
     "Imagenes/eb7ce39bbe36e80f629a2fa3b37db21b_MD5.png",
     "Imagenes/898590b1f8c5616b1d8c6d6686fd1665_MD5.png",
@@ -229,19 +262,10 @@
     "Imagenes/Pasted image 20231109141318.png",
     "Imagenes/Pasted image 20231109140048.png",
     "Imagenes/Pasted image 20231109140041.png",
-    "Untitled.md",
-    "Seguridad ejercicios.md",
     "Notas De clase/Graficacion.md",
     "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
     "Excalidraw/Drawing 2023-09-02 13.11.32.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md",
-    "Excalidraw/Diferencia de Asincrono y sincrono.md",
-    "Excalidraw/Concepto de videoJuego.md",
-    "Notas trabajos.md",
-    "2023-09-04 Incripciones Exaver.md",
-    "Union de Notas.canvas",
-    "Untitled",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Imagenes",
     "Excalidraw",

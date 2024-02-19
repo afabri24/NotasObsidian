@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"type":"file","file":"Excalidraw/Diferencia de Asincrono y sincrono.md","id":"7cf79e8961f4c77e","x":308,"y":-12,"width":400,"height":400},
-		{"id":"d663245ecbe136f8","x":-280,"y":-221,"width":382,"height":409,"type":"file","file":"Notas De clase/Integraciones de Soluciones.md"}
+		{"id":"d663245ecbe136f8","type":"file","file":"Notas De clase/Integraciones de Soluciones.md","x":-280,"y":-221,"width":382,"height":409},
+		{"type":"file","file":"Excalidraw/Diferencia de Asincrono y sincrono.md","id":"7cf79e8961f4c77e","x":220,"y":-216,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"853de20525c79c7f","fromNode":"7cf79e8961f4c77e","fromSide":"left","toNode":"d663245ecbe136f8","toSide":"right"}

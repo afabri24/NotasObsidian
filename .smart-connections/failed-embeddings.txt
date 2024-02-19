@@ -18,16 +18,37 @@ Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md
 Excalidraw/Drawing 2023-09-13 10.16.46.excalidraw.md
 Excalidraw/Drawing 2023-09-25 11.38.52.excalidraw.md
 Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md
+Excalidraw/Drawing 2024-02-19 08.38.26.excalidraw.md
+Excalidraw/PantallasAppCIX.excalidraw.md
+Excalidraw/PantallasAppCIX.excalidraw.md#Drawing
+Excalidraw/PantallasAppCIX.excalidraw.md#Text Elements
 Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md
 Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md#Drawing
 Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md#Text Elements
+Notas De clase/Bases de datos no convencionales.md
+Notas De clase/Bases de datos no convencionales.md#Datos del maestro
+Notas De clase/Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#AAA
+Notas De clase/Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#Bases de Datos NoSQL
+Notas De clase/Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#Modelo de base de datos relacionales
+Notas De clase/Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#¿Qué es una base de datos?
+Notas De clase/Bases de datos no convencionales.md#Programa#Temas
+Notas De clase/Desarrollo de software.md
+Notas De clase/Desarrollo de software.md#Medologia ICONIX#Analisis de requisitos:
+Notas De clase/Desarrollo de software.md#Medologia ICONIX#Carateristicas Generales:
+Notas De clase/Desarrollo de software.md#Medologia ICONIX#Definicion de requirimientos:
+Notas De clase/Desarrollo de software.md#Medologia ICONIX#Enfoque ICONIX
+Notas De clase/Desarrollo de software.md#Medologia ICONIX#Fases:
+Notas De clase/Desarrollo de software.md#Medologia ICONIX#Preguntas Iniciales
+Notas De clase/Desarrollo de software.md#Medologia ICONIX#Requisitos
 Notas De clase/Graficacion.md
 Notas De clase/Integraciones de Soluciones.md
 Notas De clase/Interfaces de Usuario Avanzadas.md
 Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md
 Notas De clase/Metodología de Desarrollo.md
 Notas De clase/Proyecto Integrador.md
+Notas De clase/Seguridad ejercicios.md
 Notas De clase/Seguridad.md
+Notas De clase/interfaces avanzadas.md
 Notas trabajos.md
 Prueba kanban.md
 README.md
