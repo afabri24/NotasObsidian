@@ -99,4 +99,47 @@ las aplicaciones modernas usan y generan tipos de datos complejos y que cambian 
 El desarrollo de las bases de datos NoSQL, que surgió en respuesta a las limitaciones y los problemas de las bases de datos relacionales, supuso la creación de una autentica alternativa, ya que en muchas ocasiones las bases de datos relacionales ya no son capaces de hacer frente a las exigencias del desarrollo moderno de aplicaciones
 
 
+## Bases de datos Documentales
+
+Se utilizan para la administración de datos semiestructurados. Se trata de datos que no siguen una estructura fija, sino que llevan la estructura casi en si misma. Sin embargo, con ayuda de marcadores dentro datos, la información pueden ordenarse.
+
+Crea un par simple: un documento especifico se asigna a una clave. En este documento, que puede tener formato XML, JSON o YAML, por ejemplo, se puede encontrar las información propiamente dicha. Como la base de datos no requiere un esquema especifico, en un almacén de documentos pueden integrarse diferentes clases de documentos. los cambios de documentos no cambian la base de datos.
+
+	BaseX: Este proyecto open source utiliza Java y XML. Base X viene con una interfaz de usuario.
+	MongoDB: MongoDB es la base de datos NoSQL mas extendida del mundo. El software esta escrito en c++ y emplea similares a JSON
+	simple DB:
+
+## Bases de datos de grafos
+
+Es un conjunto s de objetos(Vertices y aristas) que permite representar datos interconectados, asi como las relaciones entre ellas, de forma comprensible y como un unico y mas amplio conjunto de datos.
+
+Un ejemplo tipico del uso de bases de datos de grafos es el analisis de las relaciones entre los usuarios de las redes sociales o de los habitos de compra de los clientes en tiendas online.
+
+Recomendaciones personalizadas de compra o de amistades
+Crear perfiles completos de clientes
+Analisis de riesgo
+Deteccion de fraudes
+Busqueda de errores
+
+
+	Neo4j: Neo4j es la graph database mas poular y esta concebida como modelo de codigo abiertom
+	amazon neptum:
+	Sap hana Graph:
+	OrientDB:
+
+## Bases de datos de clave-valor
+Esta modalidad de base de datos, basa en una tabla de tan solo dos columnas, en una de ellas se guarda valor y en una en la otra que representa una cacteristica identificativa unica.
+
+Redis
+
+amazon DynamoDB:
+Berkeley DB
+Voldermolt
+
+
+Tecnologias que vamos a utilizar:
+BaseX->XML
+MongoDB->JSON
+NEO4j
+Redis
 
