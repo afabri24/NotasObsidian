@@ -8,3 +8,10 @@ Cronograma
 6. 27 al 31 de mayo
 7. 24 al 28 de junio
 8. 03 al 10 de julio
+
+Desarrollo
+Prueba
+Evaluación
+Conclusión
+
+Plantilla institucional
