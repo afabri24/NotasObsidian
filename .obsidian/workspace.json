@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "894211c396b64697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e05764c86604176c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "35d65d4ad49751c5",
             "type": "leaf",
             "state": {
@@ -44,38 +20,19 @@
             }
           },
           {
-            "id": "8a5f5ca09b4f15aa",
+            "id": "c35fb5845dff44aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicio Social/Sistema web para accesorias.md",
+                "file": "Experiencia recepcional.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9f26e4197c929f1a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/PantallasWebAccesorias.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "075c78dc6cd83939",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/PantallasAppCIX.excalidraw.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Experiencia recepcional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Experiencia recepcional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md"
+                "file": "Experiencia recepcional.md"
               }
             }
           },
@@ -245,15 +202,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "894211c396b64697",
+  "active": "c35fb5845dff44aa",
   "lastOpenFiles": [
-    "Notas De clase/Seguridad.md",
-    "Excalidraw/PantallasWebAccesorias.excalidraw.md",
-    "Servicio Social/Sistema web para accesorias.md",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
+    "Experiencia recepcional.md",
+    "Servicio Social/Sistema web para accesorias.md",
+    "Excalidraw/PantallasWebAccesorias.excalidraw.md",
+    "README.md",
+    "Notas De clase/Bases de datos no convencionales.md",
+    "Notas De clase/Seguridad.md",
     "Excalidraw/PantallasAppCIX.excalidraw.md",
     "Servicio Social",
-    "README.md",
     "Union de Notas.canvas",
     "2023-09-04 Incripciones Exaver.md",
     "Notas trabajos.md",
@@ -267,7 +226,6 @@
     "Notas De clase/Desarrollo de software.md",
     "Untitled.canvas",
     "2024-02-15.md",
-    "Notas De clase/Bases de datos no convencionales.md",
     "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
     "Prueba kanban.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
@@ -285,7 +243,6 @@
     "Imagenes/Pasted image 20231109140048.png",
     "Imagenes/Pasted image 20231109140041.png",
     "Notas De clase/Graficacion.md",
-    "Excalidraw/Drawing 2023-09-04 11.07.06.excalidraw.md",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Imagenes",
     "Excalidraw",
