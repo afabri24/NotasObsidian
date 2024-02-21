@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb1ad573fe34ef6",
+        "id": "34d995a39df24b7a",
         "type": "tabs",
         "children": [
           {
-            "id": "35d65d4ad49751c5",
+            "id": "a9b771f11cdd5d3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c35fb5845dff44aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiencia recepcional.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiencia recepcional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiencia recepcional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Experiencia recepcional.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c35fb5845dff44aa",
+  "active": "a9b771f11cdd5d3b",
   "lastOpenFiles": [
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
     "Experiencia recepcional.md",
