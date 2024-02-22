@@ -84,3 +84,8 @@ Características
 • Apoyo a la manera de trabajo de la gente.
 • Guía para los menos experimentados.
 • Expone los productos anteriores al código de manera estándar y comprensible.
+
+
+# Diagramas de robustez
+
+Estas reglas ayudan a imponer un patron sustantivo-verbo-sustantivo en el texto de su caso de uso. Si el texto de su caso de uso sigue este patron, los diagramas de robustex son faciles de dibujar 
