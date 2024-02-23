@@ -40,9 +40,33 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "f0a940e9f610e91f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mangas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67f348d15c1f9261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -212,8 +236,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "832b45ea971e7b6f",
+  "active": "67f348d15c1f9261",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "mangas.md",
     "Untitled.md",
     "Notas De clase/Desarrollo de software.md",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
@@ -234,7 +260,6 @@
     "Notas De clase/interfaces avanzadas.md",
     "Untitled Kanban.md",
     "Imagenes/c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
-    "Untitled 1.md",
     "Untitled.canvas",
     "2024-02-15.md",
     "Excalidraw/Drawing 2024-02-15 16.34.06.excalidraw.md",
@@ -245,7 +270,6 @@
     "Notas De clase/Proyecto Integrador.md",
     "Imagenes/fee2bfe3aec5a905f41be7ed479cf2c9_MD5.png",
     "Imagenes/Pasted image 20231114153607.png",
-    "Notas De clase/Integraciones de Soluciones.md",
     "Imagenes/a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png",
     "Imagenes/eb7ce39bbe36e80f629a2fa3b37db21b_MD5.png",
     "Imagenes/898590b1f8c5616b1d8c6d6686fd1665_MD5.png",
