@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "832b45ea971e7b6f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +212,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfe0ac9f1f192b56",
+  "active": "832b45ea971e7b6f",
   "lastOpenFiles": [
     "Untitled.md",
     "Notas De clase/Desarrollo de software.md",
