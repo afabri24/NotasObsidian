@@ -80,6 +80,7 @@ Distribuidas
 DB
 Deteccion
 DynamoDB
+Desarrollar
 del
 de
 datos
@@ -315,6 +316,7 @@ moderno
 marcadores
 modalidad
 mayo
+mi
 Miguel
 Mtr
 Manejo
@@ -377,6 +379,8 @@ Mantener
 Mas
 Mayor
 MongoDB
+MADRES
+Marcar
 Angel
 Actualidad
 AAA
@@ -480,6 +484,7 @@ Aprovechamiento
 Abierta
 Agrupa
 Avance
+AI
 Ortigaza
 Observacion
 OPTIONS
@@ -992,6 +997,7 @@ usan
 utilizados
 urgencia
 ubicarse
+utilizare
 Eminus
 Evaluacion
 Examen
@@ -1493,6 +1499,7 @@ abiertom
 amazon
 avance
 abril
+algoritmo
 bases
 base
 buscar
@@ -1936,6 +1943,7 @@ compra
 completos
 concebida
 cacteristica
+clasifciar
 valor
 ver
 ventajas
@@ -2447,6 +2455,7 @@ propiamente
 personalizadas
 poular
 porciento
+proponer
 las
 la
 limitados
@@ -2629,6 +2638,7 @@ ndose
 nticas
 nodos
 neptum
+nuevas
 Qu
 Qui
 Qaq
@@ -2669,6 +2679,7 @@ QFeOrCN
 QIKZdLoqG
 QRLKevpdLozPbhxrRN
 Que
+QUE
 es
 estructurados
 electr
@@ -2872,6 +2883,7 @@ extendida
 escrito
 emplea
 ellas
+etiquetado
 recopilaci
 recuperaci
 real
@@ -3288,6 +3300,7 @@ siguen
 simple
 source
 similares
+sufientes
 forma
 fissicos
 front
