@@ -143,3 +143,25 @@ MongoDB->JSON
 NEO4j
 Redis
 
+## Base de datos columnar
+
+Mientras que la mayoria de las bases de datos distribuyen la informacion en filas, las bases de datos columnares funcionan de la manera contraria: se distrubuyen en columnas
+
+amazon redshift
+mariaDB-columnStore:
+sap HANA
+Apache cassandra
+monetDB
+
+
+# ¿ por que usar una base de datos NoSQL?
+Mejor rendimiento
+Permite resolver problemas con el escalado de grandes volúmenes de datos relacionales
+estructurados, a la vez que hace posible la latencia baja y un rendimiento alto.
+Mejores datos
+Mas flexibilidad para utilizar cantidades masivas de datos estructurados, semi estructurados y no estructurados, así como datos relacionales.
+
+
+Costos reducidos
+
+Velocidad de llegada al mercado

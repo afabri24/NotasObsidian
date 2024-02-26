@@ -206,6 +206,7 @@ distribuidos
 distribuida
 dicha
 database
+detalles
 maestro
 mortigoza
 mx
@@ -317,6 +318,8 @@ marcadores
 modalidad
 mayo
 mi
+mostrara
+mostrando
 Miguel
 Mtr
 Manejo
@@ -824,6 +827,8 @@ interfaz
 interconectados
 identificativa
 institucional
+ingresar
+intentarlo
 FEI
 Facilidad
 Fases
@@ -886,6 +891,8 @@ Falsificacion
 Flood
 Flag
 Fuente
+Flujo
+FA
 UV
 UFM
 Una
@@ -1082,6 +1089,8 @@ Estafas
 Ejemplos
 Enga
 Evaluaci
+Excepci
+EX
 Teams
 Temas
 TENER
@@ -1500,6 +1509,10 @@ amazon
 avance
 abril
 algoritmo
+aceptar
+afirmaci
+alterno
+afirmacion
 bases
 base
 buscar
@@ -1560,6 +1573,8 @@ basura
 busca
 binarios
 bordes
+botones
+boton
 NoSQL
 Normalmente
 NO
@@ -1694,6 +1709,7 @@ guardarse
 generan
 graph
 guarda
+guardar
 cantisdades
 clave
 columnas
@@ -1944,6 +1960,10 @@ completos
 concebida
 cacteristica
 clasifciar
+confirmaci
+cambiara
+click
+conectar
 valor
 ver
 ventajas
@@ -2007,6 +2027,8 @@ valiosa
 versatiles
 viene
 vamos
+visualiza
+validar
 Bases
 BD
 BH
@@ -2456,6 +2478,9 @@ personalizadas
 poular
 porciento
 proponer
+pedido
+pendientes
+pudo
 las
 la
 limitados
@@ -2545,6 +2570,7 @@ lenguajes
 llevarse
 limitaciones
 llevan
+llenara
 no
 normalmente
 nica
@@ -2639,6 +2665,8 @@ nticas
 nodos
 neptum
 nuevas
+notificara
+nuevamente
 Qu
 Qui
 Qaq
@@ -2884,6 +2912,7 @@ escrito
 emplea
 ellas
 etiquetado
+encuentra
 recopilaci
 recuperaci
 real
@@ -3020,6 +3049,9 @@ reciclaje
 respecto
 refleja
 repartirse
+recupera
+rechazar
+rechazo
 organizada
 ordenado
 onsultar
@@ -3103,6 +3135,7 @@ ordenarse
 open
 online
 otra
+opci
 que
 qu
 qn
@@ -3301,6 +3334,8 @@ simple
 source
 similares
 sufientes
+selecciona
+seleccionara
 forma
 fissicos
 front
@@ -3400,6 +3435,7 @@ fueron
 flexibles
 formato
 fraudes
+formulario
 humana
 haga
 hacer
@@ -3533,6 +3569,7 @@ Validacion
 Vulnerabilidad
 Vertices
 Voldermolt
+Validar
 web
 wazami
 wireframes
