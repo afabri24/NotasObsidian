@@ -165,3 +165,22 @@ Mas flexibilidad para utilizar cantidades masivas de datos estructurados, semi e
 Costos reducidos
 
 Velocidad de llegada al mercado
+
+
+# Bases de datos SQL
+
+## LDD
+Lenguaje de definición de datos(LDD)
+El LDD de SQL proporciona ordenes para la creación, modificación y eliminación de base de datos y tablas(esquemas de relación), a su vez permite la creación de índices, llaves primarias y foráneas.
+
+También incluye ordenes para la definición de vistas, funciones y procedimientos almacenados de base de datos.
+
+## LMD
+El LMD de SQL es un lenguaje orientado a consultas, esta basado tanto en el algebra relacional como en el calculo relacional de tuplas.
+incluye ordenes para consultar, insertar, modificar y borrar filas(tuplas) de las tablas de la base de datos.
+
+## Algebra relacional
+
+El algebra relacional es un lenguaje de consulta procedimental.
+
+Todas las operaciones de algebbra relacional SIEMPRE tienen como resultado una tabla temporal
