@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -226,18 +226,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67f348d15c1f9261",
+  "active": "dfe0ac9f1f192b56",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
+    "Notas De clase/Bases de datos no convencionales.md",
     "mangas.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Notas De clase/Desarrollo de software.md",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
     "Experiencia recepcional.md",
     "Servicio Social/Sistema web para accesorias.md",
     "Excalidraw/PantallasWebAccesorias.excalidraw.md",
     "README.md",
-    "Notas De clase/Bases de datos no convencionales.md",
     "Notas De clase/Seguridad.md",
     "Excalidraw/PantallasAppCIX.excalidraw.md",
     "Servicio Social",

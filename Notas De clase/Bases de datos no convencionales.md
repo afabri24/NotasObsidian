@@ -154,7 +154,7 @@ Apache cassandra
 monetDB
 
 
-# ¿ por que usar una base de datos NoSQL?
+# ¿Por que usar una base de datos NoSQL?
 Mejor rendimiento
 Permite resolver problemas con el escalado de grandes volúmenes de datos relacionales
 estructurados, a la vez que hace posible la latencia baja y un rendimiento alto.

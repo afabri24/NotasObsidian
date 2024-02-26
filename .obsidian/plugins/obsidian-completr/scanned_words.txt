@@ -207,6 +207,9 @@ distribuida
 dicha
 database
 detalles
+distribuyen
+distrubuyen
+definici
 maestro
 mortigoza
 mx
@@ -320,6 +323,13 @@ mayo
 mi
 mostrara
 mostrando
+mariaDB
+monetDB
+menes
+masivas
+mercado
+modificaci
+modificar
 Miguel
 Mtr
 Manejo
@@ -384,6 +394,8 @@ Mayor
 MongoDB
 MADRES
 Marcar
+Mientras
+Mejor
 Angel
 Actualidad
 AAA
@@ -488,6 +500,8 @@ Abierta
 Agrupa
 Avance
 AI
+Apache
+Algebra
 Ortigaza
 Observacion
 OPTIONS
@@ -635,6 +649,7 @@ Crea
 Crear
 Cronograma
 Conclusi
+Costos
 Lic
 Las
 Lista
@@ -680,6 +695,9 @@ LO
 LjZwwLPnijDgypQfeTp
 Limitar
 Legislaci
+LDD
+Lenguaje
+LMD
 informatica
 integrador
 informaci
@@ -829,6 +847,7 @@ identificativa
 institucional
 ingresar
 intentarlo
+incluye
 FEI
 Facilidad
 Fases
@@ -1156,6 +1175,7 @@ Todo
 Tendencias
 Teletrabajo
 Tecnologias
+Todas
 Programa
 Porcentajes
 Practicas
@@ -1513,6 +1533,9 @@ aceptar
 afirmaci
 alterno
 afirmacion
+alto
+algebra
+algebbra
 bases
 base
 buscar
@@ -1575,6 +1598,8 @@ binarios
 bordes
 botones
 boton
+baja
+borrar
 NoSQL
 Normalmente
 NO
@@ -1964,6 +1989,12 @@ confirmaci
 cambiara
 click
 conectar
+columnar
+columnares
+contraria
+columnStore
+cassandra
+calculo
 valor
 ver
 ventajas
@@ -2029,6 +2060,8 @@ viene
 vamos
 visualiza
 validar
+vol
+vistas
 Bases
 BD
 BH
@@ -2168,6 +2201,7 @@ Shoulder
 Surfinq
 Sin
 Sap
+SIEMPRE
 teorico
 tico
 tiempo
@@ -2292,6 +2326,8 @@ tipico
 tiendas
 tan
 tesis
+tuplas
+temporal
 practico
 por
 producto
@@ -2481,6 +2517,9 @@ proponer
 pedido
 pendientes
 pudo
+posible
+primarias
+procedimental
 las
 la
 limitados
@@ -2571,6 +2610,9 @@ llevarse
 limitaciones
 llevan
 llenara
+latencia
+llegada
+llaves
 no
 normalmente
 nica
@@ -2667,6 +2709,8 @@ neptum
 nuevas
 notificara
 nuevamente
+ndices
+neas
 Qu
 Qui
 Qaq
@@ -2913,6 +2957,9 @@ emplea
 ellas
 etiquetado
 encuentra
+escalado
+eliminaci
+esquemas
 recopilaci
 recuperaci
 real
@@ -3052,6 +3099,10 @@ repartirse
 recupera
 rechazar
 rechazo
+redshift
+resolver
+reducidos
+relaci
 organizada
 ordenado
 onsultar
@@ -3136,6 +3187,7 @@ open
 online
 otra
 opci
+ordenes
 que
 qu
 qn
@@ -3336,6 +3388,8 @@ similares
 sufientes
 selecciona
 seleccionara
+sap
+semi
 forma
 fissicos
 front
@@ -3436,6 +3490,10 @@ flexibles
 formato
 fraudes
 formulario
+filas
+funcionan
+flexibilidad
+for
 humana
 haga
 hacer
@@ -3570,6 +3628,7 @@ Vulnerabilidad
 Vertices
 Voldermolt
 Validar
+Velocidad
 web
 wazami
 wireframes
@@ -3762,6 +3821,7 @@ HTTPS
 Hay
 HTML
 Header
+HANA
 jerarqu
 jeV
 juegadores
