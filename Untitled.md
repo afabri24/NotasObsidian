@@ -23,3 +23,7 @@ EX01: El sistema no pudo guardar el estado del pedido por que no se pudo conecta
 	6. El administrador recibe el un mensaje de error con un texto de "intentarlo nuevamente"
 	7. El sistema seguirá mostrando la pagina de administración de pedidos
 
+---
+Visualizar productos
+
+El usuario se encuentra en la pagina principal, donde se le mostraran todos los productos de la base datos
