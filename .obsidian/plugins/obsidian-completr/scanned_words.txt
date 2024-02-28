@@ -210,6 +210,8 @@ detalles
 distribuyen
 distrubuyen
 definici
+diagramas
+dibujar
 maestro
 mortigoza
 mx
@@ -849,6 +851,7 @@ institucional
 ingresar
 intentarlo
 incluye
+imponer
 FEI
 Facilidad
 Fases
@@ -1537,6 +1540,7 @@ afirmacion
 alto
 algebra
 algebbra
+ayudan
 bases
 base
 buscar
@@ -2063,6 +2067,7 @@ visualiza
 validar
 vol
 vistas
+verbo
 Bases
 BD
 BH
@@ -2521,6 +2526,7 @@ pudo
 posible
 primarias
 procedimental
+patron
 las
 la
 limitados
@@ -3104,6 +3110,8 @@ redshift
 resolver
 reducidos
 relaci
+robustez
+robustex
 organizada
 ordenado
 onsultar
@@ -3391,6 +3399,8 @@ selecciona
 seleccionara
 sap
 semi
+sustantivo
+sigue
 forma
 fissicos
 front
@@ -3495,6 +3505,7 @@ filas
 funcionan
 flexibilidad
 for
+faciles
 humana
 haga
 hacer

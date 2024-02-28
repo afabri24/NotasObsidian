@@ -88,4 +88,13 @@ Características
 
 # Diagramas de robustez
 
-Estas reglas ayudan a imponer un patron sustantivo-verbo-sustantivo en el texto de su caso de uso. Si el texto de su caso de uso sigue este patron, los diagramas de robustex son faciles de dibujar 
+Estas reglas ayudan a imponer un patron sustantivo-verbo-sustantivo en el texto de su caso de uso. Si el texto de su caso de uso sigue este patron, los diagramas de robustez son faciles de dibujar 
+
+
+1. Pega el texto del caso de uso directamente en el diagrama de robustez
+2. toma las clases para del modelo de dominio y agrega el que falte
+3. Se puede reescribir el caso de uso para eliminar ambigüedades mientras se dibuja el diagrama  robustez
+4. haz un objeto frontera para cada pantalla y asigna un nombre a cada una de las pantallas sin ambigüedades
+5. Recuerda que los controladores son solo ocasionalmente objetos de control reales; Son mas típicamente funciones lógicas en el software o sistema
+6. No hay que preocuparse por la dirección de las flechas en diagrama de robustez
+7. El diagrama de robustez representa un diseño conceptual preliminar de caso, no un diseño literalmente detallado
