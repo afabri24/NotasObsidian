@@ -186,3 +186,15 @@ El algebra relacional es un lenguaje de consulta procedimental.
 Todas las operaciones de álgebra relacional SIEMPRE tienen como resultado una tabla temporal
 
 
+Reunión externa 
+
+La reunión externa es utilizada cuando se requiere conservar las filas de una tabla al reunirla con otra a apesar que no cumplan con las condiciones especificadas.
+
+Los 2 principales tipos de reunión externa:
+
+Reunión externa derecha
+Reunión externa izquierda
+
+
+La relacion/tabla objetivo sera laque se encuentra a la izquierda de la operacion, el resultados seran todas las tuplas en relacion de la izquierda
+
