@@ -183,4 +183,6 @@ incluye ordenes para consultar, insertar, modificar y borrar filas(tuplas) de la
 
 El algebra relacional es un lenguaje de consulta procedimental.
 
-Todas las operaciones de algebbra relacional SIEMPRE tienen como resultado una tabla temporal
+Todas las operaciones de álgebra relacional SIEMPRE tienen como resultado una tabla temporal
+
+
