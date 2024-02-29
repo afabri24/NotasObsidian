@@ -196,5 +196,5 @@ Reunión externa derecha
 Reunión externa izquierda
 
 
-La relacion/tabla objetivo sera laque se encuentra a la izquierda de la operacion, el resultados seran todas las tuplas en relacion de la izquierda
+La relacion/tabla objetivo sera la que se encuentra a la izquierda de la operacion, el resultados seran todas las tuplas en relacion de la izquierda
 
