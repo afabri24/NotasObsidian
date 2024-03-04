@@ -212,6 +212,8 @@ distrubuyen
 definici
 diagramas
 dibujar
+derecha
+debian
 maestro
 mortigoza
 mx
@@ -854,6 +856,7 @@ ingresar
 intentarlo
 incluye
 imponer
+izquierda
 FEI
 Facilidad
 Fases
@@ -1030,6 +1033,7 @@ utilizados
 urgencia
 ubicarse
 utilizare
+utilizada
 Eminus
 Evaluacion
 Examen
@@ -1547,6 +1551,7 @@ algebra
 algebbra
 ayudan
 adir
+apesar
 bases
 base
 buscar
@@ -2006,6 +2011,9 @@ contraria
 columnStore
 cassandra
 calculo
+conservar
+cumplan
+condiciones
 valor
 ver
 ventajas
@@ -2627,6 +2635,7 @@ llenara
 latencia
 llegada
 llaves
+lgebra
 no
 normalmente
 nica
@@ -2974,6 +2983,8 @@ encuentra
 escalado
 eliminaci
 esquemas
+externa
+especificadas
 recopilaci
 recuperaci
 real
@@ -3119,6 +3130,9 @@ reducidos
 relaci
 robustez
 robustex
+reuni
+reunirla
+relacion
 organizada
 ordenado
 onsultar
@@ -3204,6 +3218,7 @@ online
 otra
 opci
 ordenes
+operacion
 que
 qu
 qn
@@ -3408,6 +3423,7 @@ sap
 semi
 sustantivo
 sigue
+sera
 forma
 fissicos
 front
@@ -3743,6 +3759,7 @@ Redes
 Recomendaciones
 Redis
 Realizar
+Reuni
 Generales
 Guiada
 Gu
