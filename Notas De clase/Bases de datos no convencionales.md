@@ -199,3 +199,37 @@ Reunión externa izquierda
 La relacion/tabla objetivo sera la que se encuentra a la izquierda de la operacion, el resultados seran todas las tuplas en relacion de la izquierda
 
 debian
+
+
+
+avg
+min
+max
+sum
+count
+
+
+Group by
+
+
+
+SELECT G1,G2..GN,F1(A1),F2(A2),...,Fn(AN) FORM R GROUP BYE G1,G2..GN
+
+R. es la relacion o tabla
+G. Es el nombre del atributo AGRUPADOR
+F. Es una funcion de agregacion
+A. Es un nombre de atributo que se va agregar.
+
+
+Select nombre, AVG(calificacion) AS promedio FROM ALUMNO GROUP BY nombre
+
+
+
+sql
+1. Primero se ejecutan las operaciones de producto cartesiano, Reunion o Reunion Externa.
+2. Despues se aplican los predicados o condiciones de la operacion seleccion (WHERE).
+3. se aplican las agrupaciones(GROUP BY)
+4. Se aplica la proyeccion de las columnas
+5. Se realizan los ordenamientos de datos
+
+() = subconsulta
