@@ -217,6 +217,7 @@ debian
 diagrama
 dibuja
 despues
+dara
 maestro
 mortigoza
 mx
@@ -563,6 +564,7 @@ Obtencion
 OSINT
 Ofrecen
 OrientDB
+Omitir
 Clemente
 Clases
 Crud
@@ -860,6 +862,8 @@ intentarlo
 incluye
 imponer
 izquierda
+ingresados
+intente
 FEI
 Facilidad
 Fases
@@ -1126,6 +1130,8 @@ Excepci
 EX
 Editar
 Eliminar
+Excepciones
+EXEC
 Teams
 Temas
 TENER
@@ -1768,6 +1774,8 @@ guarda
 guardar
 gicas
 guste
+guardara
+guardado
 cantisdades
 clave
 columnas
@@ -2033,6 +2041,7 @@ cumplan
 condiciones
 controladores
 conceptual
+conexi
 valor
 ver
 ventajas
@@ -2367,6 +2376,7 @@ tan
 tesis
 tuplas
 temporal
+tarde
 practico
 por
 producto
@@ -2565,6 +2575,7 @@ picamente
 preocuparse
 pondra
 presionara
+pedir
 las
 la
 limitados
@@ -3010,6 +3021,8 @@ esquemas
 externa
 especificadas
 extras
+extra
+encontrara
 recopilaci
 recuperaci
 real
@@ -3249,6 +3262,7 @@ opci
 ordenes
 operacion
 ocasionalmente
+omitir
 que
 qu
 qn
@@ -3623,6 +3637,7 @@ habitos
 hana
 historial
 haz
+hubo
 Web
 WC
 Wireframe
