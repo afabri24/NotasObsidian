@@ -27,3 +27,24 @@ EX01: El sistema no pudo guardar el estado del pedido por que no se pudo conecta
 Visualizar productos
 
 El usuario se encuentra en la pagina principal, donde se le mostraran todos los productos de la base datos
+
+
+----
+Añadir Producto
+
+El administrador se encuentra en la pagina de administración de productos, donde agregara uno nuevo, se abrira la pantalla de agregar producto donde pondra todos los datos basicos para agregarlo, despues la pantalla cambiara a caracteristicas del producto y agregara los datos que guste el administrador agregar y por ultimo finalizara la accion, agregando el producto a tabla productos y por ultimo el administrador podra ver un mensaje de afirmacion.
+
+
+1. El sistema muestra la pagina administracion de producto.
+2. El usuario da click en el boton agregar.
+3. El sistema lo redirecciona  a la pagina agregar pedido, donde se le mostrara el formulario de datos necesarios.
+4. El usuario agregara los datos necesarios y presionara el boton siguiente.
+5. El sistema lo redireccionara a un formulario donde podra agregar datos extras y/o caracteristicas del producto a agregar
+6. El usuario agrega los datos y finalizara el agregar producto.
+7. El sistema guarda el producto nuevo en la tabla productos, redirige al usuario al  y le muestra al administrador un mensaje de afirmacion.
+
+Flujo alterno:
+
+FA01: Omitir paso de agregar datos extras
+	 4.1. El administrador da click en omitir datos extra.
+	 5.1 El sistema guardara los datos que fueron ingresados en la pantalla datos basicos en un nuevo producto en la tabla productos, redireccionara al usuar

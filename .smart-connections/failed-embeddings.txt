@@ -64,3 +64,4 @@ Untitled Kanban.md
 Untitled.canvas
 Untitled.md
 interfaces avanzadas.md
+mangas.md

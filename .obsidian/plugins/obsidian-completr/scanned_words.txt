@@ -214,6 +214,9 @@ diagramas
 dibujar
 derecha
 debian
+diagrama
+dibuja
+despues
 maestro
 mortigoza
 mx
@@ -1034,6 +1037,7 @@ urgencia
 ubicarse
 utilizare
 utilizada
+ultimo
 Eminus
 Evaluacion
 Examen
@@ -1253,6 +1257,8 @@ Permiten
 Primera
 Prueba
 Plantilla
+Pega
+Producto
 Introducci
 ICONIX
 Imprementacion
@@ -1552,6 +1558,14 @@ algebbra
 ayudan
 adir
 apesar
+agrega
+ambigüedades
+agregara
+abrira
+agregarlo
+accion
+agregando
+administracion
 bases
 base
 buscar
@@ -1616,6 +1630,7 @@ botones
 boton
 baja
 borrar
+basicos
 NoSQL
 Normalmente
 NO
@@ -1751,6 +1766,8 @@ generan
 graph
 guarda
 guardar
+gicas
+guste
 cantisdades
 clave
 columnas
@@ -2014,6 +2031,8 @@ calculo
 conservar
 cumplan
 condiciones
+controladores
+conceptual
 valor
 ver
 ventajas
@@ -2542,6 +2561,10 @@ primarias
 procedimental
 patron
 perfil
+picamente
+preocuparse
+pondra
+presionara
 las
 la
 limitados
@@ -2636,6 +2659,7 @@ latencia
 llegada
 llaves
 lgebra
+literalmente
 no
 normalmente
 nica
@@ -2985,6 +3009,7 @@ eliminaci
 esquemas
 externa
 especificadas
+extras
 recopilaci
 recuperaci
 real
@@ -3133,6 +3158,10 @@ robustex
 reuni
 reunirla
 relacion
+reescribir
+redirecciona
+redireccionara
+redirige
 organizada
 ordenado
 onsultar
@@ -3219,6 +3248,7 @@ otra
 opci
 ordenes
 operacion
+ocasionalmente
 que
 qu
 qn
@@ -3529,6 +3559,10 @@ funcionan
 flexibilidad
 for
 faciles
+falte
+frontera
+flechas
+finalizara
 humana
 haga
 hacer
@@ -3588,6 +3622,7 @@ hay
 habitos
 hana
 historial
+haz
 Web
 WC
 Wireframe
@@ -3760,6 +3795,7 @@ Recomendaciones
 Redis
 Realizar
 Reuni
+Recuerda
 Generales
 Guiada
 Gu
