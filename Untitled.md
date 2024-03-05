@@ -40,11 +40,22 @@ El administrador se encuentra en la pagina de administración de productos, dond
 3. El sistema lo redirecciona  a la pagina agregar pedido, donde se le mostrara el formulario de datos necesarios.
 4. El usuario agregara los datos necesarios y presionara el boton siguiente.
 5. El sistema lo redireccionara a un formulario donde podra agregar datos extras y/o caracteristicas del producto a agregar
-6. El usuario agrega los datos y finalizara el agregar producto.
-7. El sistema guarda el producto nuevo en la tabla productos, redirige al usuario al  y le muestra al administrador un mensaje de afirmacion.
+6. El usuario agrega los datos y presionara el boton siguiente.
+7. El sistema le mostrara los detalles del producto 
+8. El usuario presionara agregar producto.
+9. El sistema guarda el producto nuevo en la tabla productos, redirige al usuario al  y le muestra al administrador un mensaje de afirmacion.
 
 Flujo alterno:
 
 FA01: Omitir paso de agregar datos extras
 	 4.1. El administrador da click en omitir datos extra.
-	 5.1 El sistema guardara los datos que fueron ingresados en la pantalla datos basicos en un nuevo producto en la tabla productos, redireccionara al usuar
+	 5.1 El sistema guardara los datos que fueron ingresados en la pantalla datos basicos en un nuevo producto en la tabla productos, redireccionara al usuario a la pagina administracion productos y mostrara un mensaje de afirmacion de producto guardado
+FA02: Cancelar operacion
+	4.2. El administrador dara click en el boton Cancelar
+	4.3 El sistema lo redireccionara al paso 1 sin hacer ninguna accion extras
+
+Excepciones:
+
+EXEC1: No hubo conexión a la base de datos al agregar producto
+	7.El sistema mostrara un mensaje donde le pedirá que lo intente de nuevo mas tarde
+	8. El usuario se encontrara en la pagina anterior
