@@ -233,3 +233,45 @@ sql
 5. Se realizan los ordenamientos de datos
 
 () = subconsulta
+
+
+
+# Modelo de datos
+
+Los modelos de datos desempeñan una funcion esencial a la hora de reunir a todos los segmentos de una empresa, es decir, a los de TI
+
+
+
+
+Es el proceso de cracicion de una representacion visual o esquema que define los sistemas de recopilación y administacion de informacion de cualquier organización
+
+
+El modelado de datps puede adoptar diferentes enfoques(conceptual, logico o fisico) y consiteen la realizadion de una serie de  tareas previas
+
+
+- identificar tipos de entidades
+- identificar atributos
+- Aplicar convenciones de nomenclatura
+- Identificar relaciones
+- Aplicar modelos de modelos de datos
+- asignar claves
+- Normalizar para reducir la redundancia de datos
+- Desnormalizar para mejorar el rendimiento
+
+
+## Modelado conceptual de datos
+Define la estructura general de su negocio y sus datos
+Los modelos de datos conceptuales ofrecen un a visión global de los datos explican lo siguiente:
+
+- ¿Que datos contiene el sistema?
+- Atributos de los datos, asi como las condiciones o restricciones de los mismos
+ - ¿Con que reglas empresariales se relación los datos?
+- ¿Como se organizan mejor los datos?
+- Requisitos de seguridad e integridad de datos
+
+## Modelado lógico de datos
+Una vez que el dominio del problema y los conceptos iniciales están mas claros gracias al modelado de datos conceptuales, es el momento de ser mas especifico con un modelo de datos lógicos
+
+
+## Modelado físico de datos
+Un modelado físico de datos en su implementación especifica del modelo lógico de datos, y lo crean los administradores de la base de datos y los desarrolladores

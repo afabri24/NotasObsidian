@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prioridad casos de uso.md"
+                "file": "Notas De clase/Bases de datos no convencionales.md"
               }
             }
           },
@@ -216,8 +216,8 @@
   },
   "active": "0bdd24458702face",
   "lastOpenFiles": [
-    "Untitled.md",
     "Prioridad casos de uso.md",
+    "Untitled.md",
     "Untitled 1.md",
     "Notas De clase/Desarrollo de software.md",
     "mangas.md",
