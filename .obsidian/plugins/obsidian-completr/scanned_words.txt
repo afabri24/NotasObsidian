@@ -82,6 +82,8 @@ Deteccion
 DynamoDB
 Desarrollar
 Despues
+Desnormalizar
+Define
 del
 de
 datos
@@ -219,6 +221,8 @@ diagrama
 dibuja
 despues
 dara
+datps
+desarrolladores
 maestro
 mortigoza
 mx
@@ -342,6 +346,9 @@ modificar
 mostraran
 min
 max
+modelado
+mejorar
+mismos
 Miguel
 Mtr
 Manejo
@@ -519,6 +526,7 @@ AGRUPADOR
 AVG
 AS
 ALUMNO
+Aplicar
 Ortigaza
 Observacion
 OPTIONS
@@ -670,6 +678,7 @@ Conclusi
 Costos
 Cancelar
 Cambiar
+Con
 Lic
 Las
 Lista
@@ -1210,6 +1219,7 @@ Tendencias
 Teletrabajo
 Tecnologias
 Todas
+TI
 Programa
 Porcentajes
 Practicas
@@ -1590,6 +1600,10 @@ atributo
 agregacion
 agrupaciones
 aplica
+administacion
+adoptar
+asignar
+administradores
 bases
 base
 buscar
@@ -1729,6 +1743,7 @@ NetFlow
 Not
 Neo
 NEO
+Normalizar
 grndes
 grafos
 gesti
@@ -1795,6 +1810,8 @@ gicas
 guste
 guardara
 guardado
+global
+gicos
 cantisdades
 clave
 columnas
@@ -2063,6 +2080,15 @@ conceptual
 conexi
 count
 cartesiano
+cracicion
+consiteen
+convenciones
+claves
+conceptuales
+contiene
+conceptos
+claros
+crean
 valor
 ver
 ventajas
@@ -2131,6 +2157,7 @@ validar
 vol
 vistas
 verbo
+visi
 Bases
 BD
 BH
@@ -2604,6 +2631,7 @@ pedir
 promedio
 predicados
 proyeccion
+previas
 las
 la
 limitados
@@ -2699,6 +2727,7 @@ llegada
 llaves
 lgebra
 literalmente
+logico
 no
 normalmente
 nica
@@ -2797,6 +2826,7 @@ notificara
 nuevamente
 ndices
 neas
+nomenclatura
 Qu
 Qui
 Qaq
@@ -3052,6 +3082,11 @@ extras
 extra
 encontrara
 ejecutan
+esencial
+empresa
+explican
+empresariales
+especifica
 recopilaci
 recuperaci
 real
@@ -3205,6 +3240,11 @@ redirecciona
 redireccionara
 redirige
 realizan
+reunir
+representacion
+realizadion
+redundancia
+restricciones
 organizada
 ordenado
 onsultar
@@ -3294,6 +3334,8 @@ operacion
 ocasionalmente
 omitir
 ordenamientos
+ofrecen
+organizan
 que
 qu
 qn
@@ -3501,6 +3543,7 @@ sigue
 sera
 sum
 subconsulta
+segmentos
 forma
 fissicos
 front
@@ -3610,6 +3653,7 @@ falte
 frontera
 flechas
 finalizara
+fisico
 humana
 haga
 hacer
