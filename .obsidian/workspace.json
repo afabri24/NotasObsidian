@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f91768f7dfb597c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -214,14 +226,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bdd24458702face",
+  "active": "1f91768f7dfb597c",
   "lastOpenFiles": [
+    "Notas De clase/Bases de datos no convencionales.md",
+    "Untitled 2.md",
     "Prioridad casos de uso.md",
     "Untitled.md",
     "Untitled 1.md",
     "Notas De clase/Desarrollo de software.md",
     "mangas.md",
-    "Notas De clase/Bases de datos no convencionales.md",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
     "Experiencia recepcional.md",
     "Servicio Social/Sistema web para accesorias.md",
@@ -245,7 +258,6 @@
     "Prueba kanban.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Notas De clase/Metodología de Desarrollo.md",
-    "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
     "Imagenes/fee2bfe3aec5a905f41be7ed479cf2c9_MD5.png",
     "Imagenes/Pasted image 20231114153607.png",
     "Imagenes/a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png",
