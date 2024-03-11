@@ -285,3 +285,8 @@ Se utilizan para la administración de datos semiestructurados. Se trata que no 
 
 
 Las bases da datos de documentos permiten una indexación fácil, potentes consultas ad hoc y analisis de colecciones de documentos
+
+
+Comentarios (:  comentario :)
+
+$variables
