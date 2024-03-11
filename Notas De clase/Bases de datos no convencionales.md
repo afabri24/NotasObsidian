@@ -275,3 +275,5 @@ Una vez que el dominio del problema y los conceptos iniciales están mas claros 
 
 ## Modelado físico de datos
 Un modelado físico de datos en su implementación especifica del modelo lógico de datos, y lo crean los administradores de la base de datos y los desarrolladores
+
+

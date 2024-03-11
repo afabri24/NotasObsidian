@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiencia recepcional.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiencia recepcional.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiencia recepcional.md"
+                "file": "Notas De clase/Bases de datos no convencionales.md"
               }
             }
           },
@@ -226,8 +226,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f91768f7dfb597c",
+  "active": "0bdd24458702face",
   "lastOpenFiles": [
+    "Experiencia recepcional.md",
     "Untitled 2.md",
     "Notas De clase/Bases de datos no convencionales.md",
     "Prioridad casos de uso.md",
@@ -236,7 +237,6 @@
     "Notas De clase/Desarrollo de software.md",
     "mangas.md",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
-    "Experiencia recepcional.md",
     "Servicio Social/Sistema web para accesorias.md",
     "Excalidraw/PantallasWebAccesorias.excalidraw.md",
     "README.md",
