@@ -277,3 +277,11 @@ Una vez que el dominio del problema y los conceptos iniciales están mas claros 
 Un modelado físico de datos en su implementación especifica del modelo lógico de datos, y lo crean los administradores de la base de datos y los desarrolladores
 
 
+
+
+# Modelo Documental
+
+Se utilizan para la administración de datos semiestructurados. Se trata que no siguen una estructura fija, sino que llevan la estructura casi en si misma. Sin embargo, con ayuda demarcadores dentro de estos datos, la información puede ordenarse
+
+
+Las bases da datos de documentos permiten una indexación fácil, potentes consultas ad hoc y analisis de colecciones de documentos
