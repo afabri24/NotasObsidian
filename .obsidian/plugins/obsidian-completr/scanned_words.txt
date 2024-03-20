@@ -223,6 +223,7 @@ despues
 dara
 datps
 desarrolladores
+demarcadores
 maestro
 mortigoza
 mx
@@ -679,6 +680,7 @@ Costos
 Cancelar
 Cambiar
 Con
+Comentarios
 Lic
 Las
 Lista
@@ -881,6 +883,7 @@ imponer
 izquierda
 ingresados
 intente
+indexaci
 FEI
 Facilidad
 Fases
@@ -1604,6 +1607,7 @@ administacion
 adoptar
 asignar
 administradores
+ad
 bases
 base
 buscar
@@ -2089,6 +2093,8 @@ contiene
 conceptos
 claros
 crean
+colecciones
+comentario
 valor
 ver
 ventajas
@@ -2632,6 +2638,7 @@ promedio
 predicados
 proyeccion
 previas
+potentes
 las
 la
 limitados
@@ -3715,6 +3722,7 @@ hana
 historial
 haz
 hubo
+hoc
 Web
 WC
 Wireframe
