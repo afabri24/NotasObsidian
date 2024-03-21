@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "mangas.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3134f0b0ffda7227",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
               }
             }
           },
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "mangas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "mangas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md"
+                "file": "mangas.md"
               }
             }
           },
@@ -226,13 +236,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bdd24458702face",
+  "active": "3134f0b0ffda7227",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Notas De clase/Bases de datos no convencionales.md",
     "Experiencia recepcional.md",
     "Untitled 2.md",
-    "Notas De clase/Bases de datos no convencionales.md",
     "Prioridad casos de uso.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Notas De clase/Desarrollo de software.md",
     "mangas.md",
