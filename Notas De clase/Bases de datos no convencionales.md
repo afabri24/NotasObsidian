@@ -292,3 +292,27 @@ Comentarios (:  comentario :)
 $variables
 
 
+
+
+# Modelo JSON
+
+
+
+Consultas ad hoc: MongoDB soporta la busqueda por campos, consultas de rangos y expresiones regulares.
+
+indexacion: cualquier campo en un documento de mongoDB puede ser indexado, al igual es posible hacer índices secundarios
+
+replicacion: MongoDB soporta el tipo de replicacion primario-secundario. cada grupi de primario y sis secundarios se denominaset.
+
+El primario puede ejecutar comandos de lectura y escritura. los secundarios replican los datos del pirmario y solo se pueden usar para lectura o copia de seguidad, pero no se pueden realizar escrituras.
+Los secundarios tienen la habilidad de poder eligir un nuevo primarioen caso que el primario actual deje de responder
+
+Balanceo d e carga: MongoDB Puede escalar de forma horizontal usando el concepto de shard. El dessrollador elige una clave de sharding, la cual determina como seran distribuidos los datos de una seleccion.
+
+MongoDB tiene la capacidad de ejecutarse en múltiples servidores, balanceado la carga y/o replicando los datos para poder mantener elsistema funcionado en caso de que exista in fallo de hardware
+
+Sharding: es un metodo de distribuir datos entre varias maquinas
+
+
+
+
