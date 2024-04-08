@@ -408,3 +408,20 @@ gt: >
 gte: >=
 lt: <
 lte: <=
+
+
+Para agrupar y contar cuantas encuentra en el grupo:
+db.users.aggregate([{$group:{_id:"$age",count:{$sum:1}}}])
+
+Para contar todos los registros:
+db.users.aggregate([{$group:{_id:null,totalUsers:{$sum:1}}}])
+
+Sacar el Promedio de los registros:
+db.users.aggregate([{$group:{_id:null,averageAge:{$avg:"$age"}}}])
+
+
+Mostrar el min con un limite de 1(el 1 en age es para decir que es ascedente o descentente)
+db.users.aggregate([{$sort:{age:1}},{$limit:1}])
+
+
+
