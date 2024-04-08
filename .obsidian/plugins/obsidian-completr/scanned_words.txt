@@ -224,6 +224,9 @@ dara
 datps
 desarrolladores
 demarcadores
+db
+deleteOne
+deleteMany
 maestro
 mortigoza
 mx
@@ -411,7 +414,6 @@ Mejores
 Mantener
 Mas
 Mayor
-MongoDB
 MADRES
 Marcar
 Mientras
@@ -884,6 +886,7 @@ izquierda
 ingresados
 intente
 indexaci
+inc
 FEI
 Facilidad
 Fases
@@ -1065,6 +1068,7 @@ ubicarse
 utilizare
 utilizada
 ultimo
+updateOne
 Eminus
 Evaluacion
 Examen
@@ -1291,6 +1295,7 @@ Plantilla
 Pega
 Producto
 Primero
+Post
 Introducci
 ICONIX
 Imprementacion
@@ -2095,6 +2100,7 @@ claros
 crean
 colecciones
 comentario
+category
 valor
 ver
 ventajas
@@ -2435,6 +2441,7 @@ tesis
 tuplas
 temporal
 tarde
+tecnology
 practico
 por
 producto
@@ -2639,6 +2646,8 @@ predicados
 proyeccion
 previas
 potentes
+posts
+post
 las
 la
 limitados
@@ -2735,6 +2744,7 @@ llaves
 lgebra
 literalmente
 logico
+likes
 no
 normalmente
 nica
@@ -3551,6 +3561,7 @@ sera
 sum
 subconsulta
 segmentos
+set
 forma
 fissicos
 front

@@ -315,4 +315,86 @@ Sharding: es un metodo de distribuir datos entre varias maquinas
 
 
 
+almacenamiento de archivos
 
+agregacion
+
+
+Ejecucion de javaScipt del lado del servidor
+
+
+
+principales limitaciones
+Imprementacion de propiedades ACID multidocumento
+Problemas de consistencia
+Bloqueo a nivel de dcumento
+las escrituras no son durables ni verificables
+Problemas de escalabilidad
+
+
+## Elementos basicos
+Mongo server
+mongosh
+MomgoDB Compass
+
+
+
+Use:Usar una base de datos
+show dbs: Mostrar bases de datos
+db: Mostrar base de datos utilizando
+
+
+createColletion(),db.CreateColletion("posts): crear base de datos 
+
+db.posts.insertOne(Object):crear base de datos atraves de un insert
+
+
+db.post.InsertOne({
+title:"Post title 2"
+body:"body of post",
+category: "news"
+likes:1, tags["news","events"],
+date:Date()},
+
+}
+
+db.posts.InsertMany([
+{title:"Post title 2"
+body:"body of post",
+category: "news"
+likes:1, tags["news","events"],
+date:Date()}}
+{
+title:"Post title 3"
+body:"body of post",
+category: "news"
+likes:3, tags["news","events"],
+date:Date()}}
+]
+)
+
+db.posts.updateOne({title:"post title 1"},{$set:{likes: 2}})
+
+
+db.posts.updateOne(
+({title:"post title 1"},
+
+{$set:{title:"Post title 2"
+body:"body of post",
+category: "news"
+likes:1, tags["news","events"],
+date:Date()},
+
+{upsert:true}
+)
+
+
+db.posts.updateMany(
+{}, {$inc:{likes:1}}
+)
+
+
+
+db.posts.deleteOne({title:"Post title 5"})
+
+db.posts.deleteMany({category:"tecnology"})

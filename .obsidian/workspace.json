@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "46e911a82950c571",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "1f91768f7dfb597c",
             "type": "leaf",
             "state": {
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,7 +236,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bdd24458702face",
+  "active": "46e911a82950c571",
   "lastOpenFiles": [
     "mangas.md",
     "Untitled.md",
