@@ -398,3 +398,13 @@ db.posts.updateMany(
 db.posts.deleteOne({title:"Post title 5"})
 
 db.posts.deleteMany({category:"tecnology"})
+
+
+Comparadores
+
+eq: =
+ne: !=
+gt: >
+gte: >=
+lt: <
+lte: <=
