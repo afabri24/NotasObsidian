@@ -44,16 +44,6 @@
             }
           },
           {
-            "id": "46e911a82950c571",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
             "id": "1f91768f7dfb597c",
             "type": "leaf",
             "state": {
@@ -65,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -236,7 +225,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46e911a82950c571",
+  "active": "dfe0ac9f1f192b56",
   "lastOpenFiles": [
     "mangas.md",
     "Untitled.md",
