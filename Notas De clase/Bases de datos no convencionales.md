@@ -425,3 +425,16 @@ db.users.aggregate([{$sort:{age:1}},{$limit:1}])
 
 
 
+# Base de datos clave-valor
+
+Esta modalidad de base de daros, se basa en una tabla de tan solo dos columnas, en cada una de ellas se guarda un valor y en la otra, una calve que representa una caracteristica identificativa unica
+
+Puesto que el almacenamiento clave-valor no exige ningun esquema fijo, se pueden realizar modificaciones en la base de datos sobre la marcha, de modo que es posible añadir nuevos campos mientras se realizan acciones en otras entradas
+
+
+
+# extras
+clave redcc:
+5025uv375018
+
+
