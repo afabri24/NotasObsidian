@@ -433,6 +433,39 @@ Puesto que el almacenamiento clave-valor no exige ningun esquema fijo, se pueden
 
 
 
+Redis es una de las bases de datos NoSQL de tipo clavle- valor distribuida en memoria. los valores pueden ser de diferentes tipos y tiene una amplia coleccion de operaciones disponibles para usuar segun el tipo de datos asociados a la clave
+
+
+El punto mas critico en el redimiento en una aplicacion suele estar en una base de datos relacionales, dado que han de garantizar las propiedades ACID y almacenan grande cantidades de datos son lentas
+
+
+- Operaciones con cadenas
+- operaciones con sets
+- operaciones sorted sets
+- operaciones con list con hashes 
+- operacione genericas con keys
+a cada dato, asigna una clave y puede almacenar tipos de datos abstractos como tablas hash,cadenas de texto o json
+
+
+La persistencia de Redis se puede conseguir de dos maneras: mediantes snapshots periodicos de los datos, que se escriben en el disco de forma asincrona; o mediantes jornaling que consiste en escribir un registro de operaciones en archivo a medida que se van produciendo
+
+
+
+La arquitectura de redis es de tipo cliente-servidor. el cliente y el servidor pueden encontrase en el mismo nodo o bien distribuidos
+
+Redis CLI: su herramienta de consola o bien una API(el cliente)
+
+La replicacion en redis es de tipo maestro-esclavo. Cada servidor puede tener varias replicas, que ademas de lecturas, tambien pueden configurarse para aceptar escrituras. ademas puede desplegarse en contenedores usando Docker o Kubernetes
+
+
+Real-time data store
+las versatiles estructuras de adatos en memoria de redis perimiten construir una infraestructura de datos para aplicaciones en tiempo real que requiern baja latencia y alto redimiento
+
+
+
+
+
+
 # extras
 clave redcc:
 5025uv375018
