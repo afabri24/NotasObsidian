@@ -462,6 +462,13 @@ Real-time data store
 las versatiles estructuras de adatos en memoria de redis perimiten construir una infraestructura de datos para aplicaciones en tiempo real que requiern baja latencia y alto redimiento
 
 
+Streaming & Messaging
+
+
+Caching & Session Storage
+
+La velocidad de Redis lo hace ideal para almacenar en cache las consultas de la base de datos, los calculos complejos, las llmadas a la API y el estado de la sesion
+
 
 
 
