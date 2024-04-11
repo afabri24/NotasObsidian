@@ -227,6 +227,7 @@ demarcadores
 db
 deleteOne
 deleteMany
+descentente
 maestro
 mortigoza
 mx
@@ -418,6 +419,7 @@ MADRES
 Marcar
 Mientras
 Mejor
+Mostrar
 Angel
 Actualidad
 AAA
@@ -683,6 +685,7 @@ Cancelar
 Cambiar
 Con
 Comentarios
+Comparadores
 Lic
 Las
 Lista
@@ -1069,6 +1072,7 @@ utilizare
 utilizada
 ultimo
 updateOne
+users
 Eminus
 Evaluacion
 Examen
@@ -1296,6 +1300,8 @@ Pega
 Producto
 Primero
 Post
+Para
+Promedio
 Introducci
 ICONIX
 Imprementacion
@@ -1613,6 +1619,10 @@ adoptar
 asignar
 administradores
 ad
+agrupar
+aggregate
+age
+ascedente
 bases
 base
 buscar
@@ -1821,6 +1831,7 @@ guardara
 guardado
 global
 gicos
+gte
 cantisdades
 clave
 columnas
@@ -2101,6 +2112,8 @@ crean
 colecciones
 comentario
 category
+contar
+cuantas
 valor
 ver
 ventajas
@@ -2314,6 +2327,7 @@ Sap
 SIEMPRE
 SELECT
 Select
+Sacar
 teorico
 tico
 tiempo
@@ -2745,6 +2759,9 @@ lgebra
 literalmente
 logico
 likes
+lt
+lte
+limite
 no
 normalmente
 nica
@@ -3104,6 +3121,7 @@ empresa
 explican
 empresariales
 especifica
+eq
 recopilaci
 recuperaci
 real
