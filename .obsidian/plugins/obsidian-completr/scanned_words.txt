@@ -84,6 +84,7 @@ Desarrollar
 Despues
 Desnormalizar
 Define
+Docker
 del
 de
 datos
@@ -228,6 +229,11 @@ db
 deleteOne
 deleteMany
 descentente
+daros
+disponibles
+dado
+disco
+desplegarse
 maestro
 mortigoza
 mx
@@ -354,6 +360,12 @@ max
 modelado
 mejorar
 mismos
+modificaciones
+marcha
+modo
+memoria
+maneras
+mediantes
 Miguel
 Mtr
 Manejo
@@ -420,6 +432,7 @@ Marcar
 Mientras
 Mejor
 Mostrar
+Messaging
 Angel
 Actualidad
 AAA
@@ -532,6 +545,8 @@ AVG
 AS
 ALUMNO
 Aplicar
+ACID
+API
 Ortigaza
 Observacion
 OPTIONS
@@ -586,6 +601,7 @@ OSINT
 Ofrecen
 OrientDB
 Omitir
+Operaciones
 Clemente
 Clases
 Crud
@@ -686,6 +702,8 @@ Cambiar
 Con
 Comentarios
 Comparadores
+CLI
+Caching
 Lic
 Las
 Lista
@@ -890,6 +908,7 @@ ingresados
 intente
 indexaci
 inc
+ideal
 FEI
 Facilidad
 Fases
@@ -1073,6 +1092,8 @@ utilizada
 ultimo
 updateOne
 users
+usuar
+usando
 Eminus
 Evaluacion
 Examen
@@ -1302,6 +1323,7 @@ Primero
 Post
 Para
 Promedio
+Puesto
 Introducci
 ICONIX
 Imprementacion
@@ -1623,6 +1645,13 @@ agrupar
 aggregate
 age
 ascedente
+asociados
+almacenan
+abstractos
+asincrona
+arquitectura
+ademas
+adatos
 bases
 base
 buscar
@@ -1832,6 +1861,8 @@ guardado
 global
 gicos
 gte
+grande
+genericas
 cantisdades
 clave
 columnas
@@ -2114,6 +2145,16 @@ comentario
 category
 contar
 cuantas
+calve
+caracteristica
+clavle
+coleccion
+critico
+cadenas
+consola
+configurarse
+cache
+calculos
 valor
 ver
 ventajas
@@ -2183,6 +2224,8 @@ vol
 vistas
 verbo
 visi
+van
+velocidad
 Bases
 BD
 BH
@@ -2328,6 +2371,9 @@ SIEMPRE
 SELECT
 Select
 Sacar
+Streaming
+Session
+Storage
 teorico
 tico
 tiempo
@@ -2456,6 +2502,7 @@ tuplas
 temporal
 tarde
 tecnology
+time
 practico
 por
 producto
@@ -2662,6 +2709,11 @@ previas
 potentes
 posts
 post
+punto
+persistencia
+periodicos
+produciendo
+perimiten
 las
 la
 limitados
@@ -2762,6 +2814,9 @@ likes
 lt
 lte
 limite
+lentas
+lecturas
+llmadas
 no
 normalmente
 nica
@@ -2861,6 +2916,8 @@ nuevamente
 ndices
 neas
 nomenclatura
+ningun
+nodo
 Qu
 Qui
 Qaq
@@ -3122,6 +3179,12 @@ explican
 empresariales
 especifica
 eq
+exige
+entradas
+escriben
+encontrase
+esclavo
+escrituras
 recopilaci
 recuperaci
 real
@@ -3281,6 +3344,11 @@ realizadion
 redundancia
 restricciones
 redcc
+redimiento
+redis
+replicacion
+replicas
+requiern
 organizada
 ordenado
 onsultar
@@ -3372,6 +3440,8 @@ omitir
 ordenamientos
 ofrecen
 organizan
+otras
+operacione
 que
 qu
 qn
@@ -3581,6 +3651,12 @@ sum
 subconsulta
 segmentos
 set
+segun
+suele
+sets
+sorted
+snapshots
+store
 forma
 fissicos
 front
@@ -3691,6 +3767,7 @@ frontera
 flechas
 finalizara
 fisico
+fijo
 humana
 haga
 hacer
@@ -3753,6 +3830,8 @@ historial
 haz
 hubo
 hoc
+hashes
+herramienta
 Web
 WC
 Wireframe
@@ -3928,6 +4007,7 @@ Realizar
 Reuni
 Recuerda
 Reunion
+Real
 Generales
 Guiada
 Gu
@@ -4078,6 +4158,8 @@ jwVNQpcc
 java
 junio
 julio
+json
+jornaling
 xr
 xU
 xV
@@ -4259,6 +4341,7 @@ kXuQ
 kaEainS
 keyloggers
 kw
+keys
 zZ
 zKqh
 zJUE
@@ -4314,6 +4397,7 @@ KRanniQ
 KpCNpCg
 KSQbcViTzi
 KNcCGlQZdzp
+Kubernetes
 Zona
 Zb
 ZXu
