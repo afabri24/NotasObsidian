@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 3.md"
+                "file": "Notas De clase/Bases de datos no convencionales.md"
               }
             }
           },
@@ -238,13 +238,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "584646459689a558",
+  "active": "0bdd24458702face",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
     "Notas De clase/Bases de datos no convencionales.md",
-    "Untitled 3.md",
     "Untitled.md",
     "mangas.md",
     "Experiencia recepcional.md",
@@ -278,7 +278,6 @@
     "Imagenes/eb7ce39bbe36e80f629a2fa3b37db21b_MD5.png",
     "Imagenes/898590b1f8c5616b1d8c6d6686fd1665_MD5.png",
     "Imagenes/922677b374334151bcc30e9e026a5c82_MD5.png",
-    "Imagenes/Pasted image 20231109141318.png",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Imagenes",
     "Excalidraw",
