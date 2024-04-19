@@ -4,7 +4,7 @@
 | Proyecto               | 35%              |
 | Tareas                 | 20%              |
 | Exposiciones           | 15%              |
-| Participacion          | 10%             |
+| Participacion          | 10%              |
 
 
 **Modelos:**

@@ -1,8 +1,8 @@
 | Criterio            | Porcentaje |
 | ------------------- | ---------- |
-| Examen              | 20%       |
-| Tareas y practicas  | 40%      |
-| Proyecto integrador | 40%     |
+| Examen              | 20%        |
+| Tareas y practicas  | 40%        |
+| Proyecto integrador | 40%        |
 
 Proyecto integrador:
 Desarrollo de una interfaz de Usuario Avanzada Accesible
