@@ -471,8 +471,6 @@ La velocidad de Redis lo hace ideal para almacenar en cache las consultas de la 
 
 
 
-
-
 # extras
 clave redcc:
 5025uv375018
