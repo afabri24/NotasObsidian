@@ -471,6 +471,12 @@ La velocidad de Redis lo hace ideal para almacenar en cache las consultas de la 
 
 
 
+# Base de datos columnar
+
+Mientras que la mayoria de las bases de datos distribuyen informacion en filas, las bases de datos columnares funcionan de la manera contraria los datos se distribuyen columnas
+
+
+
 # extras
 clave redcc:
 5025uv375018

@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiencia recepcional.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md"
+                "file": "Notas De clase/Bases de datos no convencionales.md"
               }
             }
           },
@@ -238,8 +238,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bdd24458702face",
+  "active": "1f91768f7dfb597c",
   "lastOpenFiles": [
+    "Base de las notas.md",
+    "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
+    "Experiencia recepcional.md",
+    "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
     "Servicio Social/Sistema web para accesorias.md",
     "Notas De clase/Graficacion.md",
     "Notas De clase/Proyecto Integrador.md",
@@ -249,7 +253,6 @@
     "Notas De clase/Seguridad.md",
     "Notas De clase/Desarrollo de software.md",
     "Notas De clase/Bases de datos no convencionales.md",
-    "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
     "Prioridad casos de uso.md",
     "Untitled.md",
@@ -258,10 +261,8 @@
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
-    "Experiencia recepcional.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
     "Excalidraw/PantallasWebAccesorias.excalidraw.md",
     "README.md",
     "Excalidraw/PantallasAppCIX.excalidraw.md",
@@ -269,7 +270,6 @@
     "Union de Notas.canvas",
     "2023-09-04 Incripciones Exaver.md",
     "Notas trabajos.md",
-    "Base de las notas.md",
     "Documentación de seguridad.md",
     "Imagenes/c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
     "Untitled.canvas",
