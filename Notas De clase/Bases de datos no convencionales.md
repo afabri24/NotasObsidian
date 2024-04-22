@@ -477,6 +477,16 @@ Mientras que la mayoria de las bases de datos distribuyen informacion en filas, 
 
 
 
+# Bases de datos de grafos
+
+Es un conjunto de objetos (Vertices y artistas) que perimite representar datos interconectados, asi como las relaciones entre ellas, de forma compresible y como un unico y mas amplio conjunto de datos.
+
+Los grafos estan conformados por nodos o vertices, que son propiedades de datos u objetos claramente señalizadas e indetificables, y aristas o arcos, que represebtan las relaciones ente objetos.
+
+Una base de datos de gefos forma relaciones entre datos mediante nodos y cantos.
+
+
+
 # extras
 clave redcc:
 5025uv375018
