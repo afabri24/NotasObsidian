@@ -1181,6 +1181,7 @@ inflate
 izq
 intent
 introdcucion
+indetificables
 FEI
 Facilidad
 Fases
@@ -2107,6 +2108,9 @@ ambos
 aracion
 adiconales
 android
+artistas
+alizadas
+arcos
 bases
 base
 buscar
@@ -2346,6 +2350,7 @@ garanticen
 guarden
 gestiona
 gmail
+gefos
 cantisdades
 clave
 columnas
@@ -2735,6 +2740,10 @@ compa
 content
 cambiar
 cuartilla
+compresible
+conformados
+claramente
+cantos
 valor
 ver
 ventajas
@@ -2830,6 +2839,7 @@ val
 viewBinding
 view
 vertical
+vertices
 Bases
 BD
 BH
@@ -3453,6 +3463,7 @@ palabrea
 palbra
 private
 parent
+perimite
 las
 la
 limitados
@@ -4247,6 +4258,7 @@ reservada
 return
 rreservada
 root
+represebtan
 organizada
 ordenado
 onsultar
