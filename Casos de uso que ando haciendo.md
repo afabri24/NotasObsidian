@@ -59,3 +59,48 @@ Excepciones:
 EXEC1: No hubo conexión a la base de datos al agregar producto
 	7.El sistema mostrara un mensaje donde le pedirá que lo intente de nuevo mas tarde
 	8. El usuario se encontrara en la pagina anterior
+
+----
+Hacer pedido
+
+El Cliente se encuentra en un producto de su interés o se encontrara en su carrito de compras donde seleccionara realizar pedido donde podrá registrar como va pagar el pedido, después el cliente podrá crear una nueva dirección de envió o seleccionar una anteriormente creada, después podrá ver toda la información de su pedido donde podrá ver y podrá confirmar su pedido e inmediatamente se hará un pedido y le mostrara que su pedido esta en revisión
+
+1. El sistema **muestra** la página de productos y carrito de compras.
+2. El usuario **selecciona** un producto de interés o desde el carrito **elige** realizar pedido.
+3. El sistema **redirige** al usuario a la página de pago, donde el usuario **registra** su método de pago.
+4. El usuario **crea** una nueva dirección de envío o **selecciona** una dirección previamente registrada.
+5. El sistema **muestra** un resumen del pedido con todos los detalles.
+6. El usuario **revisa** la información del pedido y **confirma** la orden.
+7. El sistema **registra** el pedido, **asigna** un estado de "en revisión" y **muestra** un mensaje de confirmación al usuario.
+8. El usuario **visualiza** un mensaje de pedido realizado.
+
+Flujo Alternativos:
+(FA01): Cambiar el método de pago
+
+3.1. El usuario **decide** cambiar el método de pago.
+3.2. El sistema **permite** al usuario **seleccionar** un nuevo método de pago.
+3.3. El usuario **elige** el nuevo método de pago y **continúa** al paso 4.
+
+(FA01): Cambiar la dirección
+
+3.1. El usuario **decide** cambiar la dirección.
+3.2. El sistema **permite** al usuario **seleccionar** un nuevo método de pago.
+3.3. El usuario **elige** el nuevo método de pago y **continúa** al paso 4.
+
+(FA02): Cancelar el pedido
+
+6.1. El usuario **decide** cancelar el proceso del pedido.
+6.2. El sistema **muestra** una confirmación de cancelación.
+6.3. El usuario **confirma** la cancelación.
+6.4. El sistema **elimina** el proceso del pedido y **redirige** al usuario a la página de productos o cesta.
+
+Excepciones:
+
+EXC1: Error en el guardado del pedido
+
+7.1. El sistema le da error en la conexión de la base de datos y por ello no se guarda el pedido
+7.2. El usuario recibirá que hubo un error al hacer el pedido
+7.3 el sistema le pedira que lo intente nuevamente en unos momentos o se contacte los administradores
+
+
+

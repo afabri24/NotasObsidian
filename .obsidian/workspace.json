@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mangas.md",
+                "file": "Casos de uso que ando haciendo.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Casos de uso que ando haciendo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Casos de uso que ando haciendo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md"
+                "file": "Casos de uso que ando haciendo.md"
               }
             }
           },
@@ -238,8 +238,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f91768f7dfb597c",
+  "active": "f0a940e9f610e91f",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Prioridad casos de uso.md",
+    "mangas.md",
+    "Notas De clase/Bases de datos no convencionales.md",
     "Base de las notas.md",
     "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
     "Experiencia recepcional.md",
@@ -252,16 +256,12 @@
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Seguridad.md",
     "Notas De clase/Desarrollo de software.md",
-    "Notas De clase/Bases de datos no convencionales.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
-    "Prioridad casos de uso.md",
-    "Untitled.md",
-    "mangas.md",
+    "Casos de uso que ando haciendo.md",
     "Untitled 3.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
-    "Untitled 2.md",
     "Untitled 1.md",
     "Excalidraw/PantallasWebAccesorias.excalidraw.md",
     "README.md",
