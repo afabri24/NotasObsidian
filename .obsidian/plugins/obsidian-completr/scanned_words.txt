@@ -501,6 +501,7 @@ muchos
 metodos
 manifest
 media
+momentos
 Miguel
 Mtr
 Manejo
@@ -723,6 +724,7 @@ Aun
 Accion
 Actualizar
 ActivityMainBinding
+Alternativos
 Ortigaza
 Observacion
 OPTIONS
@@ -1511,6 +1513,8 @@ Exception
 Employee
 Edittext
 Edit
+EXC
+Error
 Teams
 Temas
 TENER
@@ -2111,6 +2115,7 @@ android
 artistas
 alizadas
 arcos
+anteriormente
 bases
 base
 buscar
@@ -2351,6 +2356,7 @@ guarden
 gestiona
 gmail
 gefos
+gina
 cantisdades
 clave
 columnas
@@ -2745,6 +2751,14 @@ conformados
 claramente
 cantos
 cientificos
+carrito
+compras
+confirma
+contin
+cancelar
+cancelaci
+cesta
+contacte
 valor
 ver
 ventajas
@@ -3465,6 +3479,9 @@ palbra
 private
 parent
 perimite
+pagar
+pago
+pedira
 las
 la
 limitados
@@ -4049,6 +4066,9 @@ extends
 enable
 emptyView
 escalanteelisa
+elige
+elimina
+ello
 recopilaci
 recuperaci
 real
@@ -4260,6 +4280,10 @@ return
 rreservada
 root
 represebtan
+revisi
+registra
+revisa
+realizado
 organizada
 ordenado
 onsultar
@@ -4364,6 +4388,7 @@ obtendria
 oficialmente
 ofrece
 omite
+orden
 que
 qu
 qn
@@ -4622,6 +4647,7 @@ sobra
 sabemos
 secundario
 setContentView
+seleccionar
 forma
 fissicos
 front
@@ -4835,6 +4861,7 @@ hubiese
 haya
 hacemos
 hola
+har
 Web
 WC
 Wireframe
@@ -5162,6 +5189,7 @@ Hacemos
 Hogar
 HyperText
 Herencia
+Hacer
 jerarqu
 jeV
 juegadores
