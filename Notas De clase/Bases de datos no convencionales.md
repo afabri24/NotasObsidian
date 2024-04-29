@@ -486,6 +486,8 @@ Los grafos estan conformados por nodos o vertices, que son propiedades de datos 
 Una base de datos de gefos forma relaciones entre datos mediante nodos y cantos.
 
 
+Match(n) return n
+
 
 # extras
 clave redcc:
