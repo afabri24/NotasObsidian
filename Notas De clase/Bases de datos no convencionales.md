@@ -26,12 +26,12 @@ Clases 2017 - Actualidad
 
 Evaluacion:
 
-| Material            | Porcentajes |
-| ------------------- | ----------- |
-| Examen teorico      | 15          | 
-| Examen practico     | 15          |
-| Practicas           | 40          |
-| Proyecto integrador | 30          |
+| Material            | Porcentajes |     |
+| ------------------- | ----------- | --- |
+| Examen teorico      | 15          |     |
+| Examen practico     | 15          |     |
+| Practicas           | 40          |     |
+| Proyecto integrador | 30          |     |
 # Introducción a las bases de datos no convencionales
 
 

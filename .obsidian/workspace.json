@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Casos de uso que ando haciendo.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Casos de uso que ando haciendo.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Casos de uso que ando haciendo.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Casos de uso que ando haciendo.md"
+                "file": "Notas De clase/Bases de datos no convencionales.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "f0a940e9f610e91f",
   "lastOpenFiles": [
+    "Casos de uso que ando haciendo.md",
     "Untitled 2.md",
     "Prioridad casos de uso.md",
     "mangas.md",
@@ -257,7 +258,6 @@
     "Notas De clase/Seguridad.md",
     "Notas De clase/Desarrollo de software.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
-    "Casos de uso que ando haciendo.md",
     "Untitled 3.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
