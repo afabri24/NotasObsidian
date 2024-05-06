@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Casos de uso que ando haciendo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Casos de uso que ando haciendo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md"
+                "file": "Casos de uso que ando haciendo.md"
               }
             }
           },
@@ -238,11 +238,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f91768f7dfb597c",
+  "active": "f0a940e9f610e91f",
   "lastOpenFiles": [
     "Prioridad casos de uso.md",
-    "Casos de uso que ando haciendo.md",
     "Notas De clase/Bases de datos no convencionales.md",
+    "Casos de uso que ando haciendo.md",
     "Untitled 2.md",
     "mangas.md",
     "Base de las notas.md",

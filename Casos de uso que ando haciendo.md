@@ -102,5 +102,17 @@ EXC1: Error en el guardado del pedido
 7.2. El usuario recibirá que hubo un error al hacer el pedido
 7.3 el sistema le pedira que lo intente nuevamente en unos momentos o se contacte los administradores
 
+____
 
+1. El sistema **muestra** la página de administración de productos con la lista de productos existentes.
+2. El usuario **selecciona** un producto de la lista y **elige** la opción de "Modificar".
+3. El sistema **redirige** al usuario a la página de edición de producto, donde se **muestran** los datos actuales del producto.
+4. El sistema **muestra** los detalles del producto a modificar.
+5. El usuario **modifica** los datos del producto según sea necesario y **presiona** el botón "Guardar cambios".
+6. El sistema **actualiza** el producto en la tabla de productos con los nuevos datos y **redirige** al usuario a la página de administración de productos, **mostrando** un mensaje de confirmación.
 
+Flujo Alternativo (FA01): Cancelar operación 4.1. El usuario **decide** cancelar la modificación del producto. 4.2. El usuario **da clic** en el botón "Cancelar". 4.3. El sistema **redirige** al usuario a la página de administración de productos sin realizar ningún cambio.
+
+Excepciones: EXC1: No hubo conexión a la base de datos al modificar el producto 5.1. El sistema **no puede** actualizar el producto en la tabla de productos debido a un error. 5.2. El sistema **muestra** un mensaje de error al usuario. 5.3. El usuario **se encuentra** en la página de edición de producto.
+
+EXC2: Datos inválidos o faltantes 5.4. El usuario **ingresa** datos inválidos o falta información requerida. 5.5. El sistema **muestra** un mensaje de error y **solicita** al usuario que corrija los datos antes de continuar. 5.6. El usuario **permanece** en la página de edición de producto hasta que corrija los datos.
