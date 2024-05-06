@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "Notas De clase/Bases de datos no convencionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prioridad casos de uso.md"
+                "file": "Notas De clase/Bases de datos no convencionales.md"
               }
             }
           },
@@ -237,12 +238,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfe0ac9f1f192b56",
+  "active": "1f91768f7dfb597c",
   "lastOpenFiles": [
+    "Prioridad casos de uso.md",
     "Casos de uso que ando haciendo.md",
     "Notas De clase/Bases de datos no convencionales.md",
     "Untitled 2.md",
-    "Prioridad casos de uso.md",
     "mangas.md",
     "Base de las notas.md",
     "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
