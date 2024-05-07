@@ -502,6 +502,7 @@ metodos
 manifest
 media
 momentos
+modifica
 Miguel
 Mtr
 Manejo
@@ -726,6 +727,7 @@ Accion
 Actualizar
 ActivityMainBinding
 Alternativos
+Alternativo
 Ortigaza
 Observacion
 OPTIONS
@@ -1185,6 +1187,8 @@ izq
 intent
 introdcucion
 indetificables
+inv
+ingresa
 FEI
 Facilidad
 Fases
@@ -2117,6 +2121,7 @@ artistas
 alizadas
 arcos
 anteriormente
+actualiza
 bases
 base
 buscar
@@ -2760,6 +2765,9 @@ cancelar
 cancelaci
 cesta
 contacte
+clic
+corrija
+continuar
 valor
 ver
 ventajas
@@ -3483,6 +3491,8 @@ perimite
 pagar
 pago
 pedira
+presiona
+permanece
 las
 la
 limitados
@@ -3607,6 +3617,7 @@ layoutInflater
 linearLayout
 loginActivity
 layout
+lidos
 no
 normalmente
 nica
@@ -4070,6 +4081,7 @@ escalanteelisa
 elige
 elimina
 ello
+edici
 recopilaci
 recuperaci
 real
@@ -4285,6 +4297,7 @@ revisi
 registra
 revisa
 realizado
+requerida
 organizada
 ordenado
 onsultar
@@ -4649,6 +4662,7 @@ sabemos
 secundario
 setContentView
 seleccionar
+solicita
 forma
 fissicos
 front
@@ -4785,6 +4799,7 @@ facil
 fortalezas
 fun
 filtler
+faltantes
 humana
 haga
 hacer
@@ -5131,6 +5146,7 @@ Gusto
 GUI
 GET
 Graficacion
+Guardar
 HASTA
 Ha
 Hash
