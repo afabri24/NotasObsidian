@@ -489,6 +489,22 @@ Una base de datos de gefos forma relaciones entre datos mediante nodos y cantos.
 Match(n) return n
 
 
+
+
+
+# Sistemas distribuidos
+
+Concurrencia: Esta fuertemente relacionado con la utilizacion de dispositivos unicos
+
+Computacion Paralela: La computacion paralela se orienta a resolver rapidamente una tra empleado multiples procesadores simultaneamente.
+
+Computacion distribuida: Un sistema distribuido es la coleccion de computadoras autonomas que estan conectadas unas con otras y cooperan compartiendo recursos
+
+
+Un programa es portable si corre en una variedad de arquitecturas, inclusive las futuro
+
+Definicion:
+Un sistema distribuido es la coleccion de computadoras independientes que aparecen ante los usurios de sistema comi una unica computadora
 # extras
 clave redcc:
 5025uv375018
