@@ -321,6 +321,7 @@ dela
 declaracion
 dp
 der
+distribuido
 maestro
 mortigoza
 mx
@@ -503,6 +504,7 @@ manifest
 media
 momentos
 modifica
+multiples
 Miguel
 Mtr
 Manejo
@@ -922,6 +924,8 @@ CREATE
 CheckException
 Class
 Constructores
+Concurrencia
+Computacion
 Lic
 Las
 Lista
@@ -1189,6 +1193,8 @@ introdcucion
 indetificables
 inv
 ingresa
+inclusive
+independientes
 FEI
 Facilidad
 Fases
@@ -1410,6 +1416,9 @@ uniforme
 uri
 utilizarse
 usandola
+unicos
+unas
+usurios
 Eminus
 Evaluacion
 Examen
@@ -1709,6 +1718,7 @@ Programacion
 Perosna
 Pedro
 Palacios
+Paralela
 Introducci
 ICONIX
 Imprementacion
@@ -2122,6 +2132,9 @@ alizadas
 arcos
 anteriormente
 actualiza
+autonomas
+arquitecturas
+aparecen
 bases
 base
 buscar
@@ -2768,6 +2781,12 @@ contacte
 clic
 corrija
 continuar
+computacion
+conectadas
+cooperan
+compartiendo
+corre
+comi
 valor
 ver
 ventajas
@@ -3045,6 +3064,7 @@ Simple
 State
 SOAP
 String
+Sistemas
 teorico
 tico
 tiempo
@@ -3215,6 +3235,7 @@ tienes
 tengamos
 tvSaludo
 textview
+tra
 practico
 por
 producto
@@ -3493,6 +3514,10 @@ pago
 pedira
 presiona
 permanece
+paralela
+procesadores
+programa
+portable
 las
 la
 limitados
@@ -4082,6 +4107,7 @@ elige
 elimina
 ello
 edici
+empleado
 recopilaci
 recuperaci
 real
@@ -4298,6 +4324,7 @@ registra
 revisa
 realizado
 requerida
+relacionado
 organizada
 ordenado
 onsultar
@@ -4403,6 +4430,7 @@ oficialmente
 ofrece
 omite
 orden
+orienta
 que
 qu
 qn
@@ -4663,6 +4691,7 @@ secundario
 setContentView
 seleccionar
 solicita
+simultaneamente
 forma
 fissicos
 front
@@ -4800,6 +4829,7 @@ fortalezas
 fun
 filtler
 faltantes
+fuertemente
 humana
 haga
 hacer
