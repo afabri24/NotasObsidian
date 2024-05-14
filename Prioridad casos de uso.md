@@ -25,4 +25,7 @@ En proceso
 Listo para entregar
 Entregado
 
+Cancelado
+
+
 
