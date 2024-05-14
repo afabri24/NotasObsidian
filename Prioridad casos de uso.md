@@ -16,3 +16,13 @@ Cancelar pedido
 
 Editar pedido
 Cambiar estado del pedido
+
+
+
+En revision del pedido
+Pedido Aceptado
+En proceso
+Listo para entregar
+Entregado
+
+
