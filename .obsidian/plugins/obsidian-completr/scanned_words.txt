@@ -730,6 +730,7 @@ Actualizar
 ActivityMainBinding
 Alternativos
 Alternativo
+Aceptado
 Ortigaza
 Observacion
 OPTIONS
@@ -926,6 +927,7 @@ Class
 Constructores
 Concurrencia
 Computacion
+Cancelado
 Lic
 Las
 Lista
@@ -978,6 +980,7 @@ Lineamientos
 LLamada
 Language
 Limite
+Listo
 informatica
 integrador
 informaci
@@ -1529,6 +1532,7 @@ Edittext
 Edit
 EXC
 Error
+Entregado
 Teams
 Temas
 TENER
@@ -1719,6 +1723,7 @@ Perosna
 Pedro
 Palacios
 Paralela
+Pedido
 Introducci
 ICONIX
 Imprementacion
