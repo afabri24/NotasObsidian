@@ -505,6 +505,10 @@ Un programa es portable si corre en una variedad de arquitecturas, inclusive las
 
 Definicion:
 Un sistema distribuido es la coleccion de computadoras independientes que aparecen ante los usurios de sistema comi una unica computadora
+
+## Aquitectura Bases Distribuidas
+
+
 # extras
 clave redcc:
 5025uv375018
