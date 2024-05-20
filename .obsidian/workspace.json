@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Prioridad casos de uso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "file": "Prioridad casos de uso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md"
+                "file": "Prioridad casos de uso.md"
               }
             }
           },
@@ -238,11 +237,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f91768f7dfb597c",
+  "active": "dfe0ac9f1f192b56",
   "lastOpenFiles": [
-    "Prioridad casos de uso.md",
     "Casos de uso que ando haciendo.md",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
+    "Untitled 3.md",
+    "Prioridad casos de uso.md",
     "Notas De clase/Bases de datos no convencionales.md",
     "Untitled 2.md",
     "mangas.md",
@@ -258,7 +258,6 @@
     "Notas De clase/Seguridad.md",
     "Notas De clase/Desarrollo de software.md",
     "Notas De clase/Interfaces de Usuario Avanzadas.md",
-    "Untitled 3.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
