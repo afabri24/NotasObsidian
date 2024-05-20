@@ -322,6 +322,7 @@ declaracion
 dp
 der
 distribuido
+distribuiddos
 maestro
 mortigoza
 mx
@@ -731,6 +732,7 @@ ActivityMainBinding
 Alternativos
 Alternativo
 Aceptado
+Aquitectura
 Ortigaza
 Observacion
 OPTIONS
@@ -2792,6 +2794,8 @@ cooperan
 compartiendo
 corre
 comi
+compone
+conectados
 valor
 ver
 ventajas
@@ -3523,6 +3527,7 @@ paralela
 procesadores
 programa
 portable
+pertenecen
 las
 la
 limitados
@@ -3648,6 +3653,7 @@ linearLayout
 loginActivity
 layout
 lidos
+logicamente
 no
 normalmente
 nica
@@ -4113,6 +4119,7 @@ elimina
 ello
 edici
 empleado
+espacido
 recopilaci
 recuperaci
 real
@@ -4697,6 +4704,7 @@ setContentView
 seleccionar
 solicita
 simultaneamente
+sitos
 forma
 fissicos
 front
@@ -4835,6 +4843,7 @@ fun
 filtler
 faltantes
 fuertemente
+fisicamente
 humana
 haga
 hacer
