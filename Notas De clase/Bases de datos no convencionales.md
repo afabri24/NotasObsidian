@@ -510,6 +510,8 @@ Un sistema distribuido es la coleccion de computadoras independientes que aparec
 
 Son la que almacenan datos que pertenecen logicamente a un solo sistema, pero se encuentra fisicamente espacido en varios  sitos de la red. Un sistema de bases de datos distribuiddos se compone de un conjunto de sitios conectados entre si mediante algun tipo de red de comunicaciones
 
+
+Replicacion Instantánea, Transaccional Y mixta
 # extras
 clave redcc:
 5025uv375018
