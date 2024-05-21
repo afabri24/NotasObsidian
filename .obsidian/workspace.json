@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "0bdd24458702face",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prioridad casos de uso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "584646459689a558",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "mangas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "mangas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prioridad casos de uso.md"
+                "file": "mangas.md"
               }
             }
           },
@@ -226,11 +213,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bdd24458702face",
+  "active": "dfe0ac9f1f192b56",
   "lastOpenFiles": [
+    "Prioridad casos de uso.md",
     "Untitled 3.md",
     "a8a43c6411a7d6af021b0e0e692ef423_MD5.png",
-    "Prioridad casos de uso.md",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
     "mangas.md",
     "Notas De clase/Bases de datos no convencionales.md",
