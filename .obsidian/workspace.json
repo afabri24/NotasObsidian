@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mangas.md",
+                "file": "Prioridad casos de uso.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mangas.md",
+                "file": "Prioridad casos de uso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mangas.md",
+                "file": "Prioridad casos de uso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mangas.md"
+                "file": "Prioridad casos de uso.md"
               }
             }
           },
@@ -215,15 +215,16 @@
   },
   "active": "dfe0ac9f1f192b56",
   "lastOpenFiles": [
+    "Base de las notas.md",
+    "Notas trabajos.md",
+    "mangas.md",
     "Prioridad casos de uso.md",
     "Untitled 3.md",
     "a8a43c6411a7d6af021b0e0e692ef423_MD5.png",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
-    "mangas.md",
     "Notas De clase/Bases de datos no convencionales.md",
     "Casos de uso que ando haciendo.md",
     "Untitled 2.md",
-    "Base de las notas.md",
     "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
     "Experiencia recepcional.md",
     "Servicio Social/Sistema web para accesorias.md",
@@ -245,7 +246,6 @@
     "Servicio Social",
     "Union de Notas.canvas",
     "2023-09-04 Incripciones Exaver.md",
-    "Notas trabajos.md",
     "Imagenes/c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
     "Untitled.canvas",
     "Imagenes/fee2bfe3aec5a905f41be7ed479cf2c9_MD5.png",
