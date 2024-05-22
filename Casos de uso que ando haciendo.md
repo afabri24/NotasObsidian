@@ -47,12 +47,9 @@ El administrador se encuentra en la pagina de administración de productos, dond
 
 Flujo alterno:
 
-FA01: Omitir paso de agregar datos extras
-	 4.1. El administrador da click en omitir datos extra.
-	 5.1 El sistema guardara los datos que fueron ingresados en la pantalla datos basicos en un nuevo producto en la tabla productos, redireccionara al usuario a la pagina administracion productos y mostrara un mensaje de afirmacion de producto guardado
 FA02: Cancelar operacion
 	4.2. El administrador dara click en el boton Cancelar
-	4.3 El sistema lo redireccionara al paso 1 sin hacer ninguna accion extras
+	4.3 El sistema lo redireccionara al paso 1 sin hacer ninguna accion extra
 
 Excepciones:
 
