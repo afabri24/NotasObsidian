@@ -506,6 +506,7 @@ media
 momentos
 modifica
 multiples
+motivo
 Miguel
 Mtr
 Manejo
@@ -733,6 +734,7 @@ Alternativos
 Alternativo
 Aceptado
 Aquitectura
+Aprobado
 Ortigaza
 Observacion
 OPTIONS
@@ -1200,6 +1202,9 @@ inv
 ingresa
 inclusive
 independientes
+incorrecta
+incompleta
+intentar
 FEI
 Facilidad
 Fases
@@ -2142,6 +2147,7 @@ actualiza
 autonomas
 arquitecturas
 aparecen
+aprueba
 bases
 base
 buscar
@@ -2892,6 +2898,7 @@ viewBinding
 view
 vertical
 vertices
+validaci
 Bases
 BD
 BH
@@ -4122,6 +4129,7 @@ ello
 edici
 empleado
 espacido
+electronico
 recopilaci
 recuperaci
 real
@@ -4339,6 +4347,7 @@ revisa
 realizado
 requerida
 relacionado
+rechaza
 organizada
 ordenado
 onsultar
@@ -5138,6 +5147,8 @@ Resorce
 Retrieve
 RETRIEVE
 Redaccion
+Rechazado
+Rechazar
 Generales
 Guiada
 Gu

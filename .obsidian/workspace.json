@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "1f91768f7dfb597c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas De clase/Bases de datos no convencionales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "20444be928ed06dc",
             "type": "leaf",
             "state": {
@@ -42,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f91768f7dfb597c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas De clase/Bases de datos no convencionales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "Casos de uso que ando haciendo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "Casos de uso que ando haciendo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prioridad casos de uso.md"
+                "file": "Casos de uso que ando haciendo.md"
               }
             }
           },
@@ -214,10 +215,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfe0ac9f1f192b56",
+  "active": "20444be928ed06dc",
   "lastOpenFiles": [
-    "Casos de uso que ando haciendo.md",
     "Prioridad casos de uso.md",
+    "Casos de uso que ando haciendo.md",
     "Base de las notas.md",
     "Notas trabajos.md",
     "mangas.md",
