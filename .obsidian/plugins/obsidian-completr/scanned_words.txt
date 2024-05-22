@@ -3528,6 +3528,8 @@ procesadores
 programa
 portable
 pertenecen
+pagado
+pediente
 las
 la
 limitados
