@@ -128,3 +128,10 @@ Excepciones: EXC1: Error al cambiar el estado del pedido
 6.1. El sistema **no puede** cambiar el estado del pedido debido a un error. 
 6.2. El sistema **muestra** un mensaje de error al administrador. 
 6.3. El administrador **tiene** la opción de **intentar** nuevamente
+
+
+----
+- El sistema **muestra** la página de administración de pedidos.
+- El administrador **puede** ver los datos del pedido
+- El sistema **muestra** los detalles del pedido como los productos o el pago
+- El administrador **revisa** el estado del pedido y los detalles asociados
