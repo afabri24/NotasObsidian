@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Casos de uso que ando haciendo.md",
+                "file": "mangas.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54f029a6b7b96556",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Casos de uso que ando haciendo.md",
+                "file": "mangas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Casos de uso que ando haciendo.md",
+                "file": "mangas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Casos de uso que ando haciendo.md"
+                "file": "mangas.md"
               }
             }
           },
@@ -217,8 +216,8 @@
   },
   "active": "20444be928ed06dc",
   "lastOpenFiles": [
-    "Prioridad casos de uso.md",
     "Casos de uso que ando haciendo.md",
+    "Prioridad casos de uso.md",
     "Base de las notas.md",
     "Notas trabajos.md",
     "mangas.md",
