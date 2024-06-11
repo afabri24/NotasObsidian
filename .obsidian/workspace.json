@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfe0ac9f1f192b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prioridad casos de uso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "20444be928ed06dc",
             "type": "leaf",
             "state": {
@@ -28,6 +16,16 @@
                 "file": "mangas.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "49194e29034e795e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
               }
             }
           },
@@ -43,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "mangas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prioridad casos de uso.md",
+                "file": "mangas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prioridad casos de uso.md"
+                "file": "mangas.md"
               }
             }
           },
@@ -213,11 +212,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfe0ac9f1f192b56",
+  "active": "49194e29034e795e",
   "lastOpenFiles": [
+    "Prioridad casos de uso.md",
     "mangas.md",
     "Casos de uso que ando haciendo.md",
-    "Prioridad casos de uso.md",
     "Base de las notas.md",
     "Notas trabajos.md",
     "Untitled 3.md",
