@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20444be928ed06dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mangas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49194e29034e795e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
             "id": "1f91768f7dfb597c",
             "type": "leaf",
             "state": {
@@ -39,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "3b2c40564eb2fda2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -108,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mangas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mangas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "mangas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,17 +194,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49194e29034e795e",
+  "active": "3b2c40564eb2fda2",
   "lastOpenFiles": [
-    "Prioridad casos de uso.md",
+    "Notas De clase/Bases de datos no convencionales.md",
     "mangas.md",
+    "Prioridad casos de uso.md",
     "Casos de uso que ando haciendo.md",
     "Base de las notas.md",
     "Notas trabajos.md",
     "Untitled 3.md",
     "a8a43c6411a7d6af021b0e0e692ef423_MD5.png",
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
-    "Notas De clase/Bases de datos no convencionales.md",
     "Untitled 2.md",
     "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
     "Experiencia recepcional.md",

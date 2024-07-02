@@ -508,6 +508,7 @@ momentos
 modifica
 multiples
 motivo
+mixta
 Miguel
 Mtr
 Manejo
@@ -1625,6 +1626,7 @@ Type
 Texto
 This
 TextView
+Transaccional
 Programa
 Porcentajes
 Practicas
@@ -1825,6 +1827,7 @@ Indentifieer
 Idempodente
 Int
 Inicializacion
+Instant
 alas
 almacena
 almacenar
@@ -5150,6 +5153,7 @@ RETRIEVE
 Redaccion
 Rechazado
 Rechazar
+Replicacion
 Generales
 Guiada
 Gu
