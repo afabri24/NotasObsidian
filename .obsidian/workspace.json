@@ -23,8 +23,12 @@
             "id": "3b2c40564eb2fda2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Repaso para automatizacion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Repaso para automatizacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Repaso para automatizacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Repaso para automatizacion.md"
+              }
             }
           },
           {
@@ -196,6 +204,7 @@
   },
   "active": "3b2c40564eb2fda2",
   "lastOpenFiles": [
+    "Repaso para automatizacion.md",
     "Notas De clase/Bases de datos no convencionales.md",
     "mangas.md",
     "Prioridad casos de uso.md",
