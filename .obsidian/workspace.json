@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7196576127f3e410",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +212,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b2c40564eb2fda2",
+  "active": "7196576127f3e410",
   "lastOpenFiles": [
     "Repaso para automatizacion.md",
     "Notas De clase/Bases de datos no convencionales.md",
