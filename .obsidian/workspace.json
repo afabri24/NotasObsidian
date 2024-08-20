@@ -21,8 +21,12 @@
             "id": "0d3f78a9b582ecd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -194,6 +202,8 @@
   },
   "active": "0d3f78a9b582ecd5",
   "lastOpenFiles": [
+    "12c5a41cb52455d4dc2c93037bb0eaff_MD5.png",
+    "Untitled.md",
     "Repaso para automatizacion.md",
     "Notas De clase/Bases de datos no convencionales.md",
     "mangas.md",
@@ -222,10 +232,8 @@
     "Untitled 1.md",
     "Excalidraw/PantallasWebAccesorias.excalidraw.md",
     "README.md",
-    "Excalidraw/PantallasAppCIX.excalidraw.md",
     "Servicio Social",
     "Union de Notas.canvas",
-    "2023-09-04 Incripciones Exaver.md",
     "Imagenes/c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
     "Untitled.canvas",
     "Imagenes/fee2bfe3aec5a905f41be7ed479cf2c9_MD5.png",
