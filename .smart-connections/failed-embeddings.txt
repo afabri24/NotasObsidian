@@ -57,6 +57,7 @@ Notas trabajos.md
 Prioridad casos de uso.md
 Prueba kanban.md
 README.md
+Repaso para automatizacion.md
 Seguridad ejercicios.md
 Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md
 Servicio Social/Sistema web para accesorias.md
