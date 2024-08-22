@@ -8,29 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3255d6740676bf31",
+            "id": "084c9bb942c74b9a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "0d3f78a9b582ecd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54f029a6b7b96556",
@@ -96,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,10 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d3f78a9b582ecd5",
+  "active": "084c9bb942c74b9a",
   "lastOpenFiles": [
-    "12c5a41cb52455d4dc2c93037bb0eaff_MD5.png",
     "Untitled.md",
+    "12c5a41cb52455d4dc2c93037bb0eaff_MD5.png",
     "Repaso para automatizacion.md",
     "Notas De clase/Bases de datos no convencionales.md",
     "mangas.md",
@@ -240,7 +222,6 @@
     "Imagenes/Pasted image 20231114153607.png",
     "Imagenes/a6a7aca6efdbda081e0a2cd40aee38dd_MD5.png",
     "Imagenes/eb7ce39bbe36e80f629a2fa3b37db21b_MD5.png",
-    "Imagenes/898590b1f8c5616b1d8c6d6686fd1665_MD5.png",
     "9c02fa427a5d24cb5b9a6ca9efc8f824_MD5.webm",
     "Imagenes",
     "Excalidraw",
