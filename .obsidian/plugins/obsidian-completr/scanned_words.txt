@@ -2168,6 +2168,8 @@ analogicos
 analogica
 analogread
 analogwrite
+admin
+asisistio
 bases
 base
 buscar
@@ -4166,6 +4168,7 @@ edici
 empleado
 espacido
 electronico
+estudantes
 recopilaci
 recuperaci
 real
@@ -4384,6 +4387,7 @@ realizado
 requerida
 relacionado
 rechaza
+reporte
 organizada
 ordenado
 onsultar
