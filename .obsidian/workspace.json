@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69b75b370e053132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laptops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "Laptops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "Laptops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 4.md"
+                "file": "Laptops.md"
               }
             }
           },
@@ -190,8 +203,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "084c9bb942c74b9a",
+  "active": "69b75b370e053132",
   "lastOpenFiles": [
+    "Laptops.md",
     "Untitled 4.md",
     "Untitled.md",
     "12c5a41cb52455d4dc2c93037bb0eaff_MD5.png",
@@ -222,7 +236,6 @@
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
     "Untitled 1.md",
     "Excalidraw/PantallasWebAccesorias.excalidraw.md",
-    "README.md",
     "Servicio Social",
     "Union de Notas.canvas",
     "Imagenes/c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
