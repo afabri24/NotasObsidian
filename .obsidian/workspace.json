@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "69b75b370e053132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laptops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laptops.md",
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laptops.md",
+                "file": "Untitled 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laptops.md"
+                "file": "Untitled 4.md"
               }
             }
           },
@@ -203,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69b75b370e053132",
+  "active": "084c9bb942c74b9a",
   "lastOpenFiles": [
     "Laptops.md",
     "Untitled 4.md",

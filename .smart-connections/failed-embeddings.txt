@@ -29,6 +29,7 @@ Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md
 Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md#Drawing
 Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md#Text Elements
 Experiencia recepcional.md
+Laptops.md
 Notas De clase/Bases de datos no convencionales.md
 Notas De clase/Bases de datos no convencionales.md#Datos del maestro
 Notas De clase/Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#AAA
