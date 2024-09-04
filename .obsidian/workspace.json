@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d9123faeadba276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Untitled 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Untitled 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 5.md"
+                "file": "Untitled 6.md"
               }
             }
           },
@@ -203,8 +215,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b07bbf67c7cb5ef5",
+  "active": "0d9123faeadba276",
   "lastOpenFiles": [
+    "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Laptops.md",
@@ -235,7 +248,6 @@
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
-    "Untitled 1.md",
     "Servicio Social",
     "Union de Notas.canvas",
     "Imagenes/c0875248d1922e7c3e9933a3f91ac37b_MD5.jpeg",
