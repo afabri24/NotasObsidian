@@ -514,6 +514,7 @@ multiples
 motivo
 mixta
 mandarias
+marcar
 Miguel
 Mtr
 Manejo
@@ -1745,6 +1746,7 @@ Palacios
 Paralela
 Pedido
 Payara
+Palabras
 Introducci
 ICONIX
 Imprementacion
@@ -2926,6 +2928,7 @@ vertices
 validaci
 valorPin
 void
+variantes
 Bases
 BD
 BH
@@ -2989,6 +2992,7 @@ Beneficios
 BORRAR
 Boolean
 Boton
+Buscar
 Servidor
 Systems
 Skateholder
