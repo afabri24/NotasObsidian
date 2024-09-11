@@ -1638,6 +1638,7 @@ Texto
 This
 TextView
 Transaccional
+TW
 Programa
 Porcentajes
 Practicas
@@ -2173,6 +2174,7 @@ analogread
 analogwrite
 admin
 asisistio
+arbol
 bases
 base
 buscar
@@ -5253,6 +5255,7 @@ GUI
 GET
 Graficacion
 Guardar
+Graves
 HASTA
 Ha
 Hash
@@ -5314,6 +5317,7 @@ HyperText
 Herencia
 Hacer
 HIGH
+Hecarim
 jerarqu
 jeV
 juegadores
