@@ -107,6 +107,8 @@ Diferentes
 Debemos
 Digital
 Data
+Design
+Deep
 del
 de
 datos
@@ -517,6 +519,7 @@ motivo
 mixta
 mandarias
 marcar
+massive
 Miguel
 Mtr
 Manejo
@@ -601,6 +604,8 @@ MIME
 Match
 Mining
 Machine
+Media
+Modeling
 Angel
 Actualidad
 AAA
@@ -751,6 +756,8 @@ Analogico
 Analysis
 Articulos
 Analytics
+Approach
+Architectures
 Ortigaza
 Observacion
 OPTIONS
@@ -816,6 +823,7 @@ OUTPUT
 Opinion
 Online
 Open
+Ontology
 Clemente
 Clases
 Crud
@@ -1366,6 +1374,7 @@ Uniform
 Update
 UPDATE
 Utiliza
+Using
 uv
 una
 un
@@ -1566,6 +1575,9 @@ EXC
 Error
 Entregado
 Educational
+Engineering
+Educators
+Emotion
 Teams
 Temas
 TENER
@@ -1652,6 +1664,7 @@ This
 TextView
 Transaccional
 TW
+Techniques
 Programa
 Porcentajes
 Practicas
@@ -2192,6 +2205,8 @@ admin
 asisistio
 arbol
 analytics
+application
+article
 bases
 base
 buscar
@@ -2351,6 +2366,7 @@ NetBeans
 Net
 Natural
 NLP
+Novel
 grndes
 grafos
 gesti
@@ -2951,6 +2967,7 @@ validaci
 valorPin
 void
 variantes
+volumes
 Bases
 BD
 BH
@@ -3015,6 +3032,7 @@ BORRAR
 Boolean
 Boton
 Buscar
+Based
 Servidor
 Systems
 Skateholder
@@ -3138,6 +3156,8 @@ Sistemas
 Sensores
 Solamente
 Sentiment
+Social
+Sentimental
 teorico
 tico
 tiempo
@@ -3729,6 +3749,7 @@ led
 lcd
 low
 leerias
+large
 no
 normalmente
 nica
@@ -4416,6 +4437,9 @@ requerida
 relacionado
 rechaza
 reporte
+realization
+resumes
+research
 organizada
 ordenado
 onsultar
@@ -4522,6 +4546,7 @@ ofrece
 omite
 orden
 orienta
+on
 que
 qu
 qn
@@ -5221,6 +5246,7 @@ Redaccion
 Rechazado
 Rechazar
 Replicacion
+Recognition
 Generales
 Guiada
 Gu
@@ -5640,6 +5666,7 @@ KSQbcViTzi
 KNcCGlQZdzp
 Kubernetes
 Kotlin
+Knowledge
 Zona
 Zb
 ZXu
@@ -5712,3 +5739,4 @@ YmOsI
 YpH
 YAML
 Youtube
+YouTube

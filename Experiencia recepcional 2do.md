@@ -10,11 +10,7 @@ Sentiment Analysis
 Machine Learning
 Educational Data Mining
 
-
 duda: Youtube
-
-
-
 
 # Articulos
 
@@ -40,3 +36,28 @@ https://ieeexplore-ieee-org.ezproxy.uv.mx/document/10125146
 
 [2023 IEEE Global Engineering Education Conference (EDUCON)](https://ieeexplore-ieee-org.ezproxy.uv.mx/xpl/conhome/10125098/proceeding)
 
+
+## Design and realization of an NLP application for the massive processing of large volumes of resumes
+
+https://ieeexplore-ieee-org.ezproxy.uv.mx/document/9723408
+
+[2022 IEEE Multi-conference on Natural and Engineering Sciences for Sahel's Sustainable Development (MNE3SD)](https://ieeexplore-ieee-org.ezproxy.uv.mx/xpl/conhome/9723033/proceeding)
+
+# Emotion Recognition on Social Media Using Natural Language Processing (NLP) Techniques
+
+https://dl-acm-org.ezproxy.uv.mx/doi/pdf/10.1145/3625156.3625173
+research-article
+
+
+## Modeling a Novel Approach for Emotion Recognition Using Learning and Natural Language Processing
+
+research-article
+
+https://dl-acm-org.ezproxy.uv.mx/doi/10.1145/3641851
+
+
+## Ontology-Based Natural Language Processing for Sentimental Knowledge Analysis Using Deep Learning Architectures
+
+research-article
+
+https://dl-acm-org.ezproxy.uv.mx/doi/10.1145/3624012
