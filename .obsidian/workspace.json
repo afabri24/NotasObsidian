@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "ed3aae48c5c9a44b",
+            "id": "94c3bf6b948435be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "champs.md",
+                "file": "Experiencia recepcional 2do.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "champs.md",
+                "file": "Experiencia recepcional 2do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "champs.md",
+                "file": "Experiencia recepcional 2do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "champs.md"
+                "file": "Experiencia recepcional 2do.md"
               }
             }
           },
@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +226,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed3aae48c5c9a44b",
+  "active": "94c3bf6b948435be",
   "lastOpenFiles": [
-    "champs.md",
+    "Experiencia recepcional 2do.md",
     "Untitled 6.md",
+    "champs.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Laptops.md",
@@ -256,7 +256,6 @@
     "Notas De clase/interfaces avanzadas.md",
     "Notas De clase/Integraciones de Soluciones.md",
     "Notas De clase/Seguridad.md",
-    "Notas De clase/Desarrollo de software.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",

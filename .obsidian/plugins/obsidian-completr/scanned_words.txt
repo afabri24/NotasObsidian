@@ -106,6 +106,7 @@ DElete
 Diferentes
 Debemos
 Digital
+Data
 del
 de
 datos
@@ -328,6 +329,7 @@ decision
 digitalwrite
 digitalread
 delay
+duda
 maestro
 mortigoza
 mx
@@ -597,6 +599,8 @@ Markup
 Mensaje
 MIME
 Match
+Mining
+Machine
 Angel
 Actualidad
 AAA
@@ -744,6 +748,9 @@ Aceptado
 Aquitectura
 Aprobado
 Analogico
+Analysis
+Articulos
+Analytics
 Ortigaza
 Observacion
 OPTIONS
@@ -806,6 +813,9 @@ Organization
 OO
 Options
 OUTPUT
+Opinion
+Online
+Open
 Clemente
 Clases
 Crud
@@ -998,6 +1008,8 @@ Language
 Limite
 Listo
 LOW
+Learn
+Learning
 informatica
 integrador
 informaci
@@ -1553,6 +1565,7 @@ Edit
 EXC
 Error
 Entregado
+Educational
 Teams
 Temas
 TENER
@@ -1748,6 +1761,8 @@ Paralela
 Pedido
 Payara
 Palabras
+Processing
+Platform
 Introducci
 ICONIX
 Imprementacion
@@ -1843,6 +1858,7 @@ Int
 Inicializacion
 Instant
 INPUT
+Investigation
 alas
 almacena
 almacenar
@@ -2175,6 +2191,7 @@ analogwrite
 admin
 asisistio
 arbol
+analytics
 bases
 base
 buscar
@@ -2253,6 +2270,7 @@ borrados
 boolean
 binding
 bocina
+based
 NoSQL
 Normalmente
 NO
@@ -2331,6 +2349,8 @@ Ni
 Necesito
 NetBeans
 Net
+Natural
+NLP
 grndes
 grafos
 gesti
@@ -3117,6 +3137,7 @@ String
 Sistemas
 Sensores
 Solamente
+Sentiment
 teorico
 tico
 tiempo
@@ -5690,3 +5711,4 @@ YC
 YmOsI
 YpH
 YAML
+Youtube
