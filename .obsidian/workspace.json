@@ -54,9 +54,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b428eef35bf8f359",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiencia recepcional 2do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiencia recepcional 2do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Experiencia recepcional 2do.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,7 +231,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94c3bf6b948435be",
+  "active": "b428eef35bf8f359",
   "lastOpenFiles": [
     "Experiencia recepcional 2do.md",
     "Untitled 6.md",
