@@ -520,6 +520,7 @@ mixta
 mandarias
 marcar
 massive
+motd
 Miguel
 Mtr
 Manejo
@@ -1463,6 +1464,7 @@ usandola
 unicos
 unas
 usurios
+ulagos
 Eminus
 Evaluacion
 Examen
@@ -2286,6 +2288,7 @@ boolean
 binding
 bocina
 based
+banner
 NoSQL
 Normalmente
 NO
@@ -2867,6 +2870,7 @@ compone
 conectados
 constantes
 configura
+configure
 valor
 ver
 ventajas
@@ -3617,6 +3621,7 @@ pediente
 pin
 pines
 pinMode
+password
 las
 la
 limitados
@@ -4811,6 +4816,7 @@ simultaneamente
 sitos
 setup
 serian
+secret
 forma
 fissicos
 front
@@ -5029,6 +5035,7 @@ hacemos
 hola
 har
 high
+hostname
 Web
 WC
 Wireframe
@@ -5172,6 +5179,7 @@ windows
 webs
 with
 wrap
+write
 Responsiva
 Resultados
 Restricciones

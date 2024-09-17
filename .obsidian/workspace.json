@@ -59,8 +59,12 @@
             "id": "b428eef35bf8f359",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mori.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -131,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mori.md"
+              }
             }
           },
           {
@@ -233,6 +241,7 @@
   },
   "active": "b428eef35bf8f359",
   "lastOpenFiles": [
+    "Mori.md",
     "Experiencia recepcional 2do.md",
     "Untitled 6.md",
     "champs.md",
@@ -260,7 +269,6 @@
     "Notas De clase/Seguridad ejercicios.md",
     "Notas De clase/interfaces avanzadas.md",
     "Notas De clase/Integraciones de Soluciones.md",
-    "Notas De clase/Seguridad.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
