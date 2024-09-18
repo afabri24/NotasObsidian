@@ -12,13 +12,16 @@ secret password ulagos2024
 
 
 
+secret y password
+
+
 
 1 - Agregar configuraciones básicas:
 Hostname R1
         Hostname SW1
         Banner motd "Acceso restringido por sunombre"
-clave usuario: ulagos
-clave admin: ulagos.2024
+clave usuario: ulagos(apenas entrando)
+clave admin: ulagos.2024(enable)
 
 2 - Configuración de interfaces
     IP Router: 192.168.0.254 máscara de de red 255.255.255.0
