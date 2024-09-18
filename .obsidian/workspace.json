@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mori.md",
+                "file": "Experiencia recepcional 2do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mori.md",
+                "file": "Experiencia recepcional 2do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mori.md"
+                "file": "Experiencia recepcional 2do.md"
               }
             }
           },
@@ -249,10 +249,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b428eef35bf8f359",
+  "active": "94c3bf6b948435be",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "Mori.md",
+    "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "Experiencia recepcional 2do.md",
     "Untitled 6.md",
     "champs.md",
