@@ -109,6 +109,7 @@ Digital
 Data
 Design
 Deep
+DHCP
 del
 de
 datos
@@ -759,6 +760,7 @@ Articulos
 Analytics
 Approach
 Architectures
+Agregar
 Ortigaza
 Observacion
 OPTIONS
@@ -963,6 +965,8 @@ Computacion
 Cancelado
 Cuales
 Cual
+Configuraci
+Configurar
 Lic
 Las
 Lista
@@ -1580,6 +1584,9 @@ Educational
 Engineering
 Educators
 Emotion
+Excluir
+Exterior
+Explicaci
 Teams
 Temas
 TENER
@@ -1778,6 +1785,8 @@ Payara
 Palabras
 Processing
 Platform
+PCs
+Pool
 Introducci
 ICONIX
 Imprementacion
@@ -1874,6 +1883,10 @@ Inicializacion
 Instant
 INPUT
 Investigation
+ISP
+Interna
+IPs
+Interior
 alas
 almacena
 almacenar
@@ -2370,6 +2383,7 @@ Net
 Natural
 NLP
 Novel
+NAT
 grndes
 grafos
 gesti
@@ -2972,6 +2986,7 @@ valorPin
 void
 variantes
 volumes
+versi
 Bases
 BD
 BH
@@ -3037,6 +3052,7 @@ Boolean
 Boton
 Buscar
 Based
+Banner
 Servidor
 Systems
 Skateholder
@@ -3162,6 +3178,8 @@ Solamente
 Sentiment
 Social
 Sentimental
+SW
+SSH
 teorico
 tico
 tiempo
@@ -4223,6 +4241,7 @@ empleado
 espacido
 electronico
 estudantes
+excluir
 recopilaci
 recuperaci
 real
@@ -4445,6 +4464,9 @@ reporte
 realization
 resumes
 research
+restringido
+redISP
+redInterna
 organizada
 ordenado
 onsultar
@@ -4817,6 +4839,9 @@ sitos
 setup
 serian
 secret
+sunombre
+scara
+server
 forma
 fissicos
 front
@@ -5255,6 +5280,8 @@ Rechazado
 Rechazar
 Replicacion
 Recognition
+Router
+Red
 Generales
 Guiada
 Gu
@@ -5373,6 +5400,7 @@ Herencia
 Hacer
 HIGH
 Hecarim
+Hostname
 jerarqu
 jeV
 juegadores

@@ -66,6 +66,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66be5b5e2c000716",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -241,6 +251,7 @@
   },
   "active": "b428eef35bf8f359",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "Mori.md",
     "Experiencia recepcional 2do.md",
     "Untitled 6.md",
@@ -268,7 +279,6 @@
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Seguridad ejercicios.md",
     "Notas De clase/interfaces avanzadas.md",
-    "Notas De clase/Integraciones de Soluciones.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
