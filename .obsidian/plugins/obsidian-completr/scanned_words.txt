@@ -2222,6 +2222,7 @@ arbol
 analytics
 application
 article
+apenas
 bases
 base
 buscar
@@ -4242,6 +4243,7 @@ espacido
 electronico
 estudantes
 excluir
+entrando
 recopilaci
 recuperaci
 real
