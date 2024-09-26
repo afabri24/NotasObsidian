@@ -40,6 +40,7 @@ Experiencia recepcional 2do.md#Articulos#Using YouTube's Social Media Analytics 
 Experiencia recepcional 2do.md#Palabras clave:
 Experiencia recepcional.md
 Laptops.md
+Nat y dns.md
 Notas De clase/Bases de datos no convencionales.md
 Notas De clase/Bases de datos no convencionales.md#Datos del maestro
 Notas De clase/Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#AAA

@@ -23,16 +23,6 @@
             "id": "66be5b5e2c000716",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a66004018cb881c0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Nat y dns.md",
@@ -42,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,13 +204,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a66004018cb881c0",
+  "active": "66be5b5e2c000716",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
+    "Nat y dns.md",
     "Mori.md",
     "Experiencia recepcional 2do.md",
     "Untitled 6.md",
-    "Nat y dns.md",
-    "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "champs.md",
     "Untitled 5.md",
     "Untitled 4.md",
