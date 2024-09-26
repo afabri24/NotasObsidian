@@ -333,6 +333,7 @@ digitalwrite
 digitalread
 delay
 duda
+dns
 maestro
 mortigoza
 mx
@@ -1243,6 +1244,8 @@ independientes
 incorrecta
 incompleta
 intentar
+inside
+interface
 FEI
 Facilidad
 Fases
@@ -2223,6 +2226,7 @@ analytics
 application
 article
 apenas
+access
 bases
 base
 buscar
@@ -2886,6 +2890,7 @@ conectados
 constantes
 configura
 configure
+conf
 valor
 ver
 ventajas
@@ -3641,6 +3646,7 @@ pin
 pines
 pinMode
 password
+permit
 las
 la
 limitados
@@ -3894,6 +3900,7 @@ new
 name
 nombreDeVariable
 nombreConstante
+nat
 Qu
 Qui
 Qaq
@@ -4576,6 +4583,7 @@ omite
 orden
 orienta
 on
+overload
 que
 qu
 qn
@@ -5340,6 +5348,7 @@ GET
 Graficacion
 Guardar
 Graves
+GigabitEthernet
 HASTA
 Ha
 Hash
