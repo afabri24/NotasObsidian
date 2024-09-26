@@ -29,6 +29,15 @@ Excalidraw/PantallasWebAccesorias.excalidraw.md
 Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md
 Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md#Drawing
 Excalidraw/Video Introduccion Interfaces Usuario Avanzadas.md#Text Elements
+Experiencia recepcional 2do.md
+Experiencia recepcional 2do.md#Articulos#An Investigation of Learning Analytics in an Online Video-based Learning Platform
+Experiencia recepcional 2do.md#Articulos#Design and realization of an NLP application for the massive processing of large volumes of resumes
+Experiencia recepcional 2do.md#Articulos#Emotion Recognition on Social Media Using Natural Language Processing (NLP) Techniques
+Experiencia recepcional 2do.md#Articulos#Modeling a Novel Approach for Emotion Recognition Using Learning and Natural Language Processing
+Experiencia recepcional 2do.md#Articulos#Ontology-Based Natural Language Processing for Sentimental Knowledge Analysis Using Deep Learning Architectures
+Experiencia recepcional 2do.md#Articulos#Open Service for Video Learning Analytics
+Experiencia recepcional 2do.md#Articulos#Using YouTube's Social Media Analytics for Engineering Educators
+Experiencia recepcional 2do.md#Palabras clave:
 Experiencia recepcional.md
 Laptops.md
 Notas De clase/Bases de datos no convencionales.md
@@ -67,6 +76,9 @@ Union de Notas.canvas
 Untitled 1.md
 Untitled 2.md
 Untitled 3.md
+Untitled 4.md
+Untitled 5.md
+Untitled 6.md
 Untitled Kanban.md
 Untitled.canvas
 Untitled.md

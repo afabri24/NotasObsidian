@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "084c9bb942c74b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b07bbf67c7cb5ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d9123faeadba276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94c3bf6b948435be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiencia recepcional 2do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b428eef35bf8f359",
             "type": "leaf",
             "state": {
@@ -76,9 +28,21 @@
                 "file": "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "a66004018cb881c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nat y dns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiencia recepcional 2do.md",
+                "file": "Nat y dns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiencia recepcional 2do.md",
+                "file": "Nat y dns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiencia recepcional 2do.md"
+                "file": "Nat y dns.md"
               }
             }
           },
@@ -249,12 +213,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94c3bf6b948435be",
+  "active": "a66004018cb881c0",
   "lastOpenFiles": [
     "Mori.md",
-    "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "Experiencia recepcional 2do.md",
     "Untitled 6.md",
+    "Nat y dns.md",
+    "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "champs.md",
     "Untitled 5.md",
     "Untitled 4.md",
@@ -278,7 +243,6 @@
     "Notas De clase/Graficacion.md",
     "Notas De clase/Proyecto Integrador.md",
     "Notas De clase/Seguridad ejercicios.md",
-    "Notas De clase/interfaces avanzadas.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
