@@ -1,3 +1,5 @@
+
+para el dns deslpues del default router:
 dns-server 200.200.200.10
 
 
