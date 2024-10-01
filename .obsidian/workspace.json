@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa9f84b868773e65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nat y dns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nat y dns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nat y dns.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,10 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66be5b5e2c000716",
+  "active": "aa9f84b868773e65",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "Nat y dns.md",
+    "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "Mori.md",
     "Experiencia recepcional 2do.md",
     "Untitled 6.md",
