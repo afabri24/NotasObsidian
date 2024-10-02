@@ -1495,6 +1495,7 @@ unas
 usurios
 ulagos
 username
+us
 Eminus
 Evaluacion
 Examen
@@ -2335,6 +2336,7 @@ bocina
 based
 banner
 basica
+barbarian
 NoSQL
 Normalmente
 NO
@@ -4930,6 +4932,7 @@ seria
 ssh
 salir
 switch
+substance
 forma
 fissicos
 front
