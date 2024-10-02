@@ -66,6 +66,7 @@ Notas De clase/Seguridad ejercicios.md
 Notas De clase/Seguridad.md
 Notas De clase/interfaces avanzadas.md
 Notas trabajos.md
+Peliculas y series.md
 Prioridad casos de uso.md
 Prueba kanban.md
 README.md

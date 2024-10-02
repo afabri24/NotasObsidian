@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-completr:completr-fake-enter": [],
+  "obsidian-completr:completr-fake-arrow-up": [],
+  "obsidian-completr:completr-fake-arrow-down": [],
+  "obsidian-completr:completr-bypass-enter-key": [],
+  "obsidian-completr:completr-bypass-tab-key": [],
+  "obsidian-completr:completr-jump-to-next-snippet-placeholder": [],
+  "obsidian-completr:completr-insert-selected-suggestion": [],
+  "obsidian-completr:completr-fake-tab": []
+}

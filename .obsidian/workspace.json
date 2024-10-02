@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peliculas y series.md",
+                "file": "Experiencia recepcional 2do.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54f029a6b7b96556",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peliculas y series.md",
+                "file": "Experiencia recepcional 2do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peliculas y series.md",
+                "file": "Experiencia recepcional 2do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peliculas y series.md"
+                "file": "Experiencia recepcional 2do.md"
               }
             }
           },
@@ -217,16 +216,18 @@
   },
   "active": "aa9f84b868773e65",
   "lastOpenFiles": [
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Laptops.md",
+    "Experiencia recepcional.md",
+    "Peliculas y series.md",
     "Peliculas.md",
     "Nat y dns.md",
     "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "Mori.md",
     "Experiencia recepcional 2do.md",
-    "Untitled 6.md",
     "champs.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Laptops.md",
     "Untitled.md",
     "12c5a41cb52455d4dc2c93037bb0eaff_MD5.png",
     "Repaso para automatizacion.md",
@@ -241,10 +242,8 @@
     "Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md",
     "Untitled 2.md",
     "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
-    "Experiencia recepcional.md",
     "Servicio Social/Sistema web para accesorias.md",
     "Notas De clase/Graficacion.md",
-    "Notas De clase/Proyecto Integrador.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",

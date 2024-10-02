@@ -63,3 +63,12 @@ research-article
 https://dl-acm-org.ezproxy.uv.mx/doi/10.1145/3624012
 
 
+
+
+
+
+# Fechas:
+
+9 de Octubre de 2024 Primera entrega, incluye hasta a la sección de Metodología.
+16 de Octubre: Segunda entrega, incluye hasta el análisis cuantitativo, con burbujas y facetas.
+15 de noviembre: Entrega de documento de revisión del estado del arte, incluye análisis cualitativo.

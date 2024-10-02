@@ -624,6 +624,7 @@ Mining
 Machine
 Media
 Modeling
+MacBook
 Angel
 Actualidad
 AAA
@@ -777,6 +778,7 @@ Analytics
 Approach
 Architectures
 Agregar
+Acer
 Ortigaza
 Observacion
 OPTIONS
@@ -843,6 +845,7 @@ Opinion
 Online
 Open
 Ontology
+Octubre
 Clemente
 Clases
 Crud
@@ -984,6 +987,8 @@ Cual
 Configuraci
 Configurar
 Configuracion
+Chip
+CPU
 Lic
 Las
 Lista
@@ -1040,6 +1045,7 @@ Listo
 LOW
 Learn
 Learning
+Laptop
 informatica
 integrador
 informaci
@@ -1344,6 +1350,7 @@ Fieldieng
 Febrero
 Funcionamendiante
 Funcional
+Fechas
 UV
 UFM
 Una
@@ -1614,6 +1621,7 @@ Emotion
 Excluir
 Exterior
 Explicaci
+Entrega
 Teams
 Temas
 TENER
@@ -2337,6 +2345,7 @@ based
 banner
 basica
 barbarian
+burbujas
 NoSQL
 Normalmente
 NO
@@ -2505,6 +2514,7 @@ gmail
 gefos
 gina
 generate
+gb
 cantisdades
 clave
 columnas
@@ -2931,6 +2941,8 @@ conecte
 configurar
 conectado
 cyberpunk
+cuantitativo
+cualitativo
 valor
 ver
 ventajas
@@ -3230,6 +3242,7 @@ Social
 Sentimental
 SW
 SSH
+Segunda
 teorico
 tico
 tiempo
@@ -3958,6 +3971,7 @@ nombreConstante
 nat
 network
 nominio
+noviembre
 Qu
 Qui
 Qaq
@@ -4934,6 +4948,8 @@ ssh
 salir
 switch
 substance
+ssd
+secci
 forma
 fissicos
 front
@@ -5074,6 +5090,7 @@ faltantes
 fuertemente
 fisicamente
 fastEthernet
+facetas
 humana
 haga
 hacer
@@ -5380,6 +5397,8 @@ Replicacion
 Recognition
 Router
 Red
+Ryzen
+Ram
 Generales
 Guiada
 Gu
@@ -5437,6 +5456,7 @@ Graficacion
 Guardar
 Graves
 GigabitEthernet
+GB
 HASTA
 Ha
 Hash
