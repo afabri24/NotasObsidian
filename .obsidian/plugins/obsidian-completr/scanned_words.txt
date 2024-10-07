@@ -1709,6 +1709,7 @@ TextView
 Transaccional
 TW
 Techniques
+Trabajos
 Programa
 Porcentajes
 Practicas
@@ -1822,6 +1823,7 @@ Processing
 Platform
 PCs
 Pool
+Propuesta
 Introducci
 ICONIX
 Imprementacion
@@ -2943,6 +2945,7 @@ conectado
 cyberpunk
 cuantitativo
 cualitativo
+conclusion
 valor
 ver
 ventajas
@@ -5091,6 +5094,7 @@ fuertemente
 fisicamente
 fastEthernet
 facetas
+futuros
 humana
 haga
 hacer
