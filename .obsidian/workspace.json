@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb5e27975ff85554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hola.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiencia recepcional 2do.md",
+                "file": "Hola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiencia recepcional 2do.md",
+                "file": "Hola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiencia recepcional 2do.md"
+                "file": "Hola.md"
               }
             }
           },
@@ -214,8 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa9f84b868773e65",
+  "active": "cb5e27975ff85554",
   "lastOpenFiles": [
+    "Hola.md",
+    "Experiencia recepcional 2do.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
@@ -226,7 +240,6 @@
     "Nat y dns.md",
     "Excalidraw/Drawing 2024-09-17 17.54.21.excalidraw.md",
     "Mori.md",
-    "Experiencia recepcional 2do.md",
     "champs.md",
     "Untitled.md",
     "12c5a41cb52455d4dc2c93037bb0eaff_MD5.png",
@@ -243,7 +256,6 @@
     "Untitled 2.md",
     "Notas De clase/Metodología de Desarrollo Angel Fabrizio Franyutti Pulido.md",
     "Servicio Social/Sistema web para accesorias.md",
-    "Notas De clase/Graficacion.md",
     "d3afcfbcca0938714fb91a770340dd6e_MD5.png",
     "947c4619f9af20436e3925740f9c93a1_MD5.png",
     "5c56e3944bd9c73ecc27e0792354a52c_MD5.png",
