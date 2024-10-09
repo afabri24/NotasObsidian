@@ -4,14 +4,11 @@
 
 Learn analytics
 Social Media analytics
-Web analytics
 Natural Language Processing(NLP)
 Opinion Mining
 Sentiment Analysis
-Machine Learning
 Educational Data Mining
-
-duda: Youtube
+YouTube
 
 # Articulos
 
