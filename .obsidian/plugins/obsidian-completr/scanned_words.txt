@@ -2348,6 +2348,7 @@ banner
 basica
 barbarian
 burbujas
+beans
 NoSQL
 Normalmente
 NO
@@ -3975,6 +3976,7 @@ nat
 network
 nominio
 noviembre
+net
 Qu
 Qui
 Qaq
