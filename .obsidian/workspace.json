@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiencia recepcional 2do.md",
+                "file": "Hola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiencia recepcional 2do.md",
+                "file": "Hola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiencia recepcional 2do.md"
+                "file": "Hola.md"
               }
             }
           },
@@ -226,10 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa9f84b868773e65",
+  "active": "cb5e27975ff85554",
   "lastOpenFiles": [
-    "Hola.md",
     "Experiencia recepcional 2do.md",
+    "Hola.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
