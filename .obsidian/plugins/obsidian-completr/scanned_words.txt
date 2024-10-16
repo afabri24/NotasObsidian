@@ -2947,6 +2947,7 @@ cyberpunk
 cuantitativo
 cualitativo
 conclusion
+celeste
 valor
 ver
 ventajas
@@ -5326,6 +5327,7 @@ webs
 with
 wrap
 write
+wallpaper
 Responsiva
 Resultados
 Restricciones
