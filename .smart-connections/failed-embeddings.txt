@@ -39,6 +39,7 @@ Experiencia recepcional 2do.md#Articulos#Open Service for Video Learning Analyti
 Experiencia recepcional 2do.md#Articulos#Using YouTube's Social Media Analytics for Engineering Educators
 Experiencia recepcional 2do.md#Palabras clave:
 Experiencia recepcional.md
+Hola.md
 Laptops.md
 Nat y dns.md
 Notas De clase/Bases de datos no convencionales.md
@@ -48,6 +49,7 @@ Notas De clase/Bases de datos no convencionales.md#Introducción a las bases de 
 Notas De clase/Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#Modelo de base de datos relacionales
 Notas De clase/Bases de datos no convencionales.md#Introducción a las bases de datos no convencionales#¿Qué es una base de datos?
 Notas De clase/Bases de datos no convencionales.md#Programa#Temas
+Notas De clase/Casos de uso que ando haciendo.md
 Notas De clase/Desarrollo de software.md
 Notas De clase/Desarrollo de software.md#Medologia ICONIX#Analisis de requisitos:
 Notas De clase/Desarrollo de software.md#Medologia ICONIX#Carateristicas Generales:
@@ -73,6 +75,7 @@ README.md
 Repaso para automatizacion.md
 Seguridad ejercicios.md
 Servicio Social/Aplicación de escritorio para el registro de usuarios del CIX.md
+Servicio Social/Casos de uso que ando haciendo.md
 Servicio Social/Sistema web para accesorias.md
 Union de Notas.canvas
 Untitled 1.md
